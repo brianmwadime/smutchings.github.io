@@ -1,0 +1,13 @@
+---
+layout: post
+title: '#twitPong'
+date: 2011-03-14 14:25:16.000000000 +01:00
+---
+<img src="http://patrick.heneise.de/wp-content/uploads/2011/03/Mentor_TG_20_Sport-150x150.jpg" alt="" title="Mentor_TG_20_Sport" width="150" height="150" class="alignleft size-thumbnail wp-image-168" />
+<p>Today we tried another social <a href="http://twitter.com">twitter experiment</a> in the lecture <a href="http://www.nmnt.nl">New Media, New Technology</a> within our MSc program Media Technology called "twitPong". <a href="http://twitter.com/#!/web_martin">Martin Weber (@web_martin)</a> and me modified a "Mentor TG20 Sport Console" (the Nintento Wii of 1977) to work with tweets. The idea is that players send a tweet in the format "#twitPong #roundX #playerX value" to the social microblogging service. A <a href="http://processing.org/">processing.org</a> application receives the twitter stream for the #twitPong-hashtag and sends the values for the player and the position of the paddle to an <a href="http://www.arduino.cc/">Arduino Duemilanove</a>.</p>
+<img src="http://patrick.heneise.de/wp-content/uploads/2011/03/Screen-shot-2011-03-14-at-11.37.23-150x150.png" alt="" title="Screen shot 2011-03-14 at 11.37.23" width="150" height="150" class="alignright size-thumbnail wp-image-171" />
+<p>For the big demo we had about 6 players, everybody could decide to play as #p1 or #p2 and send values between 1 and 14 to twitter, were 7 was the middle, 14 the top and 1 the bottom. After the Arduino it got tricky and low-budget with the hardware to control the paddles: the Arduino set a PWM port for each player which lights an LED. In front of the LED there was a light sensor which acted as potentiometer/resistor for the paddle controllers, which we disassembled for that purpose. You can watch the full presentation at <a href="http://vimeo.com/patrickheneise/twitpong">vimeo</a>. Enjoy.</p>
+
+<h3>Demo</h3>
+<p>
+[vimeo http://www.vimeo.com/21015472 w=480&h=270]</p>
