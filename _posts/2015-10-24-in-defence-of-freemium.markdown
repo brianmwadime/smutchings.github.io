@@ -36,7 +36,7 @@ Some applications have built their business model on this. They provide a basic 
 
 Some games have started to use this model for customisation. [Shooty Skies](http://shootyskies.com), a recent vertical shooter from [the team behind Crossy Road](http://mightygamesgroup.com), is totally free to play. You can play as many times as you like for as long as you like, without ever paying a penny. But, if you’d like to purchase a specific special character, because you like the way they look, you can pay a nominal fee (£0.79 in the UK) to unlock that character. When you purchase, you sometimes get some free in-game coins to spend in the claw machine to unlock further characters.
 
-![In Shooty Skies, you can pay to unlock characters with money or use the freely earned in-game coins](/im/g/shootyskiesclawmachine.png)
+![In Shooty Skies, you can pay to unlock characters with money or use the freely earned in-game coins](/img/shootyskiesclawmachine.png)
 
 ## Pay to Expedite
 
