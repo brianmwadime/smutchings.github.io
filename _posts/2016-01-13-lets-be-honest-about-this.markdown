@@ -29,7 +29,7 @@ We all work in different ways. In an effort to control my life and not spend all
 
 I currently use the following tools:
 
-## Harvest
+### Harvest
 
 [I use Harvest for time tracking, expense reporting, invoicing, and payments.](http://try.hrv.st/8-72883) Time is tracked using the OS X or iOS application and is used to check the actual time worked against the estimates given at the beginning of the project. This often will not affect the price you pay, but will allow me to better understand the time taken to do different tasks.
 
