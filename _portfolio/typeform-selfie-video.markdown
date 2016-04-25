@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typeform
-description: "Selfie" video script
+description: Selfie video script
 img: 
 ---
 
