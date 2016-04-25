@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 I help you and your business sell more by better understanding the market in which you operate. Get to know your customers, competitors and market in a way you've never done before. Whether you're looking for more customers, help selling, or a new pricing strategy, I'm here for you.
 
-I've worked with companies like Telefonica UK, Typeform, Need/Want, and more to help them sell more in an ethical and moral way, by understanding the people coming through their doors or to their websites. If you'd like to start a conversation with me about improving your business, get in touch!
+I've worked with companies like Telefonica UK, Typeform, Need/Want, and more to help them sell more in an ethical and moral way, by understanding the people coming through their doors or to their websites.
 
 
 <br/>
