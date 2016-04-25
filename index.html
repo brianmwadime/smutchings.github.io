@@ -25,13 +25,13 @@ layout: default
 
 <!-- Pagination links -->
 <div class="pagination">
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span><br />
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span><br />
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a><br />
+        <span class="pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous">Previous</a></span><br />
     {% else %}
     {% endif %}
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <span class="pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next</a></span>
     {% else %}
     {% endif %}
 </div>
