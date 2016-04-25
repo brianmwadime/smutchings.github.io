@@ -2,7 +2,7 @@
 layout: post
 title: Spark by Readdle
 description: App Launch
-img: 
+img: /img/king-com.jpg
 ---
 
 Spark is a new app for managing your email on the go. Quickly see which emails are important with a smart inbox that auto-sorts email based on who it’s from and what it’s about. Reply to email with just a tap, using Quick Replies. Be notified only when you receive an important email with Smart Notifications. Even deal with email from your wrist with Smart Notifications, Quick Replies and Dictation on Apple Watch.

@@ -2,7 +2,7 @@
 layout: post
 title: Realising Designs
 description: Website Rewrite
-img:
+img: /img/king-com.jpg
 ---
 
 James of Realising Designs asked me to give a fresh feel to the copy for his company’s website. Based in Whitstable and Canterbury, in my home county of Kent in England, we focussed the copy on local businesses and the benefits Realising Designs can bring them. Check out the full site at http://www.realisingdesigns.com.
