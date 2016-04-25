@@ -1,6 +1,0 @@
----
-layout: post
-title: Updates!
-date: 2014-09-10 17:26:19.000000000 +02:00
----
-Somewhere in the deeps of the interwebs I found a copy of my old wordpress blog which I thought lost. There might be some issues with images and broken links, but I'll go through the archive and update the articles as best as I can, bear with me.
