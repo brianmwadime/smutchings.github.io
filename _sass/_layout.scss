@@ -142,26 +142,32 @@ font-size: 36px;
 .post-content {
 h2 {
 font-size: 42px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
 @include media-query($on-laptop) {
 font-size: 28px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
         }
     }
 h3 {
 font-size: 30px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
 @include media-query($on-laptop) {
 font-size: 22px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
         }
     }
 h4 {
 font-size: 20px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
 @include media-query($on-laptop) {
 font-size: 18px;
-margin-bottom: 1em;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
         }
     }
 }
