@@ -2,7 +2,7 @@
 layout: post
 title: Typeform
 description: Selfie video script
-img: /img/3.jpg
+img: /img/three.jpg
 ---
 
 I worked closely with the team at Typeform.com to create a script for their new ‘Selfie’ video, highlighting what it is like to work at Typeform. We focussed on the diverse team, the great location (Barcelona) and the run aspects of the company. Check it out below!
