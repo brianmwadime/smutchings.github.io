@@ -7,20 +7,19 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I help you and your business sell more by better understanding the market in which you operate. Get to know your customers, competitors and market in a way you've never done before. Whether you're looking for more customers, help selling, or a new pricing strategy, I'm here for you.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I've worked with companies like Telefonica UK, Typeform, Need/Want, and more to help them sell more in an ethical and moral way, by understanding the people coming through their doors or to their websites. If you'd like to start a conversation with me about improving your business, get in touch!
 
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:hi@samhutchings.co"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/Smutchings" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/Smutchings" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://twitter.com/Smutchings" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
