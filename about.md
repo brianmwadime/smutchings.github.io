@@ -22,7 +22,3 @@ I've worked with companies like Telefonica UK, Typeform, Need/Want, and more to 
 	<a href="https://twitter.com/Smutchings" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
-
