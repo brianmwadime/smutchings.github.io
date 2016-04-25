@@ -25,5 +25,3 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-
-
