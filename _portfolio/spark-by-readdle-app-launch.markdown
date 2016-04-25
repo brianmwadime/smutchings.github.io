@@ -26,5 +26,5 @@ Sam did a great job working with us on the copy for Spark. He was very responsiv
 
 ---
 
-<img src="/img/readdle.com_products_spark.png">
+<img src="/img/readdle_com_products_spark.png">
  
