@@ -149,17 +149,19 @@ line-height: 44px;
 font-size: 28px;
 margin-top: 1em;
 margin-bottom: 0.5em;
-line-height: 44px;
+line-height: 30px;
         }
     }
 h3 {
 font-size: 30px;
 margin-top: 1em;
 margin-bottom: 0.5em;
+line-height: 32px;
 @include media-query($on-laptop) {
 font-size: 22px;
 margin-top: 1em;
 margin-bottom: 0.5em;
+line-height: 24px;
         }
     }
 h4 {
