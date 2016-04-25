@@ -1,0 +1,96 @@
+---
+layout: post
+title: Thoughts on Wearable Tech
+date: '2014-03-02 21:43:00'
+---
+
+It's long been the dream of many a technophile - a gadget small enough that you can wear it, but powerful enough to augment your very existence. The wrist computers & [heads-up display](http://en.wikipedia.org/wiki/Head-up_display) (HUD) visors we've seen in movies representing a technological nirvana, where everything and everyone is augmented and assisted by technology and the information that can provide.
+
+### On Your Wrist
+#### The Calculator Watch
+As a kid, you either had one of these or you sorely wanted one. Possibly the earliest ancestor of the modern smart watch, it was a calculator on your wrist; perfect for cheating in exams and maths lessons.
+
+First produced by Pulsar and Hewlett Packard in the mid '70s, their hey-day was in the mid 1980s. A feature war began, and the likes of Casio joined the fray, bringing such things as the CFX-400 scientific calculator wristwatch with them.
+
+Threatened by the PDAs of the early 2000s, and the smartphones of today, calculator watches are nowhere near as popular as they once were, but you can still spot one or two out and about - often long in the tooth, and a while since they last were used to cheat on an exam.
+
+#### SPOT
+Wearable technology has been around for a while. A decade ago, in 2004, Microsoft introduced SPOT - Smart Personal Objects Technology - which allowed devices to be kept up to date using FM radio broadcast signals (called MSN Direct). It was immediately built into watches, with big companies like Fossil, Swatch and Tissot jumping on board.
+
+Garmin later used the service to update their GPS units, and there were even coffee machines that used SPOT to keep us updated whilst we waited.
+
+SPOT had its problems:
+
+* You had to pay $59 a year for the service
+* It only worked in about 100 metropolitan areas in the USA and Canada
+* Wi-Fi & Cellular technology lead frogged the FM technology utilised by SPOT, meaning it quickly became outpaced and outdated.
+
+Microsoft discontinued the service on December 31st 2011, rendering the watches, GPS units and coffee machines that had used the technology SPOT-less.
+
+### On Your Face
+#### The Virtual Boy
+Released in July 1995, Nintendo's Virtual Boy was the companies first - and only - attempt at wearable gaming.
+
+Consisting of a table mounted set of goggles and a gamepad, gamers would sit and look into the visor, the game projected in front of them on a monochrome screen. The experience disorientated many, and led to it being known for causing sea-sickness like symptons. 
+
+Nintendo only ever made 77,000 of the machines, and discontinued the Virtual Boy just 8 months after launch, in July 1996. Only 22 games were made for the device, and Nintendo have more recently labelled the Virtual Boy as a failure.
+
+### The World of Fiction
+The fictional world is full of examples of wearable tech. Many of these will inspire future devices. From communicator watches and badges, to fully connected exoskeletons, the world of the imagination is not constrained by real-world limitations. 
+#### Geordie's Visor - Star Trek
+It's the 24th Century, and the Starship Enterprise NCC-1701 is tasked with exploring the galaxy seeking out new life and new civilisations. Heading up the engineering team is promising Chief Engineer Geordie LaForge.
+
+Geordie is blind. He wears a visor, linked to his brain through ports on each side of his head, that allows him to see. He can see the same as any human, as in differing wavelengths of light, with augmentations such as magnification. 
+
+Think of it as Google Glass 402.0
+#### Tarunga Leela's Wrist Computer - Futurama
+Futurama, like anything made by Matt Groening and his team, is a great mix of fantasy, comedy, and actual fact. The show isn't too serious, but some of the concepts and easter eggs in the show are based entirely on real concepts and advancements. 
+
+The captain of the Planetary Express cargo ship, is one Tarunga Leela, a cyclopian humanoid. She has on her wrist here trusty Wrist Computer. It's filled with tonnes of features, and more are added as the mission or episode requires. Think of it as an iWatch on steroids. 
+
+#### Iron Man - Marvel Comics
+The Ultimate in wearable technology has to come from the world of Marvel Comics. After his convey is attacked, Tony Stark is left with shrapnel moving ever closer to puncturing his heart, and finds himself in a terrorist compound in the desert. 
+
+Forced to create weapons for the terrorists, he works on something a bit different. First he makes an Arc Reactor ("from scraps, in a cave!") to fit into his chest, to power a magnet to keep the shrapnel from entering his heart and killing him. 
+
+To escape his captors, he uses the weapons they have captured to create a powered exoskeleton, the Mark 1 Iron Man Suit. 
+
+Through years of comics, an animated TV show and a film franchise, Tony Stark has made dozens of these Iron Man armours, each one varying in complexity and features. They're the ultimate in wearable technology, and the envy of every geek on the planet. 
+
+## Back to the Present
+### Google Glass
+Google started with an intriguing idea: make it really easy to have the world's information in front of your eyes, and use that information to augment your life. 
+
+Google Glass connects to your mobile phone via Bluetooth, and uses the data connection from your phone to connect to Google servers. It can then stream information to right in front of your face, as well as respond to your voice, the environment around you, and what you can see. 
+
+The use-cases are endless, but the creepiness is putting some off. From apps that show you your partners point-of-view mid-coitous, to the fact you can snap a photo of anything you can see, the execuation of the project hasn't yet matched the life-improving goal it began with. 
+
+### Samsung Galaxy Gear
+Samsung were one of the first big players to enter the Smartwatch market (especially if, like most people, you forget that Sony had made about three of them by this point). 
+
+The Galaxy Gear was little more than a way to answer your phone, control your music, snap pictures, and find your phone when you drop it whilst letching [on a girl in a bar](http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDEQtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT8nJKWJTsUg&ei=PJ4TU86IG6ya1AW3q4HQAg&usg=AFQjCNGd7X97vf7hsR0rfSjO4SyNLupbxg&sig2=d5VL0zn3MBy4UC8LmepxsQ&bvm=bv.62286460,d.d2k. )
+
+Samsung has just released an updated version, dropping the Galaxy name and going just with Gear as it now runs Tizen and not Android, in 3 SKUs - Gear, Gear Neo and Gear Fit.
+
+### Pebble Smartwatch
+The first Smartwatch to truly get people excited, the Pebble smashed through its funding goal on Kickstarter. The premise is simple, connect through Bluetooth to your Android or iOS device and display notifications on the black and white LCD screen, whilst letting the buttons around the edge of the device give rudimentary control of the connected device. 
+
+Pebble has now expanded this functionality, helped with updates in Android and iOS 7, and added an App store, letting you download new applications for the Pebble. 
+
+### Oculus Rift
+The Oculus Rift is the spiritual successor of the Virtual Boy. A wearable headset which immerses you in a virtual world - be it a film, a game, or (as [@ShaneHudson requests](http://www.twitter.com/ShaneHudson)) a Word document.
+
+This visual immersion, when mixed with high quality sound and a mechanism for letting the user move without moving, could be the short term future of virtual reality. Imagine being able to walk around places you've never been, explore the set of a film in the DVD extras, or being able to run around a battlefield as a soldier in Call of Duty or Battlefield. 
+
+## Conclusion
+Wearable devices have come a long way since the calculator watched of the mid 20th century, but they've still a long way to go. 
+
+Devices such as Google Glass need to answer the questions about what data is correct to be sent at the right time, and the etiquette of having an always connected, all hearing and seeing device strapped to your face. Not to mention what happens when you're in control of a vehicle with a constant visual distration sat inches from your eye. 
+
+The smartwatch hasn't truly caught on, and I don't think it will until we see something that truly redefines what it means. Current smartwatches are too much like actual watches, and aren't smart enough. It's going to take a company that knows how to design things without being constrained by dogma to make something that doesn't suck. (I wonder who that could be ;) )
+
+Devices such as the Oculus Rift need to be expanded so that we can use them without having to wear a helmet. We need something like the Holodeck in Star Trek, where people can interact with computer simulations but don't have to be alone. We're a creature that likes to interact with others, and being stuck in a video bubble doesn't really fulfil that. 
+
+Steps are being taken in the right direction. Beyond some questions on feasability, functionalitity and acceptability, we're marching towards a wearable world. The next 10 years are going to be interesting as this trend plays out and becomes the norm, and I'm quite excited to see what comes of it. 
+
+- S
