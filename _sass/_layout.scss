@@ -102,13 +102,11 @@ a {
 color: $theme-color;
     }
 }
-.pagination-next {
-    width: 100%;
-    text-align: left;
+.pagination-previous {
+    float: left;
 }
 .pagination-next {
-    width: 100%;
-    text-align: right; 
+    float: right; 
 }
 /**
  * Page content   **********************************************************
