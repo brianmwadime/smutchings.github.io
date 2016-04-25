@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I help you and your business sell more by better understanding the market in which you operate. Get to know your customers, competitors and market in a way you've never done before. Whether you're looking for more customers, help selling, or a new pricing strategy, I'm here for you.
+Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. I'm happy working alone, as part of a team, or running a project.
 
-I've worked with companies like Telefonica UK, Typeform, Need/Want, and more to help them sell more in an ethical and moral way, by understanding the people coming through their doors or to their websites.
+If you're looking for someone to write long-form content for you, I'm not your guy. But I'm happy to bring a team together to help you achieve your goals, whatever they may be.
 
 
 <br/>
