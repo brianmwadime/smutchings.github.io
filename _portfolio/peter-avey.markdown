@@ -1,0 +1,11 @@
+---
+layout: post
+title: Peter Avey
+description: Site Copy
+img: /img/peter-avey-img.jpeg
+---
+
+Peter asked me to write the copy for his new portfolio. Shortly after launch, Peter was snapped up by a firm in Dubai.
+
+<img src="/img/Peter-Avey-Visual-Designer-Portsmouth-Web-Design.jpg">
+ 
