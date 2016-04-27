@@ -10,7 +10,7 @@ permalink: /portfolio/
 
     {% if project.redirect %}
       <li class="img-grid__item">
-        <a href="{{ project.redirect }}" target="_blank">
+        <a href="{{ project.redirect }}">
             {% if project.img %}
               <img src="{{ project.img }}">
             {% else %}
@@ -27,7 +27,7 @@ permalink: /portfolio/
     {% else %}
 
       <li class="img-grid__item">
-        <a href="{{ site.baseurl }}" target="_blank">
+        <a href="{{ site.baseurl }}{{ project.url }}">
             {% if project.img %}
               <img src="{{ project.img }}">
             {% else %}
