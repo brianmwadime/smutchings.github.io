@@ -4,9 +4,9 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-<ul class="img-grid">
-
-  {% for project in site.portfolio %}
+{% for project in site.portfolio %}
+  
+  <ul class="img-grid">
 
     {% if project.redirect %}
       <li class="img-grid__item">
@@ -42,8 +42,7 @@ permalink: /portfolio/
       </li>
       
     {% endif %}  
-
-
-</ul>
+    
+    </ul>
 
 {% endfor %}
