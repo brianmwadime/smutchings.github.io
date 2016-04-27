@@ -4,10 +4,10 @@ title: portfolio
 permalink: /portfolio/
 ---
 
+<ul class="img-grid">
+
 {% for project in site.portfolio %}
   
-  <ul class="img-grid">
-
     {% if project.redirect %}
       <li class="img-grid__item">
         <a href="{{ project.redirect }}">
@@ -41,8 +41,8 @@ permalink: /portfolio/
         </a>
       </li>
       
-    {% endif %}  
-    
-    </ul>
+    {% endif %}
 
 {% endfor %}
+
+</ul>
