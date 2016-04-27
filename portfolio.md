@@ -19,7 +19,7 @@ permalink: /portfolio/
 
             <div class="img-grid__overlay">
               <h1>{{ project.title }}</h1>
-              <p> {{ project.description }} </p>
+              <p>{{ project.description }}</p>
             </div>
         </a>
       </li>
@@ -36,7 +36,7 @@ permalink: /portfolio/
 
             <div class="img-grid__overlay">
               <h1>{{ project.title }}</h1>
-              <p> {{ project.description }} </p>
+              <p>{{ project.description }}</p>
             </div>
         </a>
       </li>
