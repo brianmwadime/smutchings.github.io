@@ -12,7 +12,7 @@ permalink: /portfolio/
       <li class="img-grid__item">
         <a href="{{ project.redirect }}" target="_blank">
             {% if project.img%}
-              <img src="{{project.img}}}">
+              <img src="{{project.img}}">
             {% else %}
               <div class="thumbnail blankbox"></div>
             {% endif %}
@@ -29,7 +29,7 @@ permalink: /portfolio/
       <li class="img-grid__item">
         <a href="{{ site.baseurl }}" target="_blank">
             {% if project.img%}
-              <img src="{{project.img}}}">
+              <img src="{{project.img}}">
             {% else %}
               <div class="thumbnail blankbox"></div>
             {% endif %}
