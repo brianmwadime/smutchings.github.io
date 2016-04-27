@@ -269,7 +269,7 @@ display: block;
 		}
 		.img-grid img {
 			display: block;
-      max-width: 230px;
+      max-width: 200px;
       margin: 0 auto;
 		}
 		.img-grid li:nth-child(odd) {
@@ -309,7 +309,7 @@ display: block;
 }
 .img-grid__overlay {
   display: none;
-  max-width: 230px;
+  max-width: 200px;
   max-height: 230px;
   margin: 0 auto;
   position: absolute;
