@@ -2,6 +2,8 @@
 layout: post
 title: Get the words right
 date: '2013-10-01 10:00:00'
+description: Before you release your App to the great wide world, make sure that the message it conveys is the one you want your users to hear
+meta-description: Before you release your App to the great wide world, make sure that the message it conveys is the one you want your users to hear
 ---
 
 You’ve got the best idea in the world. Nobody has done it before, you’ve got it just right. Your designers have scrutinised every pixel, making sure not a single one is out of place. Your developers have triple checked every line of code, nothing can possibly cause a bug. Your ready to launch, right? Wrong.

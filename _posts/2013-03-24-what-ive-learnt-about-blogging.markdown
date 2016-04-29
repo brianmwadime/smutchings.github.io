@@ -2,6 +2,8 @@
 layout: post
 title: What I've learnt about blogging
 date: '2013-03-24 12:00:00'
+description: I've blogged on and off now for a couple of years, and I thought I'd share some of the lessons I've learnt.
+meta-description: I've blogged on and off now for a couple of years, and I thought I'd share some of the lessons I've learnt.
 ---
 
 I've blogged on and off now for a couple of years, and I thought I'd share some of the lessons I've learnt. Observations of what seems to have worked on my blog. 

@@ -2,6 +2,8 @@
 layout: post
 title: F%&K IT!
 date: '2013-11-15 22:41:13'
+description: What's next?
+meta-description: What's next?
 ---
 
 Since leaving my job at Apple Europe in August of this year, I've spent the last 2 months moping and wondering what to do with myself. I've been trying to work out what to do next, and where I'm headed. I've been waiting for something to come along, I've applied for a couple of jobs, and I've just coasted along on the remaining funds I had from working for the last 5 years. 

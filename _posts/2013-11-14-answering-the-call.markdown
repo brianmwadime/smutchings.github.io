@@ -2,6 +2,8 @@
 layout: post
 title: Answering the Call
 date: '2013-11-14 16:55:04'
+description: What if there was an easy way to book calls and meetings?
+meta-description: What if there was an easy way to book calls and meetings?
 ---
 
 It can be a right pain, trying to organise one-to-one meetings and calls. Emailing back and forth with people trying to lock down a time can take longer than the call itself. What if there was an easy way to do this?

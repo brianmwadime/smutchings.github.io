@@ -2,6 +2,8 @@
 layout: post
 title: ¡Hola Typeform!
 date: '2014-02-28 19:07:30'
+description: I've something to announce. Something some of you may already know.
+meta-description: I've something to announce. Something some of you may already know.
 ---
 
 I've something to announce. Something some of you may already know.

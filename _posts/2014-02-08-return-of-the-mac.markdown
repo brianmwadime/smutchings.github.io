@@ -2,6 +2,8 @@
 layout: post
 title: Return of the Mac
 date: '2014-02-08 15:00:00'
+description: In an iPhone world, what's happening with the Mac?
+meta-description: In an iPhone world, what's happening with the Mac?
 ---
 
 Upon his return to Apple in 1997, Steve Jobs did something drastic. He culled dozens of projects, some very close to release, so that he could focus on the future of Apple. 

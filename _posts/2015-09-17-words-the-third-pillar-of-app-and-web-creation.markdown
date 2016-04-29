@@ -3,6 +3,7 @@ layout: post
 title: Words - The Third Pillar of App and Web Creation
 date: 2015-09-17 18:06:00
 description: Written in a language we use everyday, the content and copy present in a UI, or in content, is incredibly powerful.
+meta-description: Written in a language we use everyday, the content and copy present in a UI, or in content, is incredibly powerful.
 ---
 Take a moment and think of your favourite website or application. It could be something mainstream, like Google or Facebook, or it might be something much more niche. It could be part of a bigger website, like a particular subreddit. Now, imagine it without any words. None whatsoever. Is it still your favourite website? Does it still add any value to you?
 

@@ -3,6 +3,7 @@ layout: post
 title: Writing For Differing Interests
 date: 2015-10-11 18:43:00
 description: There is a theory about intelligence that takes us away from our common understanding and thoughts on the subject. 
+meta-description: There is a theory about intelligence that takes us away from our common understanding and thoughts on the subject. 
 ---
 There is a theory about intelligence that takes us away from our common understanding and thoughts on the subject. Rather than a general intelligence, the one we like to measure and compare with IQ tests, this theory states that there are 8 or so intelligences, primarily sensory, and that each individual may excel or lag in each of the intelligences individually. This is the “[Theory of Multiple Intelligences](https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)”.
 

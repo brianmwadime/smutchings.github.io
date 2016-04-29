@@ -2,6 +2,8 @@
 layout: post
 title: What makes you itch?
 date: '2014-03-08 13:20:54'
+description: Make something. Cause waves. Look to tomorrow!
+meta-description: Make something. Cause waves. Look to tomorrow!
 ---
 
 Thank about that for a second. Write it down if you have to. Sure that's what you want? Then do it!

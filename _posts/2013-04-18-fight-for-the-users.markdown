@@ -2,6 +2,8 @@
 layout: post
 title: Fight For The Users!
 date: '2013-04-18 10:00:00'
+description: Customers are the most vital part of your business.
+meta-description: Customers are the most vital part of your business. You can’t survive if everyone who uses your platform just ups and leaves.
 ---
 
 Customers are the most vital part of your business. You can survive without an in-house developer. You can survive by outsourcing a designer if yours leaves. You can survive if an investor decides to pull out. You can’t survive if everyone who uses your platform just ups and leaves.

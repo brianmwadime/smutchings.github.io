@@ -2,6 +2,8 @@
 layout: post
 title: '"The bloody ROI"'
 date: '2014-03-02 20:42:49'
+description: "I don't consider the bloody ROI."
+meta-description: "I don't consider the bloody ROI."
 ---
 
 When Steve Jobs passed in October of 2011 (The day after my 22nd birthday), there was one question on everyone's lips: "Has Apple been left in the best hands?"

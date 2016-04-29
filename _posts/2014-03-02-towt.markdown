@@ -2,6 +2,8 @@
 layout: post
 title: Thoughts on Wearable Tech
 date: '2014-03-02 21:43:00'
+description: We're marching towards a wearable world!
+meta-description: We're marching towards a wearable world!
 ---
 
 It's long been the dream of many a technophile - a gadget small enough that you can wear it, but powerful enough to augment your very existence. The wrist computers & [heads-up display](http://en.wikipedia.org/wiki/Head-up_display) (HUD) visors we've seen in movies representing a technological nirvana, where everything and everyone is augmented and assisted by technology and the information that can provide.
@@ -91,6 +93,6 @@ The smartwatch hasn't truly caught on, and I don't think it will until we see so
 
 Devices such as the Oculus Rift need to be expanded so that we can use them without having to wear a helmet. We need something like the Holodeck in Star Trek, where people can interact with computer simulations but don't have to be alone. We're a creature that likes to interact with others, and being stuck in a video bubble doesn't really fulfil that. 
 
-Steps are being taken in the right direction. Beyond some questions on feasability, functionalitity and acceptability, we're marching towards a wearable world. The next 10 years are going to be interesting as this trend plays out and becomes the norm, and I'm quite excited to see what comes of it. 
+Steps are being taken in the right direction. Beyond some questions on feasibility, functionality and acceptability, we're marching towards a wearable world. The next 10 years are going to be interesting as this trend plays out and becomes the norm, and I'm quite excited to see what comes of it. 
 
 - S

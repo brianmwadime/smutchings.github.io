@@ -3,6 +3,7 @@ layout: post
 title: Vocab Update - watchOS 2, iOS 9 and iPhone 6s
 date: 2015-09-25 21:10:00
 description: With every new Apple product and OS update comes a slew of new terms and features for us to wrap our heads around.
+meta-description: With every new Apple product and OS update comes a slew of new terms and features for us to wrap our heads around.
 ---
 With every new Apple product and OS update comes a slew of new terms and features for us to wrap our heads around. The idea behind this post, the first in an ongoing series (I hope!) is to look at the new words and phrases that these updates have brought, as well as changes to existing Apple ecosystem vocabulary. 
 

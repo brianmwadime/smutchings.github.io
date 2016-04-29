@@ -2,6 +2,8 @@
 layout: post
 title: You probably bought the phone they wanted you to
 date: '2014-04-18 18:24:50'
+description: If you went into a mobile phone store recently, you probably didn't leave with what YOU wanted.
+meta-description: If you went into a mobile phone store recently, you probably didn't leave with what YOU wanted.
 ---
 
 I worked in mobile phone retail for 4 years. In that time, I saw thousands of people buy, return, praise and bemoan phones. 

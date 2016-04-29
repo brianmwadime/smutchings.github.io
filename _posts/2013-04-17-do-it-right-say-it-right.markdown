@@ -2,6 +2,8 @@
 layout: post
 title: Do It Right. Say It Right.
 date: '2013-04-17 10:00:00'
+description: Today, I’m not going to talk about words, but I am likely to use a lot of them.
+meta-description: Today, I’m not going to talk about words, but I am likely to use a lot of them.
 ---
 
 Today, I’m not going to talk about words, but I am likely to use a lot of them. I want to talk about ‘Message’ (some people call it ‘Why’). By that, I mean what is conveyed by the actions we take, and the decisions we make. Whether intentional, or not, everything we do conveys a message. How that message is interpreted is vitally important. In fact, it’s bloody important. 

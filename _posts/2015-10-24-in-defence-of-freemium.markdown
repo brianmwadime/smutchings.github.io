@@ -3,6 +3,7 @@ layout: post
 title: In Defence of Freemium
 date: 2015-10-24 10:57:00
 description: Freemium applications, those that can be downloaded and installed for free but which then require purchases to unlock their full potential, get a bad rap.
+meta-description: Freemium applications, those that can be downloaded and installed for free but which then require purchases to unlock their full potential, get a bad rap.
 ---
 Freemium applications, those that can be downloaded and installed for free but which then require purchases to unlock their full potential, get a bad rap. One that I feel they don’t deserve. In this post I will endeavour to explain why, whilst also providing a few ideas on how to implement In-App Purchases or the Freemium business model in your applications.
 

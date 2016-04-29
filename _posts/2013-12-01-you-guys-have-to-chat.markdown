@@ -2,6 +2,8 @@
 layout: post
 title: You guys have to chat!
 date: '2013-12-01 12:28:55'
+description: There's nothing quite as awesome as making connections and impacting people's lives.
+meta-description: There's nothing quite as awesome as making connections and impacting people's lives.
 ---
 
 If you've been following me on [Medium](http://medium.com/@Smutchings), you'll know I recently wrote about two online services that I've been using recently: [Zapier](http://zpr.io/Pq3v) and [Typeform](http://typeform.com). 

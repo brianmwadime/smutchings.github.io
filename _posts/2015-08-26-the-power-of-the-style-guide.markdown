@@ -3,6 +3,7 @@ layout: post
 title: The Power Of The Style Guide
 date: 2015-08-26 13:43:00
 description: These short guides - often as short as one side of paper - provide a framework and structure for how you write.
+meta-description: These short guides - often as short as one side of paper - provide a framework and structure for how you write.
 ---
 Today, I want to talk about style guides. These short guides - often as short as one side of paper - provide a framework and structure for how you write. They provide the answer to questions as you progress through your writing. They make sure that what you’re writing is consistent with what you’ve written before, and what you’re going to write in the future.
 

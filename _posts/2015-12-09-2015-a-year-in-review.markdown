@@ -3,6 +3,7 @@ layout: post
 title:  2015 - A Year in Review
 date: 2015-12-09 21:09:00
 description: Two thousand and fifteen was an interesting year. It was the first year where my only employment for the whole year has been freelancing.
+meta-description: Two thousand and fifteen was an interesting year. It was the first year where my only employment for the whole year has been freelancing.
 ---
 Two thousand and fifteen was an interesting year. It was the first year where my only employment for the whole year has been freelancing. And with that came the ups and downs associated with the freelance life. In this post, join me as I look back through 2015 and take a look forward to my plans for 2016.
 

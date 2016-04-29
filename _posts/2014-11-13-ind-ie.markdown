@@ -2,6 +2,8 @@
 layout: post
 title: Ind.ie
 date: '2014-11-13 22:09:56'
+description: Yesterday, I had the pleasure of seeing Aral Balkan talk. Are indie projects the way forward?
+meta-description: Yesterday, I had the pleasure of seeing Aral Balkan talk. Are indie projects the way forward?
 ---
 
 Yesterday, Wednesday 12th November 2014, I had the pleasure of sitting down and listening to Aral Balkan talk about Spyware 2.0, privacy and Ind.ie, a UK company working to create a new generation of independent technologies that go against the emerging business models of companies like Google and Facebook. It was refreshing to see someone so passionate for their cause.

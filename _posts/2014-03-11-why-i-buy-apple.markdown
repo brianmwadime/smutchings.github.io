@@ -2,6 +2,8 @@
 layout: post
 title: Why I Buy Apple
 date: '2014-03-11 21:19:04'
+description: Why do I buy Apple? I get asked that a lot. So, here's the answer.
+meta-description: Why do I buy Apple? I get asked that a lot. So, here's the answer.
 ---
 
 <center>I get asked the question a lot, so I'd thought I'd take some time to answer it here. I'll probably have to keep answering it, but at least I can point some of those people in this direction. 

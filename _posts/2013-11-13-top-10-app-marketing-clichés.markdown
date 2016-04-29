@@ -2,6 +2,8 @@
 layout: post
 title: 'Top 10: App Marketing Clichés'
 date: '2013-11-13 12:00:00'
+description: This top 10 list may get a little self-referential...
+meta-description: This top 10 list may get a little self-referential...
 ---
 
 Marketing clichés are ten a penny nowadays (see what I did there?). People using the same old hyperbole and marketing spiel to sell you on their new product. It’s not just apps, but that’s where we’ll focus today.

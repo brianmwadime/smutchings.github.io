@@ -2,6 +2,8 @@
 layout: post
 title: Typed.
 date: '2014-12-02 14:50:34'
+description: A short review of Typed (now called Focused).
+meta-description: A short review of Typed (now called Focused).
 ---
 
 I’ve used a good number of writing apps and services over the last couple of years. From Pages, iA Writer and ByWord on the Mac and iOS, to Draft and Editorially on the web. All of them have their upsides, but every single one has fallen flat in one aspect or another.

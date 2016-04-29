@@ -3,6 +3,7 @@ layout: post
 title: The 3 Keys to a Great App Store Description
 date: 2015-07-15 20:50:00
 description: Every application on the App Store, be it for Mac OS or iOS, needs one, but not every app description gets the love and attention it needs.
+meta-description: Every application on the App Store, be it for Mac OS or iOS, needs one, but not every app description gets the love and attention it needs.
 ---
 Every application on the App Store, be it for Mac OS or iOS, needs one, but not every app description gets the love and attention it needs. In this post, I'm going to outline what makes up a great app store description, to help you get the most out of this vital app marketing tool.
 

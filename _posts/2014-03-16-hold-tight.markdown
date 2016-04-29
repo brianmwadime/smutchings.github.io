@@ -2,6 +2,8 @@
 layout: post
 title: Hold tight!
 date: '2014-03-16 17:13:26'
+description: Some people are complaining that it's very difficult to know the state of the Shift key in iOS 7.1. For those people, what I'm about to show you may blow your mind.
+meta-description: Some people are complaining that it's very difficult to know the state of the Shift key in iOS 7.1. For those people, what I'm about to show you may blow your mind.
 ---
 
 Some people are complaining that it's very difficult to know the state of the Shift key in iOS 7.1. For those people, what I'm about to show you may blow your mind.

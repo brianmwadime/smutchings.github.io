@@ -2,6 +2,8 @@
 layout: post
 title: For The Next
 date: '2013-12-11 12:00:00'
+description: My goal for 2014 is well and truly cemented. I've started using it in my thinking already.
+meta-description: My goal for 2014 is well and truly cemented. I've started using it in my thinking already.
 ---
 
 For the last couple of years, I've tried to thinkg of a theme/goal for the year ahead. Something to live by, in the hope that over time I can make myself a better person. 

@@ -2,6 +2,8 @@
 layout: post
 title: Let's Zap Some Ghosts
 date: '2013-11-18 15:05:46'
+description: How can you use Zapier and Ghost together to back up your posts?
+meta-description: How can you use Zapier and Ghost together to back up your posts?
 ---
 
 What if you could take your posts from [Ghost](http://ghost.org) and share them wherever you need? What if you could do this without a single plugin, and for free? It sounds too good to be true, right, but it's not. 

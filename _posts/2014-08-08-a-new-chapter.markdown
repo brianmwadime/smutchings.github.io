@@ -2,6 +2,8 @@
 layout: post
 title: A New Chapter
 date: '2014-08-08 15:14:07'
+description: A new chapter begins as I join the Tapdaq team.
+meta-description: A new chapter begins as I join the Tapdaq team.
 ---
 
 Just 6 short months ago, I left the country I'd lived in for all 24 years of my life thus far and flew to Barcelona to start a new chapter. I landed in Barcelona on the 6th of February, and the very next morning I was working from the Typeform.com offices.

@@ -2,6 +2,8 @@
 layout: post
 title: A Tale of Two Ads
 date: '2014-07-12 11:14:17'
+description: Two adverts by two companies. One subject. Two very different approaches and messages. Let's take a look.
+meta-description: Two adverts by two companies. One subject. Two very different approaches and messages. Let's take a look.
 ---
 
 Two adverts by two companies. One subject. Two very different approaches and messages. Let's take a look.

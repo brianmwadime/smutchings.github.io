@@ -2,6 +2,8 @@
 layout: post
 title: Focus.
 date: '2014-11-09 20:54:01'
+description: We are, it would seem, really bad at being focussed. And, if we want to get anything done, we need to get better at focussing.
+meta-description: We are, it would seem, really bad at being focussed. And, if we want to get anything done, we need to get better at focussing.
 ---
 
 We only have so long on this amazing green and blue planet of ours. If you live in the western world, the numbers put your expected time on this planet anywhere between 70 and 100 years. If you're like me, 25 years old, you're already up to a third of the way through your time here. (Yikes, that's a depressing thought!)

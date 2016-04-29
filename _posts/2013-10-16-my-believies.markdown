@@ -2,6 +2,8 @@
 layout: post
 title: '"My Believies"'
 date: '2013-10-16 10:00:00'
+description: What do you believe? 
+meta-description: What do you believe? Here's what I believe.
 ---
 
 Earlier today, I recieved my daily email from Simon Sinek. It included a mantra that I have believed for a few years now. I tweeted the following:

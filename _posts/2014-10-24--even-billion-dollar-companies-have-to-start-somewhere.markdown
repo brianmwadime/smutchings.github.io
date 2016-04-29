@@ -2,6 +2,8 @@
 layout: post
 title: Even Billion Dollar Companies Have To Start Somewhere
 date: '2014-10-24 12:34:45'
+description: Apple remains one of the world's, if not the world's, most valuable company. But, when it comes to making things, Apple, like the rest of us, has to start somewhere.
+meta-description: Apple remains one of the world's, if not the world's, most valuable company. But, when it comes to making things, Apple, like the rest of us, has to start somewhere.
 ---
 
 Apple remains one of the world's, if not the world's, most valuable company. With it's stock, after it's 7:1 split, sitting at just over $100 at the time of writing, it's value has surpassed what many thought would be a hard limit. But, when it comes to making things, Apple, like the rest of us, has to start somewhere.
