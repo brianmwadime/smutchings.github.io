@@ -2,6 +2,7 @@
 layout: post
 title: Need/Want Inc.
 description: Brand Copy
+meta-description: I continue to work with the Need/Want team on a variety of projects and products.
 img: /img/needwant-inc-img.jpg
 ---
 

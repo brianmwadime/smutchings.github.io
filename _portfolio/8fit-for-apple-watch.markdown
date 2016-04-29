@@ -2,6 +2,7 @@
 layout: post
 title: 8fit
 description: Apple Watch Launch
+meta-description: 8fit uses technology to help you become healthier. When it cams to explaining their new app, they came to me.
 img: /img/8fit-img.png
 ---
 

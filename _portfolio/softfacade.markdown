@@ -2,6 +2,7 @@
 layout: post
 title: SoftFacade
 description: Case Study
+meta-description: I worked with the awesome team at SoftFacade (SFCD) to build their Iconfinder case study.
 img: /img/softfacade-img.jpeg
 ---
 

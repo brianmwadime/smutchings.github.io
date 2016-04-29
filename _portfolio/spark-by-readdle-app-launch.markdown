@@ -2,6 +2,7 @@
 layout: post
 title: Spark by Readdle
 description: App Launch
+meta-description: Spark is a new app for managing your email on the go. I helped the Readdle team get that concept across. 
 img: /img/spark-by-readdle-app-launch-img.png
 ---
 

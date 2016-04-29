@@ -2,6 +2,7 @@
 layout: post
 title: Scanner Pro 6 by Readdle
 description: Messaging and Communication
+meta-description: When Readdle wanted to tell everyone about their new app update, they came to me (again).
 img: /img/scanner-pro-6-by-readdle.png
 ---
 

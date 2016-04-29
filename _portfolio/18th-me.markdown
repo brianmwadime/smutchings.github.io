@@ -2,6 +2,7 @@
 layout: post
 title: 18th.me
 description: Site Copy
+meta-description: Working with Marshall is always a pleasure. I worked closely with him to get the 18th.me copy just right.
 img: /img/18thme-img.jpeg
 ---
 

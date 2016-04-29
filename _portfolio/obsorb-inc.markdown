@@ -2,6 +2,7 @@
 layout: post
 title: Obsorb Inc.
 description: Site Copy
+meta-description: I worked with Marshall Haas, and brought in an illustrator, to bring life to Obsorb's marketing site.
 img: /img/obsorb-img.jpeg
 ---
 

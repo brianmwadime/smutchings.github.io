@@ -2,6 +2,7 @@
 layout: post
 title: James McDonald
 description: Design Inspiration
+meta-description: When creatives come together, great things happen.
 img: /img/james-mcdonald-jpg.png
 ---
 

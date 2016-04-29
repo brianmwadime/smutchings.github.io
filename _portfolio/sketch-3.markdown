@@ -2,6 +2,7 @@
 layout: post
 title: Sketch 3
 description: App Store Description
+meta-description: You've probably heard of Sketch 3, but did you know that I wrote the App Store Description? Now you know!
 img: /img/sketch-3-img.png
 ---
 

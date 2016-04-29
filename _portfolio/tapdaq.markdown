@@ -2,6 +2,7 @@
 layout: post
 title: Tapdaq
 description: Blog and Emails
+meta-description: Contracted from September - November 2014, I played a core role in Tapdaq's content strategy.
 img: /img/tapdaq-img.jpg
 ---
 

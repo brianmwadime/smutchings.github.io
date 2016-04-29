@@ -2,6 +2,7 @@
 layout: post
 title: 1 Second Everyday
 description: App Notifications
+meta-description: I wrote a small series of time-themed notifications for the 1 Second Everyday app by Cesar Kuriyama.
 img: /img/1se-img.jpg
 ---
 

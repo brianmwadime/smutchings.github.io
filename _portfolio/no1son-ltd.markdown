@@ -2,6 +2,7 @@
 layout: post
 title: no1son Ltd.
 description: Site Copy
+meta-description: Scott creates great digital products for his clients, so I worked with him to create copy and content to match.
 img: /img/no1son-img.png
 ---
 

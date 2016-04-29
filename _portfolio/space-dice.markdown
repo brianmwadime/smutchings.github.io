@@ -2,6 +2,7 @@
 layout: post
 title: Space Dice
 description: Rules & Site
+meta-description: The fate of the galaxy is in your hands, as you race your friends to create (or destroy) planets.
 img: /img/spacedice-img.jpg
 ---
 

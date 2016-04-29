@@ -2,6 +2,7 @@
 layout: post
 title: Typeform
 description: Selfie video script
+meta-description: A few months after leaving Typeform, I helped them write a script for their "Selfie" video. 
 img: /img/typeform-img.jpg
 ---
 

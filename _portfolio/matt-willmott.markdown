@@ -2,6 +2,7 @@
 layout: post
 title: Matt Willmott
 description: Site Copy
+meta-description: I worked closely with Matt Willmott to write copy for his new portfolio site.
 img: /img/matt-willmott.img.png
 ---
 

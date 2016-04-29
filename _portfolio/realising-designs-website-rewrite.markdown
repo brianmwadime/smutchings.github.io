@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Realising Designs
+meta-description: James asked me to give Realising Designs' copy a fresh feel, so I happily obliged.
 description: Website Rewrite
 img: /img/realising-designs-website-rewrite-img.png
 ---

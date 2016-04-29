@@ -2,6 +2,7 @@
 layout: post
 title: Kyee
 description: Site Copy
+meta-description: I worked closely with Kyee to ensure the copy he uses on his site matches the care he puts into this designs.
 img: /img/kyee-img.jpg
 ---
 

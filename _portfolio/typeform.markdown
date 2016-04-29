@@ -2,6 +2,7 @@
 layout: post
 title: Typeform.com
 description: In-House Copywriter
+meta-description: As a core member of the Typeform marketing team, I helped define a tone for an up and coming startup.
 img: /img/typeform-img.jpg
 ---
 

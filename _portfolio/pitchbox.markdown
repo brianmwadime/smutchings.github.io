@@ -2,6 +2,7 @@
 layout: post
 title: Pitchbox
 description: Site Copy
+meta-description: Pitchbox was a beautifully simple way to find out about developer jobs. I helped crystallise their message.
 img: /img/pitchbox-img.jpg
 ---
 

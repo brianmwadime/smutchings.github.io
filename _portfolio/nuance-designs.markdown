@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nuance Designs
+meta-description: Starting from nothing, I worked with the Nuance Designs team to build their online presence. 
 description: Brand and Communication
 img: /img/nuance-designs-img.png
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: King.com
 description: King.com Community Communications
+meta-description: Working with King.com's Community team, I created a series of communications for different in-games events.
 img: /img/king-com.jpg
 ---
 

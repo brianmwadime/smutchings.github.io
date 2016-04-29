@@ -2,6 +2,7 @@
 layout: post
 title: Lexus
 description: Email Update
+meta-description: When Lexus was looking at how to clearly tell their subscribers about an upcoming change, I was the obvious choice.
 img: /img/lexus-img.jpg
 ---
 
