@@ -10,7 +10,7 @@ In every job I've had and every role I've taken there has been one consistent th
 
 ## Experience as a USP
 
-As I mentioned just now, experience is at the core of every successful business. Be that the buying experience, the product or service experience, the support experience or somewhere else in the lifecycle. Companies such as [Apple](http://www.apple.com), [Casper](http://casper.com) and [Uber](http://www.uber.com) have built their customer base on delivering a great experience. It's their 'Unique Selling Point', or USP.
+As I just mentioned, experience is at the core of every successful business. Be that the buying experience, the product or service experience, the support experience or somewhere else in the lifecycle. Companies such as [Apple](http://www.apple.com), [Casper](http://casper.com) and [Uber](http://www.uber.com) have built their customer base on delivering a great experience. It's their 'Unique Selling Point', or USP.
 
 But none of these business have done this by purely focussing on what we often assume experience to be about in the technology world - loading times and UX design. They've built experience into their businesses at every level, knowing that people are able to tell when experience is core and when it's just glued on top.
 
@@ -51,7 +51,7 @@ It may be Apple, who's product packaging leads to an unboxing experience almost 
 
 Or it may be [Converse](http://www.converse.com), who provide an easy to follow 30-day returns process in the box with every pair of shoes you buy online, just in case they're the wrong size or you don't like the colour.
 
-Or it could be Casper, who made buying and bringing how a mattress a simple process instead of a nightmare. 
+Or it could be Casper, who made buying and bringing home a mattress a simple process instead of a nightmare. 
 
 Every one of these companies has thought about the experience of buying and using their products. And they've honed that experience into something that sets them apart from their competitors. Something uniquely them.
 
