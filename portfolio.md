@@ -2,6 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
+meta-description: I've worked with all sorts of companies and people to hone their communication and experience. See a selection here.
 ---
 
 <ul class="img-grid">
