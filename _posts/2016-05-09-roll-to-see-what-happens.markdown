@@ -6,7 +6,7 @@ description: No matter how much you min-max and prepare, chance will always play
 meta-description: No matter how much you min-max and prepare, chance will always play a part. RPGs teach us this.
 ---
 
-Every Sunday, my friends and I play a game in an ongoing adventure of [Star War: Edge of the Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/), a dice-based roleplaying game (RPG) set in the Star Wars universe.
+Every Sunday, my friends and I play a game in an ongoing adventure of [Star Wars: Edge of the Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/), a dice-based roleplaying game (RPG) set in the Star Wars universe.
 
 Before this, it was a weekly game of [Dungeons and Dragons](http://dnd.wizards.com). Or it has been [GURPS](http://www.sjgames.com/gurps/), or [D20 Modern](https://en.wikipedia.org/wiki/D20_Modern), or [Shadowrun](http://www.shadowruntabletop.com). I've played pencil-and-paper RPGs for the last 13 years or so. 🤓
 
