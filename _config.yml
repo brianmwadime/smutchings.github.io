@@ -8,6 +8,7 @@ url:  # the base hostname & protocol for your site
 twitter_username: smutchings
 github_username:  smutchings
 permalink: /thought/:title/
+timezone: Europe/London
 
 # Build settings
 markdown: kramdown
