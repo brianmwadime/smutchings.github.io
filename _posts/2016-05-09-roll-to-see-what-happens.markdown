@@ -44,11 +44,11 @@ You'll only find out if you can help a person if you ask them. Sometimes you'll 
 
 If you're wondering if you can help someone, ask them. And if you're trying to find your next job, ask. The worst they can say is "No!".
 
-### "To the Tavern!"
+### "To the tavern!"
 
 The beginning and end of nearly every adventure, especially in fantasy RPGs, happens in the bar. Downtime is super important. It gives you time to take stock of your situation, plan what you're going to do next, manage your possessions and more. 
 
-So, if you're feeling burnt out, head with your friends to "the Tavern" (it may not be an actual tavern) and work things out. You'll be surprised what a little bit of downtime can do for you.
+So, if you're feeling burnt out, head with your friends to "the tavern" (it may not be an actual tavern) and work things out. You'll be surprised what a little bit of downtime can do for you.
 
 ## Have you rolled the dice?
 
