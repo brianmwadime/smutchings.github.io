@@ -43,4 +43,4 @@ Above, you can try out my first _Walk to the Moon_ prototype for yourself. Some 
   Your browser does not support the video tag.
 </video></center>
 
-_Walk to the Moon_ is my first attempt at bringing together an idea, UI and UX into a testable prototype. If you'd like to work with me to develop this project out, or you'd like to buy the idea, [get in touch!](mailto:hi@samhutchings.co?subject=Let's walk to the moon)
+_Walk to the Moon_ was my first attempt at bringing together an idea, UI and UX into a testable prototype (Circa: April 2015). If you'd like to work with me to develop this project out, or you'd like to buy the idea, [get in touch!](mailto:hi@samhutchings.co?subject=Let's walk to the moon)
