@@ -36,7 +36,7 @@ In the famous words of Douglas Adams, "Space is Big". And for that reason, walki
 
 <center><iframe src="https://popapp.in/w/projects/54c682842b26171716a80945/embedded" width="420" height="908" frameborder="0" allowTransparency="true"></iframe></center>
 
-Above, you can try out my first _Walk to the Moon_ prototype for yourself. Some of the interactions aren't easy to replicate in Marvel, for example the badge list scrolling, so below is a video, created in Quartz Composer using Origami, of what this would look like on an actual device and in the app. 
+Above, you can try out my first _Walk to the Moon_ prototype for yourself. Some of the interactions aren't easy to replicate in Marvel, for example the badge list scrolling, so below is a video, created in Quartz Composer using Origami, of what this interaction would look like on an actual device. 
 
 <center><video width="320" height="568" controls>
   <source src="/img/walktothemoon/walktothemoon-scroll.mp4" type="video/mp4">
