@@ -26,7 +26,7 @@ As I said earlier _Walk to the Moon_ is an application and community. The idea i
 
 Along the way, you'll unlock space and exploration related achievements and badges. Walked the length of the Space Shuttle (37 metres), you'll get a badge. Walked once around the Earth? That's a badge!
 
-<center><img src="/img/walktothemoon/walktothemoon-badges.png" width="320px" height="568px"></center>
+<center><img src="/img/walktothemoon/walktothemoon-badges.png"></center>
 
 In the famous words of Douglas Adams, "Space is Big". And for that reason, walking to the Moon is the only reasonable expectation for a single person in their lifetime. But... The power of community can allow us to do amazing things together. So, as well as being a personal tracking app, all distances walked would be anonymously collated and brought into a main walking pool, as the _Walk to the Moon_ community make their way across the Solar System (first to Mars) and then across the universe (if the numbers ever get big enough).
 
