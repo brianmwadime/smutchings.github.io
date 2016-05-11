@@ -40,7 +40,7 @@ In the famous words of Douglas Adams, "Space is Big". And for that reason, walki
 
 To reduce the number of screens, and because your progress and badges are linked, I instead decided to bring the badges into the home screen, so you can always see the last badge you unlocked, and view the rest by just scrolling up. The community screen was also moved to the right of home, as a nod to information direction in Left to Right languages. (If an RTL version was made, I may consider switching these screens for that language, if possible).
 
-<center><img src="/img/walktothemoon-oldandnewhome.png"></center>
+<center><img src="/img/walktothemoon/walktothemoon-oldandnewhome.png"></center>
 
 ## Bringing it together into an Experience
 
