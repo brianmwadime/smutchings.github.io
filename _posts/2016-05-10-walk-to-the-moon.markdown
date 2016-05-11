@@ -12,11 +12,13 @@ At any given time, the distance between the Earth and Moon is about 373,387 kilo
 
 ### The Numbers Behind Walk to the Moon
 
+Before I designed an app for it, I needed to ask "Can someone even walk to the moon?"
+
 According to [Wolfram Alpha](http://www.wolframalpha.com), the typical human walking speed is 4 kilometres per hour and life expectancy in the western world hovers at around 80 years. That means that if you walked for 3 hours per day (doesn't need to all be in one burst) each and every day, you could possibly reach the moon before you die.
 
 If you run, the numbers are a bit more optimistic. [Wikipedia](https://en.wikipedia.org/wiki/Running) pegs human running speed at about 6 metres per second, or 20 kilometres per hour. That means you could run from Earth to the Moon for about 36 minutes a day. Of course, you can't run everyday through your life, so the number is likely more like an hour, but it's possible.
 
-Given that you're pretty active, it is in entirely possible for a person to walk, jog or run to the moon in their lifetime.
+If you're pretty active, it is in entirely possible for a person to walk, jog or run to the moon in their lifetime.
 
 ## The App and Community
 
@@ -24,13 +26,21 @@ As I said earlier _Walk to the Moon_ is an application and community. The idea i
 
 <center><img src="/img/walktothemoon/walktothemoon-main.png" width="320px" height="568px"></center>
 
-Along the way, you'll unlock space and exploration related achievements and badges. Walked the length of the Space Shuttle (37 metres), you'll get a badge. Walked once around the Earth? That's a badge!
+Along the way, you'll unlock space and exploration related achievements and badges. To ease new walkers into the application, and to gradually increase the challenge, badges are spread out in such a way that you will earn more of them at the start and then fewer as time goes on. This helps keep people engaged in the early days of using the application, but means that it becomes less of a distraction as time goes by.
+
+Walked the length of the Space Shuttle (37 metres), you'll get a badge. Walked once around the Earth? That's a badge!
 
 <center><img src="/img/walktothemoon/walktothemoon-badges.png"></center>
 
 In the famous words of Douglas Adams, "Space is Big". And for that reason, walking to the Moon is the only reasonable expectation for a single person in their lifetime. But... The power of community can allow us to do amazing things together. So, as well as being a personal tracking app, all distances walked would be anonymously collated and brought into a main walking pool, as the _Walk to the Moon_ community make their way across the Solar System (first to Mars) and then across the universe (if the numbers ever get big enough).
 
 <center><img src="/img/walktothemoon/walktothemoon-community.png" width="320px" height="568px"></center>
+
+*Aside*: In an earlier version of the application design, _Walk to the Moon_ had three main screens. The home screen, as it does now, helped you see how you're doing towards your goal of working to the moon. To the left of home was the community screen, showing the community's progress, and to the right of home was the badges screen, where you could see a list of all of your unlocked badges.
+
+To reduce the number of screens, and because your progress and badges are linked, I instead decided to bring the badges into the home screen, so you can always see the last badge you unlocked, and view the rest by just scrolling up. The community screen was also moved to the right of home, as a nod to information direction in Left to Right languages. (If an RTL version was made, I may consider switching these screens for that language, if possible).
+
+<center><img src="/img/walktothemoon-oldandnewhome.png"></center>
 
 ## Bringing it together into an Experience
 
