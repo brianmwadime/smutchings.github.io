@@ -8,17 +8,21 @@ meta-description: The Solar System is a big place. With huge distances between e
 
 > "Space is big. You just won't believe how vastly, hugely, mind- bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space." - Douglas Adams, The Hitchhiker's Guide to the Galaxy
 
-At any given time, the distance between the Earth and Moon is about 373,387 kilometres. It's quite the distance. But, could you walk it? Maybe get there at a steady job? That's the idea behind _Walk to the Moon_, a personal walking tracking app and community concept.
+At any given time, the distance between the Earth and Moon is about 385,000 kilometres. It's quite the distance. But, could you walk it? Maybe get there at a steady job? That's the idea behind _Walk to the Moon_, a personal walking tracking app and community concept.
 
 ### The Numbers Behind Walk to the Moon
 
 Before I designed an app for it, I needed to ask "Can someone even walk to the moon?"
 
-According to [Wolfram Alpha](http://www.wolframalpha.com), the typical human walking speed is 4 kilometres per hour and life expectancy in the western world hovers at around 80 years. That means that if you walked for 3 hours per day (doesn't need to all be in one burst) each and every day, you could possibly reach the moon before you die.
+As I said earlier, [the moon is approximately 385,000km from Earth](http://www.wolframalpha.com/input/?i=distance+from+earth+to+moon+in+kms).
 
-If you run, the numbers are a bit more optimistic. [Wikipedia](https://en.wikipedia.org/wiki/Running) pegs human running speed at about 6 metres per second, or 20 kilometres per hour. That means you could run from Earth to the Moon for about 36 minutes a day. Of course, you can't run everyday through your life, so the number is likely more like an hour, but it's possible.
+According to [Wolfram Alpha](http://www.wolframalpha.com), the typical human walking speed is 4 kilometres per hour and life expectancy in the western world hovers at around 80 years.
 
-If you're pretty active, it is in entirely possible for a person to walk, jog or run to the moon in their lifetime.
+If we assume that you were unable to walk a reasonable distance until you were 5, that means that if you walked for 3.5 hours per day (doesn't need to all be in one burst) each and every day, you could possibly reach the moon before you die.
+
+If you run, the numbers are a bit more optimistic. [Wikipedia](https://en.wikipedia.org/wiki/Running) pegs human running speed at about 6 metres per second, or 20 kilometres per hour. That means you could run from Earth to the Moon for about 42 minutes a day. Of course, you can't run everyday through your life, so the number is likely to be nearer an hour, but it's still possible.
+
+If you're pretty active, it is in entirely possible for you to walk, jog or run to the moon in their lifetime.
 
 ## The App and Community
 
