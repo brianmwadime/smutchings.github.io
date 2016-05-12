@@ -26,7 +26,7 @@ If you're pretty active, it is in entirely possible for you to walk, jog or run 
 
 ## The App and Community
 
-As I said earlier _Walk to the Moon_ is an application and community. The idea is to track your movement during the day using the sensors in your iPhone and/or Apple Watch and map these to the distance between the Earth and the Moon. Your ultimate goal, to make it to the Moon on a solo walk.
+_Walk to the Moon_ is an application AND a community. The idea is to track your movement during the day using the sensors in your iPhone and/or Apple Watch and map these to the distance between the Earth and the Moon. Your ultimate goal, to make it to the Moon on a solo walk.
 
 <center><img src="/img/walktothemoon/walktothemoon-main.png" width="320px" height="568px"></center>
 
