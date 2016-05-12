@@ -40,7 +40,7 @@ In the famous words of Douglas Adams, "Space is Big". And for that reason, walki
 
 <center><img src="/img/walktothemoon/walktothemoon-community.png" width="320px" height="568px"></center>
 
-*Aside*: In an earlier version of the application design, _Walk to the Moon_ had three main screens. The home screen, as it does now, helped you see how you're doing towards your goal of working to the moon. To the left of home was the community screen, showing the community's progress, and to the right of home was the badges screen, where you could see a list of all of your unlocked badges.
+In an earlier version of the application design, _Walk to the Moon_ had three main screens. The home screen, as it does now, helped you see how you're doing towards your goal of working to the moon. To the left of home was the community screen, showing the community's progress, and to the right of home was the badges screen, where you could see a list of all of your unlocked badges.
 
 To reduce the number of screens, and because your progress and badges are linked, I instead decided to bring the badges into the home screen, so you can always see the last badge you unlocked, and view the rest by just scrolling up. The community screen was also moved to the right of home, as a nod to information direction in Left to Right languages. (If an RTL version was made, I may consider switching these screens for that language, if possible).
 
