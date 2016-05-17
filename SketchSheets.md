@@ -29,4 +29,4 @@ If you have any suggestions on how I could improve these Sketch Sheets, or you'd
 
 The Status Bar Sketch Sheet in action:
 
-<center><img src="/img/iPhoneSketchSheet/iPhoneSketchSheetInAction.jpg"></center>
+<center><img src="/img/iPhoneSketchSheet/iPhoneSketchSheetInAction.png"></center>
