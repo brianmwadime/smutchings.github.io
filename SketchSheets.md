@@ -25,3 +25,8 @@ Included in the pack are 4 screen types:
 To use the iPhone Sketch Sheets couldn't be simpler. Just download them and print them at 100% scale on A4 paper - normal or borderless. Then, find your favourite pen or pencil and get sketching. 
 
 If you have any suggestions on how I could improve these Sketch Sheets, or you'd just like to say thanks, [pop me an email](mailto:hi@samhutchings.co) or [tweet](http://www.twitter.com/Smutchings).
+
+
+The Status Bar Sketch Sheet in action:
+
+<center><img src="/img/iPhoneSketchSheet/iPhoneSketchSheetInAction.jpg" width=100%></center>
