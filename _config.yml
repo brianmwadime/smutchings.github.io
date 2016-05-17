@@ -10,6 +10,9 @@ github_username:  smutchings
 permalink: /thought/:title/
 timezone: Europe/London
 
+gems:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 
