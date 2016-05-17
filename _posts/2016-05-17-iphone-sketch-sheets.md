@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introducing iPhone Sketch Sheets
+redirect_to: http://samhutchings.co/SketchSheets/
 date: '2016-05-17 12:00:00'
 description: Print these A4 iPhone Sketch Sheets to quickly mock up designs for iPhone SE, 6s and 6s Plus.
 meta-description: Print these A4 iPhone Sketch Sheets to quickly mock up designs for iPhone SE, 6s and 6s Plus.
-redirect_to: http://samhutchings.co/SketchSheets/
 ---
 
 When you're mocking up a design or an experience for the iPhone, there are three main viewports you need to consider. These are the 4" iPhone SE, the 4.7" iPhone 6s and 5.5" iPhone 6s Plus.
