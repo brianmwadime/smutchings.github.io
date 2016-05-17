@@ -9,7 +9,7 @@ When you're mocking up a design or an experience for the iPhone, there are three
 
 Drawing these out every time can get a bit boring, so I've put together some A4 Sketch Sheets which include all three screen sizes at 1:1 size.
 
-<a href="/resources/iPhoneSketchSheets.zip">Download iPhone Sketch Sheets for free!</a>
+**<a href="/resources/iPhoneSketchSheets.zip">Download iPhone Sketch Sheets for free!</a>**
 
 ### What's included
 
