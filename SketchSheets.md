@@ -11,9 +11,9 @@ Drawing these out every time can get a bit boring, so I've put together some A4 
 
 ### Download iPhone Sketch Sheets for free!
 
-A4 iPhone UI Sketch Sheets ( [View PDF](http://d.pr/19VJR) | [Download .zip](http://d.pr/AWcu) )
+A4 iPhone UI Sketch Sheets ( [View PDF](http://d.pr/19VJR) || [Download .zip](http://d.pr/AWcu) )
 
-US Letter iPhone UI Sketch Sheets ( [View PDF](http://d.pr/1jKSc) | [Download .zip](http://d.pr/18dtP) )
+US Letter iPhone UI Sketch Sheets ( [View PDF](http://d.pr/1jKSc) || [Download .zip](http://d.pr/18dtP) )
 
 ### What's included
 
