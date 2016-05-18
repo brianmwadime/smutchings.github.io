@@ -21,7 +21,7 @@ Included in the pack are 4 screen types:
 
 - Plain - A rectangle the size of the iPhone screen
 - Status Bar - contains the standard iOS status bar
-- Status Bar and Tab Bar - contains the standard iOS status bar and tab bar
+- Status and Tab Bars - contains the standard iOS status bar and tab bar
 - Keyboard - contains the standard iOS status bar and iOS keyboard
 
 ### How to use
