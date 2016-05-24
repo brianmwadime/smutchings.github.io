@@ -16,21 +16,13 @@ The process of User Experience design looks a little like this:
 
 In this model, once the need to use a human centred design process has been identified, four activities form the main cycle of work:
 
-**Specify the context of use**
+**Specify the context of use** - Identify the people who will use the product, what they will use it for, and under what conditions they will use it.
 
-Identify the people who will use the product, what they will use it for, and under what conditions they will use it.
+**Specify requirements** - Identify any business requirements or consumer goals that must be met for the product to be a success.
 
-**Specify requirements**
+**Create design solutions** - This part of the process may be done in stages, building from a rough concept through to a complete design.
 
-Identify any business requirements or consumer goals that must be met for the product to be a success.
-
-**Create design solutions**
-
-This part of the process may be done in stages, building from a rough concept through to a complete design.
-
-**Evaluate designs**
-
-The most important part of this process is that evaluation - ideally through usability testing with actual users - is as integral as quality testing is to good software development.
+**Evaluate designs** - The most important part of this process is that evaluation - ideally through usability testing with actual users - is as integral as quality testing is to good software development.
 
 Once these 4 steps are completed, the process ends and the product can be released - as long as the requirements are met.
 
