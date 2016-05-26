@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting UX - UX As A Process
+title: Starting UX&#58; UX As A Process
 date: '2016-05-24 12:00:00'
 description: As I start my journey into User Experience Design, I learn that it's less of a one-time thing and more of a process.
 meta-description: As I start my journey into User Experience Design, I learn that it's less of a one-time thing and more of a process.
