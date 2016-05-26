@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2015 - A Year in Review
+title:  2015&#58; A Year in Review
 date: 2015-12-09 21:09:00
 description: Two thousand and fifteen was an interesting year. It was the first year where my only employment for the whole year has been freelancing.
 meta-description: Two thousand and fifteen was an interesting year. It was the first year where my only employment for the whole year has been freelancing.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Words - The Third Pillar of App and Web Creation
+title: Words&#58; The Third Pillar of App and Web Creation
 date: 2015-09-17 18:06:00
 description: Written in a language we use everyday, the content and copy present in a UI, or in content, is incredibly powerful.
 meta-description: Written in a language we use everyday, the content and copy present in a UI, or in content, is incredibly powerful.
