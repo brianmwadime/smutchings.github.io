@@ -10,7 +10,7 @@ As I look further into User Experience design, I realise that it's less of a one
 
 ## The Process
 
-The process of User Experience design looks a little like this:
+According to the [User Experience Professionals Association (UXPA)](http://uxpa.org/resources/about-ux), the process of User Experience design looks a little like this:
 
 <center><img src="/img/UXDESIGNPROCESS.png"></center>
 
