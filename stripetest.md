@@ -13,11 +13,11 @@ IF WORKING, DEMO WILL SHOW BELOW THIS LINE
         <input 
             type="submit" 
             value="Pay with Card"
-            data-key="PUBLISHABLE STRIPE KEY"
+            data-key="pk_test_LdnC4TVGtZ7dImqDbVBqdx1V"
             data-amount="500"
-            data-currency="cad"
+            data-currency="GBP"
             data-name="Example Company Inc"
-            data-description="Stripe payment for $5"
+            data-description="Stripe payment for £5"
         />
 
         <script src="https://checkout.stripe.com/v2/checkout.js"></script>
