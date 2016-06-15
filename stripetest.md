@@ -1,8 +1,8 @@
 ---
 layout: page
-title: iPhone Sketch Sheets
-permalink: /SketchSheets/
-meta-description: Print these A4 and US Letter iPhone Sketch Sheets to quickly mock up designs for iPhone SE, 6s and 6s Plus.
+title: Stripe Test
+permalink: /stripetest/
+meta-description: Stripe Checkout Test
 ---
 
 IF WORKING, DEMO WILL SHOW BELOW THIS LINE
