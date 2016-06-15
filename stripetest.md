@@ -7,7 +7,9 @@ meta-description: Test for Stripe Checkout
 
 STRIPE FORM SHOULD RENDER BELOW THIS LINE
 
+
 <form action="/charge" method="POST">
+
   <script
     src="https://checkout.stripe.com/checkout.js"
     class="stripe-button"
@@ -19,6 +21,8 @@ STRIPE FORM SHOULD RENDER BELOW THIS LINE
     data-currency="GBP"
     data-label="Pay Deposit"->
   </script>
+
 </form>
+
 
 BUT ABOVE THIS LINE
