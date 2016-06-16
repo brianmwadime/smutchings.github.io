@@ -7,6 +7,17 @@ meta-description: I've worked with all sorts of companies and people to hone the
 
 <ul class="img-grid">
 
+    <li class="img-grid__item">
+        <a href="http://samhutchings.co/hireme/">
+        <img src="portfoliohireme.png">
+
+            <div class="img-grid__overlay">
+              <h1>Hire Me</h1>
+              <p>Click to find out more.</p>
+            </div>
+        </a>
+      </li>
+
 {% for project in site.portfolio %}
   
     {% if project.redirect %}
