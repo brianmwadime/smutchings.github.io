@@ -31,3 +31,8 @@ During an App Content Review, I look at every piece of content in your applicati
 The words and tone we use are more important than ever. Your company has to stand out from everyone else, whilst respecting the different interpretations we all can read into things. A communication review makes sure you're on the right track, identifying areas for improvement.
 
 Example: [Spark by Readdle](http://samhutchings.co/project/spark-by-readdle-app-launch/)
+
+### Your Next Project or Product
+*£TBC/$TBC*
+
+I'm currently taking on new work in communication and product writing. If you're looking for someone to find the right words for the job, [get in touch](mailto:hi@samhutchings.co).
