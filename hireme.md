@@ -9,8 +9,6 @@ I'm currently taking on passionate new clients looking to boost their communicat
 
 If you'd like to know a little more about what it's like to work with me, [I've written a blog post about that.](http://samhutchings.co/thought/lets-be-honest-about-this/)
 
-## Examples of work and prices
-
 ### iOS or Mac App Store Description
 *£425/$600*
 
