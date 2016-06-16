@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. I'm happy working alone, as part of a team, or running a project.
 
-If you're looking for someone to write long-form content or blog for you, I'm not your guy. But I'm happy to bring a team together to help you achieve your goals, whatever they may be.
+If you're looking for someone to write long-form or blog content for you, I'm not your guy. But I'm happy to bring a team together to help you achieve your goals, whatever they may be.
 
 
 <br/>
