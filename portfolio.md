@@ -9,7 +9,7 @@ meta-description: I've worked with all sorts of companies and people to hone the
 
     <li class="img-grid__item">
         <a href="http://samhutchings.co/hireme/">
-        <img src="portfoliohireme.png">
+        <img src="/img/portfoliohireme.png">
 
             <div class="img-grid__overlay">
               <h1>Hire Me</h1>
