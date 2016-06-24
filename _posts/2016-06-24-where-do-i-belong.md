@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where do I belong?
+title: Britain&#58; The Country I Used To Love
 date: '2016-06-24 12:00:00'
 description: With the result of the UK's EU Referendum now known, what's next for me? Read on to find out.
 meta-description: With the result of the UK's EU Referendum now known, what's next for me? Read on to find out.
