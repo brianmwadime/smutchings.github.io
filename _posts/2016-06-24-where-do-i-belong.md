@@ -30,13 +30,15 @@ Europe, with its model for closer collaboration of countries and freedom of move
 
 And I saw that no more than when I saw the faces of those who were told they couldn't stay. Friends, wanting to work in Barcelona and contribute further to the local economy and culture, forced to leave by arbitrary decisions about who, from outside of the EU, is worthy. All because of some imaginary lines and made up names on a map.
 
-The world outside Europe, with its walls and barriers, is no the future.
+The world outside Europe, with its walls and barriers, is not the future.
 
 ## What's Next For Me?
 
 I hoped dearly that the UK people would vote to remain in the European Union. That they would see that the benefits greatly outweigh the flaws, and that Britain should do what it has always done - stay and fight for better. But, alas, that did not happen.
 
 I've spent today feeling numb. My head clouded with disappointment, sadness, and anger. Not at any individual people, but at a system and those within it who have allowed this to happen.
+
+I've been on-the-fence with my opinion of the UK for the last couple of years, but this very much toppled me over into "dislike" territory.
 
 To remedy this, I've decided to bring one of my plans forward. I was originally planning to save some money in the UK and then move abroad, but the new timeline imposed by this referendum means that may not be feasible. So, I'm looking for work within the EU (primarily Berlin), so that I may continue to live and work in the continent and community I love.
 
