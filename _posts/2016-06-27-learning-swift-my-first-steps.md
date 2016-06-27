@@ -6,7 +6,7 @@ description: I recently started learning Swift for iOS development. Here's what 
 meta-description: I recently started learning Swift for iOS development. Here's what I managed to do in my first week.
 ---
 
-I've long been a believer in iOS devices and the computing power they're able to bring to (and along with) the masses. As part of this belief, I've always wanted to learn how to make my own application. Recently, I decided to jump in a learn some Swift, to [take my first steps towards walking to the moon](http://samhutchings.co/thought/walk-to-the-moon/) ;). 
+I've long been a believer in iOS devices and the computing power they're able to bring to (and along with) the masses. As part of this belief, I've always wanted to learn how to make my own application. Recently, I decided to jump in a learn some Swift, to [take my first steps towards walking to the moon](http://samhutchings.co/thought/walk-to-the-moon/). 
 
 ## The Tools I've Used
 
