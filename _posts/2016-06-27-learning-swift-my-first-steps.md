@@ -37,7 +37,7 @@ Here's the code which generated the alert:
 
 And here it is running on the iPhone:
 
-<center><img src="/img/learning-swift/error-alert.png" width="100%"></center>
+<center><img src="/img/learning-swift/error-alert.png" width="100%" max-height="960px"></center>
 
 It's incredibly simple, and probably the totally wrong way to do this on the iPhone, but it works. 
 
