@@ -49,11 +49,11 @@ Version 2.0 of the application can add, subtract, multiple and divide 2 numbers,
 
 Here's a screenshot of the new version:
 
-<center><img src="/img/learning-swift/simple-calculator-v2.jpg" width="100%"></center>
+<center><img src="/img/learning-swift/simple-calculator-v2.jpg" width="60%" height="60%"></center>
 
 And here it is in action:
 
-<center><video width="540" height="960" controls>
+<center><video width="324" height="576" controls>
   <source src="/img/learning-swift/simple-calculator-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video></center>
