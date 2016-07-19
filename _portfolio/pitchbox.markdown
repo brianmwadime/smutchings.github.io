@@ -3,7 +3,7 @@ layout: post
 title: Pitchbox
 description: Site Copy
 meta-description: Pitchbox was a beautifully simple way to find out about developer jobs. I helped crystallise their message.
-img: /img/pitchbox-img.jpg
+img: /img/portfolioThumbnails/pitchbox-img.jpg
 ---
 
 Pitchbox was a beautifully simple way to find out about developer jobs. Designed to make it as easy as possible for great developers and awesome companies to find each other.

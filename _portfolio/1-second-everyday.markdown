@@ -3,7 +3,7 @@ layout: post
 title: 1 Second Everyday
 description: App Notifications
 meta-description: I wrote a small series of time-themed notifications for the 1 Second Everyday app by Cesar Kuriyama.
-img: /img/1se-img.jpg
+img: /img/portfolioThumbnails/1se-img.jpg
 ---
 
 This awesome app, conceived by [Cesar Kuriyama](http://www.cesarkuriyama.com/), not only helps you compile a video of your life one second at a time, but it also sends you a 1SE related factoid every day. I donated some time, and research, into providing some more facts for the notifications.

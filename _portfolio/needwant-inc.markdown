@@ -3,7 +3,7 @@ layout: post
 title: Need/Want Inc.
 description: Brand Copy
 meta-description: I continue to work with the Need/Want team on a variety of projects and products.
-img: /img/needwant-inc-img.jpg
+img: /img/portfolioThumbnails/needwant-inc-img.jpg
 ---
 
 I have worked, and to continue to work with Jon and Marshall of Need/Want Inc. on the copy for a variety of projects. These include:

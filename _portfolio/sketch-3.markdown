@@ -3,7 +3,7 @@ layout: post
 title: Sketch 3
 description: App Store Description
 meta-description: You've probably heard of Sketch 3, but did you know that I wrote the App Store Description? Now you know!
-img: /img/sketch-3-img.png
+img: /img/portfolioThumbnails/sketch-3-img.png
 ---
 
 I had the pleasure of consulting with the [Bohemian Coding](http://bohemiancoding.com/sketch/) team on their Mac App Store description for their Sketch 3 graphic design program. I helped simplify and clearly communicate their application for millions of prospective users. By showcasing the benefits of Sketch, we were able to increase engagement and ultimately grow the apps potential for popularity.

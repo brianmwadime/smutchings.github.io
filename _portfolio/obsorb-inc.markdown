@@ -3,7 +3,7 @@ layout: post
 title: Obsorb Inc.
 description: Site Copy
 meta-description: I worked with Marshall Haas, and brought in an illustrator, to bring life to Obsorb's marketing site.
-img: /img/obsorb-img.jpeg
+img: /img/portfolioThumbnails/obsorb-img.jpeg
 ---
 
 When launching a marketing site, it’s vital that you get your message across. By pairing my succinct copy, with illustrations from [Baker2D](http://www.baker2d.co.uk/), it was easy for Marshall and his team to highlight Obsorb’s features.

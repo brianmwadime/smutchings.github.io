@@ -3,7 +3,7 @@ layout: post
 title: Space Is Interesting
 description: Fact Finding
 meta-description: Do you know what’s really interesting? Space. Well, it is until you have to source and write 150 facts about it.
-img: /img/spaceisinteresting-img.jpg
+img: /img/portfolioThumbnails/spaceisinteresting-img.jpg
 ---
 
 Do you know what’s really interesting? Space. Well, it is until you have to source and write 150 facts about it.
