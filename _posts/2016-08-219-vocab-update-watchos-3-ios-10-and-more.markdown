@@ -173,7 +173,7 @@ HomeKit comes back to the Apple TV with tvOS. 4th Generation Apple TVs can now b
 
 **Single Sign-On**
 
-Apple TV owners in American can now quickly and easily sign into their cable or satellite subscription to get access to their apps and content.
+Apple TV owners in America can now quickly and easily sign into their cable or satellite subscription to get access to their apps and content.
 
 ### Did I miss anything?
 
