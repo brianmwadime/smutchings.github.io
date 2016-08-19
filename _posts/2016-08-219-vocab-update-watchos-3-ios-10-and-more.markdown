@@ -139,7 +139,7 @@ Also available on iOS 10, Memories brings your photos together into video memori
 
 **Optimized Storage**
 
-Your Mac can now optimise (as it's known in the UK) its own storage. Rarely used files will be moved to the cloud, old files will be surfaces do you can delete if you need, and all so you never run out of storage.
+Your Mac can now optimise (as it's known in the UK) its own storage. Rarely used files will be moved to the cloud and old files will be surfaced so you can delete if you need, all so you never run out of storage.
 
 **Picture in Picture**
 
