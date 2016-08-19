@@ -87,7 +87,7 @@ Apple Watch is now designed for those who use a wheelchair in day-to-day life. S
 
 **Unlock your Mac**
 
-An Apple Watch running watchOS 3 can not automatically unlock your Mac running macOS Sierra when nearby. No longer type in your password every time. 
+An Apple Watch running watchOS 3 can now automatically unlock your Mac running macOS Sierra when nearby. No longer type in your password every time. 
 
 ## iOS 10
 
