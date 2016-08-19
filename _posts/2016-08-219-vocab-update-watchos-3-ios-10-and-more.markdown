@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vocab Update&#58; watchOS 3, iOS 10, macOS Sierra and tvOS, and more.
+title: Vocab Update&#58; watchOS 3, iOS 10, macOS Sierra, tvOS, and more.
 date: 2016-08-19 21:10:00
 description: With every new Apple product and OS update comes a slew of new terms and features for us to wrap our heads around.
 meta-description: With every new Apple product and OS update comes a slew of new terms and features for us to wrap our heads around.
