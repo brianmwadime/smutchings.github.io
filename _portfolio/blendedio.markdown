@@ -3,7 +3,7 @@ layout: post
 title: Blended.io
 description: Website Rewrite
 meta-description: Blended.io create integrated and multi-platform experiences for their customers. And I helped them talk about it.
-img: /img/portfolioThumbnails/blendedLogo.png
+img: /img/portfolio/thumbnails/blendedLogo.png
 ---
 
  [Blended.io](https://blended.io) design and build multi-platform solutions and experiences for their clients. Designed to deliver a great experience and withstand the pressure and demands on the 21st-century consumer, their API-based applications are able to deliver thousands of requests a second whilst delighting users.

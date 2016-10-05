@@ -3,7 +3,7 @@ layout: post
 title: Typeform.com
 description: In-House Copywriter
 meta-description: As a core member of the Typeform marketing team, I helped define a tone for an up and coming startup.
-img: /img/portfolioThumbnails/typeform-img.jpg
+img: /img/portfolio/thumbnails/typeform-img.jpg
 ---
 
 Working as a core member of the marketing team, my responsibilities included:

@@ -3,7 +3,7 @@ layout: post
 title: Dockbit
 description: Communication Consultant
 meta-description: Dockbit is the new way for software teams to deploy together. I work with them to ensure their communications are on point.
-img: /img/portfolioThumbnails/dockbitLogo.png
+img: /img/portfolio/thumbnails/dockbitLogo.png
 ---
 
  [Dockbit](https://dockbit.com) makes it easy for teams, technical and non-technical alike, to deploy software without fear. Optimised for modern workflows, including ChatOps for deployment through Slack, it's a whole new way to deploy to the web, so they needed some help when it came to getting their message across.

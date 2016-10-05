@@ -3,7 +3,7 @@ layout: post
 title: King.com
 description: King.com Community Communications
 meta-description: Working with King.com's Community team, I created a series of communications for different in-games events.
-img: /img/portfolioThumbnails/king-com.jpg
+img: /img/portfolio/thumbnails/king-com.jpg
 ---
 
 Working with the Community team at [King.com](http://company.king.com/), a leading interactive entertainment company for the mobile world, I created a series of miscellaneous communications to help drive player engagement across a selection of their games. This copy includes:

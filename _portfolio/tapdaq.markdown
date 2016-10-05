@@ -3,7 +3,7 @@ layout: post
 title: Tapdaq
 description: Blog and Emails
 meta-description: Contracted from September - November 2014, I played a core role in Tapdaq's content strategy.
-img: /img/portfolioThumbnails/tapdaq-img.jpg
+img: /img/portfolio/thumbnails/tapdaq-img.jpg
 ---
 
 Contracted from September – November 2014, I was a core part of Tapdaq’s content strategy. Responsibilities included:

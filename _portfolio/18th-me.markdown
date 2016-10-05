@@ -3,7 +3,7 @@ layout: post
 title: 18th.me
 description: Site Copy
 meta-description: Working with Marshall is always a pleasure. I worked closely with him to get the 18th.me copy just right.
-img: /img/portfolioThumbnails/18thme-img.jpeg
+img: /img/portfolio/thumbnails/18thme-img.jpeg
 ---
 
 Working with Marshall Haas is always a pleasure. I worked closely with Marshall to get the copy for [18th.me](http://18th.me) just right.
