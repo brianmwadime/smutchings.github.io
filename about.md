@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/prof_pic.png">
 
 <br/>
 Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. I'm happy working alone, as part of a team, or running a project.
