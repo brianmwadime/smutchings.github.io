@@ -13,7 +13,7 @@ Passionate about communication and great experiences, I bring my knowledge in bo
 
 My specialities are product copy, UX copy and short-form communications such as email.
 
-If you're looking for someone to write long-form or blog content, I'm not your guy. But I can bring the right people together to help you achieve your goals, whatever they may be.
+If you're looking for someone to write long-form or blog content, I'm not your guy. But I will bring the right people together to help you achieve your goals, whatever they may be.
 
 <a href="http://samhutchings.co/hireme/">Get in touch, and let's see how you can communicate better!</a>
 
