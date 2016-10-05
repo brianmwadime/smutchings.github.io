@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire Me
+title: Hire Sam
 permalink: /hireme/
 meta-description: Currently taking on passionate new clients looking to boost their communications or discuss experience design.
 ---
