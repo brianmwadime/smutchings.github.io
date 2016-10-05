@@ -10,4 +10,4 @@ Starting from nothing can be incredibly liberating. With Nuance Designs, I worke
 
 What results is a beautiful, content-led website which helps Nuance’s customers understand what their auto-injectors can do for their pharma business.
 
-<img src="/img/nuance-designs-screenshot.png">
+<img src="/img/portfolio/nuance-designs-screenshot.png">

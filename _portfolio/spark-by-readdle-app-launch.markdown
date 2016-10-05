@@ -23,5 +23,5 @@ Denys Zhadanov, Head of Marketing at Readdle:
 
 >Sam did a great job working with us on the copy for Spark. He was very responsive, reliable and managed to turn tech terms into words that all people would understand.
 
-<img src="/img/readdle_com_products_spark.png">
+<img src="/img/portfolio/readdle_com_products_spark.png">
  

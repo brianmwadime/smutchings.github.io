@@ -10,4 +10,4 @@ I worked with [Readdle’s](https://readdle.com) Marketing team to ensure that t
 
 A preview of the announcement email can be seen below.
 
-<img src="/img/scanner-pro-6-by-readdle-email.png">
+<img src="/img/portfolio/scanner-pro-6-by-readdle-email.png">

@@ -12,5 +12,5 @@ Marshall Haas, Co-Founder:
 
 >“I contracted Sam to help the Obsorb marketing site really stand out. His copy gives the site its voice. The illustrator he recommended gives the site a colorful twist.” 
 
-<img src="/img/Obsorb.jpg">
+<img src="/img/portfolio/Obsorb.jpg">
  

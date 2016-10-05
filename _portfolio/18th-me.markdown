@@ -12,5 +12,5 @@ Marshall Haas, Owner:
 
 >“Sam really got the idea behind 18th.me, and was able to suggest some awesome ideas for the copy, and how the paintings could be used. A true asset.”
 
-<img src="/img/18th.me-The-Ultimate-Conversation-Piece1.jpg">
+<img src="/img/portfolio/18th.me-The-Ultimate-Conversation-Piece1.jpg">
  

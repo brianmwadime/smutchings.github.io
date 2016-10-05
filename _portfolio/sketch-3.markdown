@@ -10,4 +10,4 @@ I had the pleasure of consulting with the [Bohemian Coding](http://bohemiancodin
 
 The app quickly reached #1 on the Mac App Store charts, and was featured (including an excerpt of the app store description) on [Cult of Mac](http://www.cultofmac.com/274580/design-app-called-sketch-3-top-mac-app-store-heres/).
 
-<img src="/img/sketch-3-app-store-description.png">
+<img src="/img/portfolio/sketch-3-app-store-description.png">

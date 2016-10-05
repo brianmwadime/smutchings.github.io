@@ -14,5 +14,5 @@ This awesome app, conceived by [Cesar Kuriyama](http://www.cesarkuriyama.com/), 
 - Used 1SE to record what you eat? Your taste buds changed completely for each 15 seconds you saved.
 - Lonesome George would have racked up over 10 hours of video. Just very, very slowly.
 
-<img src="/img/1se-notification-screenshot.png">
+<img src="/img/portfolio/1se-notification-screenshot.png">
  

@@ -10,4 +10,4 @@ img: /img/portfolioThumbnails/blendedLogo.png
  
  When it came to rewriting their website for their new design, Blended.io's co-founders, Patrick and Andree, trust me to get their message across. Through iterative simplification and refinement of the message, we were able to get to the final product you can see online today. 
 
-<center><img src="/img/blendedWebsite.png"></center>
+<center><img src="/img/portfolio/blendedWebsite.png"></center>

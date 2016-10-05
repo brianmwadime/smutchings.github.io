@@ -13,5 +13,5 @@ Matt Deiters, Founder:
 >“Sam really helped crystallize our message and make our copy pop.”
 
 
-<img src="/img/Pitchbox-An-invite-only-developer-talent-agency-to-help-you-discover-unique-full-time-and-contracting-jobs-with-teams-that-recognize-and-reward-your-contributions.-2.jpg">
+<img src="/img/portfolio/Pitchbox-An-invite-only-developer-talent-agency-to-help-you-discover-unique-full-time-and-contracting-jobs-with-teams-that-recognize-and-reward-your-contributions.-2.jpg">
  

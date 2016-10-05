@@ -8,7 +8,7 @@ img: /img/portfolioThumbnails/8fit-img.png
 
 With a design and some structure already in place, the 8fit team asked me to step in and jazz up the copy for their Apple Watch announcement email and landing page. We focussed on the benefits to the user and the novelty of bringing these great new features to your wrist.
 
-<img src="/img/8fit-email-screenshot.png">
+<img src="/img/portfolio/8fit-email-screenshot.png">
 
-<img src="/img/8fit-site-screenshot.png">
+<img src="/img/portfolio/8fit-site-screenshot.png">
  
