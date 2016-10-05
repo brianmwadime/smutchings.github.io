@@ -7,7 +7,11 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
+I help companies around the world communicate betwee with their customers and users. With previous clients including such big names as King.com, Lexus and Typeform; you know you're in good hands.
+
 Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. I'm happy working alone, as part of a team, or running a project.
+
+My specialities are product copy, UX copy and short-form communications.
 
 If you're looking for someone to write long-form or blog content for you, I'm not your guy. But I'm happy to bring a team together to help you achieve your goals, whatever they may be.
 
