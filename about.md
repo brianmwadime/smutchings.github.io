@@ -11,7 +11,7 @@ I help companies around the world communicate better with their customers and us
 
 Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. I'm happy working alone, as part of a team, or running a project.
 
-My specialities are product copy, UX copy and short-form communications.
+My specialities are product copy, UX copy and short-form communications such as email.
 
 If you're looking for someone to write long-form or blog content for you, I'm not your guy. But I'm happy to bring a team together to help you achieve your goals, whatever they may be.
 
