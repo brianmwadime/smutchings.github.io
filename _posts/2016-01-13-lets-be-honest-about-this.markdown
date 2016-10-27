@@ -19,6 +19,7 @@ For 2016, I want to try doing things a little differently (how can it hurt?), so
 - <a href="#what-i-charge-and-how">What I Charge and How</a>
 
 <div id = "the-way-i-work"></div>
+
 ## The Way I Work
 
 
@@ -33,6 +34,7 @@ We all work in different ways. In an effort to control my life and not spend all
 - If we're not working in the same place, I'll send you a weekly update email to keep you up-to-date with where we are at.
 
 <div id = "the-tools-i-use"></div>
+
 ## The Tools I Use
 
 
@@ -80,6 +82,7 @@ I use Dropbox solely with my accountant for synching invoices and expenses.
 I'm happy to use Google Drive, through the web interface, when no other alternative will do.
 
 <div id = "what-i-charge-and-how"></div>
+
 ## What I Charge and How
 
 Money is one of the most difficult things to discuss when it comes to freelancers working with clients. So many questions whirl around - "Am I charging enough?", "Am I charging too much?", "Will this put the client off?" - and create a lot of stress and uncertainty at the beginning of a project. So, let's get rid of that back and forth. Here's what I charge and how:
