@@ -10,24 +10,28 @@ I've wanted to write this blog post - outlining the way I work, the tools I use,
 
 For 2016, I want to try doing things a little differently (how can it hurt?), so I'm writing it. **This is a living document**, I'll update it every time there's a change to my rate, the systems I use, or anything else listed on this page. (I'll also look into a way to make it more central to my website going forward).
 
-## The Way I Work
+*Last updated: 27th October 2016*
+
+## Contents
+
+- <a href="#the-way-i-work">The Way I Work</a>
+- <a href ="#the-tools-i-use">The Tools I Use</a>
+- <a href="#what-i-charge-and-how">What I Charge and How</a>
+
+## <div id = "the-way-i-work">The Way I Work</div>
 
 
 We all work in different ways. In an effort to control my life and not spend all of it working, I work in the following way:
 
-- I work in 5-hour sprints, normally one per day, to allow me [time to decompress](https://medium.com/lessons-learned-1/it-attacks-from-within-d2f50e9da5ef#.ucf4usnrp) and enjoy life.
-
-- I do not subscribe to specific working days or a specific working week. I work what's best to get the work done and delivered on time.
+- I work in 6-hour sprints, normally one per day, to allow me [time to decompress](https://medium.com/lessons-learned-1/it-attacks-from-within-d2f50e9da5ef#.ucf4usnrp) and enjoy life.
 
 - I take a "No Bullshit" approach to working. That means that I will call things as I see them and expect the same courtesy from you. We don't get better by being pandered to.
-
-- As with any creative field, there will be days where inspiration doesn't strike and I may have to disappear for a walk or something to get things doing. You obviously won't be charged for the times when I'm not working.
 
 - I'm open to working from your offices or a specific locale, but all expenses related to getting to and working from that locale will be passed on.
 
 - If we're not working in the same place, I'll send you a weekly update email to keep you up-to-date with where we are at.
 
-## The Tools I Use
+## <div id = "the-tools-i-use">The Tools I Use</div>
 
 I currently use the following tools:
 
@@ -72,13 +76,13 @@ I use Dropbox solely with my accountant for synching invoices and expenses.
 
 I'm happy to use Google Drive, through the web interface, when no other alternative will do.
 
-## What I Charge and How
+## <div id = "what-i-charge-and-how">What I Charge and How</div>
 
 Money is one of the most difficult things to discuss when it comes to freelancers working with clients. So many questions whirl around - "Am I charging enough?", "Am I charging too much?", "Will this put the client off?" - and create a lot of stress and uncertainty at the beginning of a project. So, let's get rid of that back and forth. Here's what I charge and how:
 
-- I charge £85 (about $120/€110) an hour for communication and marketing consultation work. This includes time spent writing, on calls, researching your product and its competitors, etc.
+- I charge £60 (about $75/€70) an hour.
 
-- I work in 5-hour sprints (equivalent to 1 day's work) and projects are charged in this way. This means a day rate of £425 (about $600/€550).
+- I work in 6-hour sprints (equivalent to 1 day's work) and projects are charged in this way. This means a day rate of £360 (about $440/€405).
 
 - A deposit of 50% is required before a project begins.
 
@@ -94,10 +98,11 @@ Money is one of the most difficult things to discuss when it comes to freelancer
 
 ### Would you like to work with me?
 
-If, after reading this document, you’d like to work with me, you can find examples of my work at [http://www.samhutchings.co/portfolio](http://www.samhutchings.co/portfolio) or get in contact at [http://samhutchings.co/hireme/](http://samhutchings.co/hireme/).
+If you’d like to work with me, you can find examples of my work at [http://www.samhutchings.co/portfolio](http://www.samhutchings.co/portfolio) or get in contact at [http://samhutchings.co/hireme/](http://samhutchings.co/hireme/).
 
 As always, you can find me as [@Smutchings on twitter](http://twitter.com/@smutchings).
 
 ##### Change Log
 
+_27/10/2016: Updated to reflect reduction in hourly rate and change in sprint lengths._
 _11/04/2016: Updated to reflect change of hourly rate to be £s and removal of VAT due to being located in the UK._
