@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's be honest about this
-date:   2016-10-13 21:35:00
+date:   2016-10-27 21:35:00
 description: When it comes to business, being honest is the best way to go. In this post, I outline how I work, what tools I use and how much I charge.
 meta-description: When it comes to business, being honest is the best way to go. In this post, I outline how I work, what tools I use and how much I charge.
 ---
@@ -112,4 +112,5 @@ As always, you can find me as [@Smutchings on twitter](http://twitter.com/@smutc
 ##### Change Log
 
 _27/10/2016: Updated to reflect reduction in hourly rate and change in sprint lengths._
+
 _11/04/2016: Updated to reflect change of hourly rate to be £s and removal of VAT due to being located in the UK._
