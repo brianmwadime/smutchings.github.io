@@ -14,9 +14,9 @@ For 2016, I want to try doing things a little differently (how can it hurt?), so
 
 ## Contents
 
-- <a href="#the-way-i-work">The Way I Work</a>
-- <a href ="#the-tools-i-use">The Tools I Use</a>
-- <a href="#what-i-charge-and-how">What I Charge and How</a>
+1. <a href="#the-way-i-work">The Way I Work</a>
+2. <a href ="#the-tools-i-use">The Tools I Use</a>
+3. <a href="#what-i-charge-and-how">What I Charge and How</a>
 
 <div id = "the-way-i-work"></div>
 
