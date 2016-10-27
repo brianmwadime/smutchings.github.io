@@ -31,7 +31,9 @@ We all work in different ways. In an effort to control my life and not spend all
 
 - If we're not working in the same place, I'll send you a weekly update email to keep you up-to-date with where we are at.
 
-## <div id = "the-tools-i-use">The Tools I Use</div>
+<div id = "the-tools-i-use">
+## The Tools I Use
+</div>
 
 I currently use the following tools:
 
