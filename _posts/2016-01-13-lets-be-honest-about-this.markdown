@@ -109,7 +109,7 @@ If you’d like to work with me, you can find examples of my work at [http://www
 
 As always, you can find me as [@Smutchings on twitter](http://twitter.com/@smutchings).
 
-##### Change Log
+### Change Log
 
 _27/10/2016: Updated to reflect reduction in hourly rate and change in sprint lengths._
 
