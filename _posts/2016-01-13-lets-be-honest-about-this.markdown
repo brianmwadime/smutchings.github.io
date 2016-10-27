@@ -103,7 +103,7 @@ Money is one of the most difficult things to discuss when it comes to freelancer
 
 - Overdue payment carries a penalty of 20% of the invoice amount. You'll get a reminder a couple of days before the invoice is due. 
 
-### Would you like to work with me?
+## Would you like to work with me?
 
 If you’d like to work with me, you can find examples of my work at [http://www.samhutchings.co/portfolio](http://www.samhutchings.co/portfolio) or get in contact at [http://samhutchings.co/hireme/](http://samhutchings.co/hireme/).
 
