@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's be honest about this
-date:   2016-01-13 21:35:00
+date:   2016-10-13 21:35:00
 description: When it comes to business, being honest is the best way to go. In this post, I outline how I work, what tools I use and how much I charge.
 meta-description: When it comes to business, being honest is the best way to go. In this post, I outline how I work, what tools I use and how much I charge.
 ---
