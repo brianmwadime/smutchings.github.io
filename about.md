@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
-I help companies around the world communicate better with their customers and users. And with previous clients including <a href="http://samhutchings.co/project/king-com/">King.com</a>, <a href="http://samhutchings.co/project/lexus/">Lexus</a> and <a href="http://samhutchings.co/project/typeform/">Tyepform</a>; you know you're in good hands.
+I help companies around the world communicate better with their customers and users. And with previous clients including <a href="http://samhutchings.co/project/king-com/">King.com</a>, <a href="http://samhutchings.co/project/lexus/">Lexus</a> and <a href="http://samhutchings.co/project/typeform/">Typeform</a>; you know you're in good hands.
 
 Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. Whether that involves leading a team, joining your team, or working on my own.
 
