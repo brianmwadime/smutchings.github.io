@@ -83,34 +83,8 @@ I'm happy to use Google Drive, through the web interface, when no other alternat
 
 <div id = "what-i-charge-and-how"></div>
 
-## What I Charge and How
-
-Money is one of the most difficult things to discuss when it comes to freelancers working with clients. So many questions whirl around - "Am I charging enough?", "Am I charging too much?", "Will this put the client off?" - and create a lot of stress and uncertainty at the beginning of a project. So, let's get rid of that back and forth. Here's what I charge and how:
-
-- I charge £60 (about $75/€70) an hour.
-
-- I work in 6-hour sprints (equivalent to 1 day's work) and projects are charged in this way. This means a day rate of £360 (about $440/€405).
-
-- A deposit of 50% is required before a project begins.
-
-- For projects taking under 2 weeks, a final invoice for the remaining 50% (or more, if the scope has changed) will be issued once the project has been completed, but before the work is handed over.
-
-- For projects taking over 2 weeks, an invoice will be generated every two weeks, starting 14 days after the deposit is paid.
-
-- Invoices may be paid by Credit/Debit Card (using Harvest's secure online payment page) or by Bank Transfer (IBAN details are on every issued invoice).
-
-- Invoices are issued with Net 15 payment terms, meaning that payment is due 15 days after the invoice is issued. For example, an invoice issued on the 2nd of the month will be due for payment on the 17th of the month.
-
-- Overdue payment carries a penalty of 20% of the invoice amount. You'll get a reminder a couple of days before the invoice is due. 
-
 ## Would you like to work with me?
 
 If you’d like to work with me, you can find examples of my work at [http://www.samhutchings.co/portfolio](http://www.samhutchings.co/portfolio) or get in contact at [http://samhutchings.co/hireme/](http://samhutchings.co/hireme/).
 
 As always, you can find me as [@Smutchings on twitter](http://twitter.com/@smutchings).
-
-### Change Log
-
-_27/10/2016: Updated to reflect reduction in hourly rate and change in sprint lengths._
-
-_11/04/2016: Updated to reflect change of hourly rate to be £s and removal of VAT due to being located in the UK._
