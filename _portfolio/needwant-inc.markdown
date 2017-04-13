@@ -14,5 +14,5 @@ I have worked, and to continue to work with Jon and Marshall of Need/Want Inc. o
 
 I consulted on the script for the Smart Bedding introduction video, for example.
 
-<iframe width="940" height="529" src="https://www.youtube.com/embed/4dUiNaGYwow" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4dUiNaGYwow?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe></center>
  
