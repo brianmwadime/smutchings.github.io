@@ -10,5 +10,5 @@ With a design and some structure already in place, the 8fit team asked me to ste
 
 <img src="/img/portfolio/8fit-email-screenshot.png">
 
-<center><img src="/img/portfolio/8fit-site-screenshot.png" border="5"></center>
+<center><img src="/img/portfolio/8fit-site-screenshot.png" border="5 #666"></center>
  
