@@ -20,5 +20,4 @@ Jon Wheatley, Creator:
 
 >“Sam’s knowledge of the market, and skill with words, brought great value to his work. He’s also a great guy to work with.”
 
-<img src="/img/portfolio/spacedice_directions.png">
- 
+<center><img src="/img/portfolio/spacedice_directions.png" border="5 #666"></center>

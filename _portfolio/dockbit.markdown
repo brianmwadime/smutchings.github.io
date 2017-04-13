@@ -10,4 +10,4 @@ img: /img/portfolio/thumbnails/dockbitLogo.png
 
 I've worked regularly with Dockbit through 2016 to help Tair and his team communicate effectively with potential customers, local communities, and investors. And I continue to work with them as a communication consultant as they prepare to launch their paid-for offerings.
 
-<center><img src="/img/portfolio/dockbitWebsite.png"></center>
+<center><img src="/img/portfolio/dockbitWebsite.png" border="5 #666"></center>

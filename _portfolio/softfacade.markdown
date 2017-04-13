@@ -12,5 +12,5 @@ Anton Zykin, CEO:
 
 >“At SoftFacade, we believe every detail matters. Sam helped make sure our message was delivered effectively and consistently. We would happily work with him again.”
 
-<img src="/img/portfolio/Iconfinder-Logo-Redesign-Case-Study-–-SoftFacade.jpg">
+<img src="/img/portfolio/Iconfinder-Logo-Redesign-Case-Study-–-SoftFacade.jpg" border="5 #666">
  

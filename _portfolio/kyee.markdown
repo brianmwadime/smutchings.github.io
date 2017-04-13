@@ -8,5 +8,5 @@ img: /img/portfolio/thumbnails/kyee-img.jpg
 
 [Kyee](http://kyee.co.uk) puts a lot of love and attention to detail into his work, and his portfolio. Before launch, I made sure that the copy he used reflected this obsession with detail and delivering amazing designs.
 
-<img src="/img/portfolio/KYEE-A-Designer-For-Web-Developers-Entrepreneurs.jpg">
+<img src="/img/portfolio/KYEE-A-Designer-For-Web-Developers-Entrepreneurs.jpg" border="5 #666">
  

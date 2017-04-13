@@ -12,4 +12,4 @@ James, Realising Designs:
 
 >Sam was a pleasure to work with on our website copy project (www.realisingdesigns.com). He provided great results, on-time and valuable inputs throughout – highly recommended.
 
-<img src="/img/portfolio/sh-rdl-canterbury.png">
+<center><img src="/img/portfolio/sh-rdl-canterbury.png" border="5 #666"></center>
