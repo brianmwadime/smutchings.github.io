@@ -9,11 +9,9 @@ meta-description: Designer Portfolio.
   <div class="row full-height">
     <div class="col-lg-7 col-left-scroll">
 
-
       {% for project in site.portfolio %}
 
         {% if project.redirect %}
-
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
@@ -23,13 +21,9 @@ meta-description: Designer Portfolio.
           </div>
         </div>
 
-
-        {% else %}
-          <p>There's nothing here yet!</p>
-        {% endif %}
+      {% else %}
 
       {% endfor %}
-
 
     </div>
     <div class="col-lg-5" style="position: fixed; right: 0%;">

@@ -7,7 +7,7 @@ baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: smutchings
 github_username:  smutchings
-permalink: /:title/
+permalink: /thought/:title/
 timezone: Europe/London
 
 gems:
@@ -26,4 +26,4 @@ paginate_path: "/blog/page:num/"
 collections:
   portfolio:
     output: true
-    permalink: /designer/:path/
+    permalink: /project/:path/
