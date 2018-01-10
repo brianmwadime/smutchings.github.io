@@ -11,6 +11,7 @@ meta-description:
 
       {% for project in site.portfolio %}
 
+        {% if project.redirect %}
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
@@ -19,6 +20,8 @@ meta-description:
             <a href="{{ project.redirect }}" class="btn btn-block btn-outline-primary">Go somewhere</a>
           </div>
         </div>
+
+      {% else %}
 
       {% endfor %}
 
