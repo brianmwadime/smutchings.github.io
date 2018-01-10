@@ -1,0 +1,97 @@
+body {
+  background-color: #10001F;
+  font-family: 'BrixSansLight', sans-serif;
+}
+
+h5 {
+  font-family: 'BrixSansExtraLight', serif;
+  font-size: 1.5em;
+  color: #10001F;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+@font-face {
+    font-family: 'Paralines';
+    src: url('font/Paralines-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrixSansLight';
+    src: url('font/Brix-Sans-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrixSansExtraLight';
+    src: url('font/Brix-Sans-ExtraLight.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family: 'Paralines', sans-serif;
+  font-size: 6em;
+  color: white;
+}
+
+li a:link {
+  text-decoration: none;
+}
+
+li a:visited {
+  text-decoration: none;
+}
+
+/* Styles for Home Page Navigation */
+
+#home-navigation {
+  font-family: 'Paralines', sans-serif;
+  font-size: 6em;
+}
+
+#home-navigation ul > li:first-child a {
+  color: #FFEC00;
+}
+
+#home-navigation ul > li:nth-child(2) a {
+  color: #FF001F;
+}
+
+#home-navigation ul > li:last-child a {
+  color: #1DA1F2;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+.one-word-line {
+    word-spacing: 10000px;
+}
+
+.full-height {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.col-left-scroll {
+  position: fixed;
+  left: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 100vh;
+}
+
+.card {
+  margin-bottom: 2em;
+  margin-top: 2em;
+}

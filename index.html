@@ -2,36 +2,23 @@
 layout: default
 ---
 
-<div class="header-bar">
-  <h1>Sam Hutchings</h1>
-  <h2>Helping People Communicate</h2>
-  <br/>
-  <hr>
-  <br/>
+  <div class="container">
+  <div class="row full-height">
+    <div class="col-lg-7">
+      <h1 class="one-word-line">Samuel Hutchings</h1>
+    </div>
+    <div class="col-lg-5">
+      <!-- HTML for Home Page navigation-->
+      <div id="home-navigation">
+        <ul>
+          <li><a href="designer.html">Designer</a></li>
+          <li><a href="https://www.medium.com/@Smutchings" target="_blank">Writer</a></li>
+          <li><a href="https://www.twitter.com/Smutchings" target="_blank">Tweeter</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
-
-<!-- Pagination links -->
-<div class="pagination">
-    {% if paginator.previous_page %}
-        <div class="pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous">Previous</a></div>
-    {% else %}
-    {% endif %}
-        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-    <div class="pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next</a></div>
-    {% else %}
-    {% endif %}
-</div>
+</body>
+</html>
