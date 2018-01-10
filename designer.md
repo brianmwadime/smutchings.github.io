@@ -9,7 +9,7 @@ meta-description: Designer Portfolio.
   <div class="row full-height">
     <div class="col-lg-7 col-left-scroll">
 
-      {% for project in site.portfolio %}
+      {% for project in site.designer %}
 
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
