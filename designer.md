@@ -9,14 +9,11 @@ meta-description: Designer Portfolio.
   <div class="row full-height">
     <div class="col-lg-7 col-left-scroll">
 
-<<<<<<< HEAD
-      <!-- {% for project in site.portfolio %}
 
-        {% if project.redirect %} -->
-=======
-      {% for project in site.designer %}
+      {% for project in site.portfolio %}
 
->>>>>>> origin/master
+        {% if project.redirect %}
+
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
@@ -25,17 +22,14 @@ meta-description: Designer Portfolio.
             <a href="{{ project.redirect }}" class="btn btn-block btn-outline-primary">Go somewhere</a>
           </div>
         </div>
-<<<<<<< HEAD
-<!-- 
+
+
         {% else %}
           <p>There's nothing here yet!</p>
         {% endif %}
 
-      {% endfor %} -->
-=======
+      {% endfor %}
 
-        {% endfor %}
->>>>>>> origin/master
 
     </div>
     <div class="col-lg-5" style="position: fixed; right: 0%;">
