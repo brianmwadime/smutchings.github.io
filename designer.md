@@ -21,14 +21,6 @@ meta-description: Designer Portfolio.
           </div>
         </div>
 
-        {% else %}
-
-          <p>There's nothing here yet!</p>
-
-        {% endif %}
-
-      {% endfor %}
-
     </div>
     <div class="col-lg-5" style="position: fixed; right: 0%;">
       <!-- HTML for Home Page navigation-->
