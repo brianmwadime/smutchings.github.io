@@ -15,21 +15,21 @@ p {
 
 @font-face {
     font-family: 'Paralines';
-    src: url('/font/Paralines-Regular.otf');
+    src: url('font/Paralines-Regular.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BrixSansLight';
-    src: url('/font/Brix-Sans-Light.ttf');
+    src: url('font/Brix-Sans-Light.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BrixSansExtraLight';
-    src: url('/font/Brix-Sans-ExtraLight.ttf');
+    src: url('font/Brix-Sans-ExtraLight.ttf');
     font-weight: normal;
     font-style: normal;
 }
