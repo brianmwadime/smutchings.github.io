@@ -20,8 +20,7 @@ meta-description: Designer Portfolio.
             <a href="{{ project.redirect }}" class="btn btn-block btn-outline-primary">Go somewhere</a>
           </div>
         </div>
-
-      {% else %}
+        {% endif %}
 
       {% endfor %}
 
