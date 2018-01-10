@@ -22,7 +22,9 @@ meta-description: Designer Portfolio.
         </div>
 
         {% else %}
+
           <p>There's nothing here yet!</p>
+
         {% endif %}
 
       {% endfor %}
