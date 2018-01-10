@@ -11,7 +11,6 @@ meta-description: Designer Portfolio.
 
       {% for project in site.portfolio %}
 
-        {% if project.redirect %}
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
@@ -20,6 +19,8 @@ meta-description: Designer Portfolio.
             <a href="{{ project.redirect }}" class="btn btn-block btn-outline-primary">Go somewhere</a>
           </div>
         </div>
+
+        {% endfor %}
 
     </div>
     <div class="col-lg-5" style="position: fixed; right: 0%;">
