@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samuel Hutchings - Designer
-permalink: /designer/
+permalink: /designer
 meta-description: Designer Portfolio.
 ---
 
