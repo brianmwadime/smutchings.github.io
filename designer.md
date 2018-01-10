@@ -21,6 +21,8 @@ meta-description: Designer Portfolio.
           </div>
         </div>
 
+        {% endif %}
+
       {% else %}
 
       {% endfor %}
