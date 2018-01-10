@@ -3,7 +3,7 @@ layout: post
 title: Portfolio Two
 description: In-House Copywriter
 meta-description: As a core member of the Typeform marketing team, I helped define a tone for an up and coming startup.
-img: ../img/image2.jpg
+img: /img/image2.jpg
 ---
 
 Working as a core member of the marketing team, my responsibilities included:
