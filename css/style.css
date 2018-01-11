@@ -110,6 +110,7 @@ blockquote {
 #navigation {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
+  list-style-type: none;
 }
 
 #navigation ul > li:first-child a {
