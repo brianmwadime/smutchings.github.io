@@ -84,6 +84,19 @@ del {
   text-decoration: line-through;
 }
 
+ol {
+  list-style-type: decimal;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+blockquote {
+  padding: 0 1em;
+  border-left: 0.25em solid #10001F;
+}
+
 #navigation li a:link {
   text-decoration: none;
 }
