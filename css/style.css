@@ -3,12 +3,6 @@ body {
   font-family: 'BrixSansLight', sans-serif;
 }
 
-h5 {
-  font-family: 'BrixSansExtraLight', serif;
-  font-size: 1.5em;
-  color: #10001F;
-}
-
 p {
   margin-bottom: 1em;
 }
@@ -38,6 +32,36 @@ h1 {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
   color: white;
+}
+
+h2 {
+  font-family: 'Paralines', sans-serif;
+  font-size: 4em;
+  color: white;
+}
+
+h3 {
+  font-family: 'BrixSansExtraLight', serif;
+  font-size: 13em;
+  color: #10001F;
+}
+
+h4 {
+  font-family: 'BrixSansExtraLight', serif;
+  font-size: 12em;
+  color: #10001F;
+}
+
+h5 {
+  font-family: 'BrixSansExtraLight', serif;
+  font-size: 1.5em;
+  color: #10001F;
+}
+
+h6 {
+  font-family: 'BrixSansExtraLight', serif;
+  font-size: 1em;
+  color: #10001F;
 }
 
 #navigation li a:link {
