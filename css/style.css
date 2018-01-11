@@ -48,7 +48,7 @@ p {
   color: #10001F;
 }
 
-/* h1 {
+h1 {
   font-size: 6em;
 }
 
@@ -70,7 +70,7 @@ h5 {
 
 h6 {
   font-size: 1.25em;
-} */
+}
 
 em {
   font-style: italic;
