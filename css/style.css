@@ -114,6 +114,7 @@ blockquote {
 
 #navigation ul {
   list-style: none;
+  line-height: 1;
 }
 
 #navigation ul > li:first-child a {
