@@ -72,6 +72,18 @@ h6 {
   font-size: 1em;
 }
 
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
 #navigation li a:link {
   text-decoration: none;
 }
