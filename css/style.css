@@ -28,40 +28,48 @@ p {
     font-style: normal;
 }
 
-h1 {
+.paralines {
   font-family: 'Paralines', sans-serif;
-  font-size: 6em;
+}
+
+.brixSansLight {
+  font-family: 'BrixSansLight', sans-serif;
+}
+
+.brixSansExtraLight {
+  font-family: 'BrixSansExtraLight', sans-serif;
+}
+
+.white {
   color: white;
+}
+
+.purple {
+  color: #10001F;
+}
+
+h1 {
+  font-size: 6em;
 }
 
 h2 {
-  font-family: 'Paralines', sans-serif;
   font-size: 4em;
-  color: white;
 }
 
 h3 {
-  font-family: 'BrixSansExtraLight', serif;
   font-size: 3em;
-  color: #10001F;
 }
 
 h4 {
-  font-family: 'BrixSansExtraLight', serif;
   font-size: 2em;
-  color: #10001F;
 }
 
 h5 {
-  font-family: 'BrixSansExtraLight', serif;
   font-size: 1.5em;
-  color: #10001F;
 }
 
 h6 {
-  font-family: 'BrixSansExtraLight', serif;
   font-size: 1em;
-  color: #10001F;
 }
 
 #navigation li a:link {
