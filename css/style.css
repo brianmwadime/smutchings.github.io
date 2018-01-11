@@ -40,34 +40,34 @@ h1 {
   color: white;
 }
 
-li a:link {
+#navigation li a:link {
   text-decoration: none;
 }
 
-li a:visited {
+#navigation li a:visited {
   text-decoration: none;
 }
 
 /* Styles for Home Page Navigation */
 
-#home-navigation {
+#navigation {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
 }
 
-#home-navigation ul > li:first-child a {
+#navigation ul > li:first-child a {
   color: #FFEC00;
 }
 
-#home-navigation ul > li:nth-child(2) a {
+#navigation ul > li:nth-child(2) a {
   color: #FF001F;
 }
 
-#home-navigation ul > li:last-child a {
+#navigation ul > li:last-child a {
   color: #1DA1F2;
 }
 
-li a:hover {
+#navigation li a:hover {
   text-decoration: underline;
 }
 
