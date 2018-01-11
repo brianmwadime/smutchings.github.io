@@ -29,8 +29,8 @@ meta-description: Designer Portfolio.
       <div id="home-navigation">
         <ul>
           <li><a href="/designer">Designer</a></li>
-          <li><a href="https://www.medium.com/@Smutchings" target="_blank">Writer</a></li>
-          <li><a href="https://www.twitter.com/Smutchings" target="_blank">Tweeter</a></li>
+          <li><a href="https://www.medium.com/@Smutchings">Writer</a></li>
+          <li><a href="https://www.twitter.com/Smutchings">Tweeter</a></li>
         </ul>
       </div>
     </div>
