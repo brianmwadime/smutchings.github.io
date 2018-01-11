@@ -6,9 +6,38 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.meta-description %}{{ page.meta-description }}{% else %}{{ site.description }}{% endif %}">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/reset.css" type="text/css" media=screen>
-    <link rel="stylesheet" href="css/style.css" type="text/css" media=screen>
+    <!-- Favicons -->
+
+      <!-- Default 32x32 png -->
+      <link rel="icon" href="/img/favicon/favicon-32.png" sizes="32x32">
+
+      <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
+       <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/favicon/favicon-152.png">
+
+      <!-- For iPad with high-resolution Retina display running iOS ≤ 6: -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/favicon/favicon-144.png">
+
+      <!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
+      <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/img/favicon/favicon-120.png">
+
+      <!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/favicon/favicon-114.png">
+
+      <!-- For first- and second-generation iPad: -->
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/favicon/favicon-72.png">
+
+      <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+      <link rel="apple-touch-icon-precomposed" href="/img/favicon/favicon-57.png">
+
+      <!-- For IE10 Metro -->
+      <meta name="msapplication-TileColor" content="#10001F">
+      <meta name="msapplication-TileImage" content="/img/favicon/favicon-144.png">
+
+    <!-- Styles -->
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+      <link rel="stylesheet" href="css/reset.css" type="text/css" media=screen>
+      <link rel="stylesheet" href="css/style.css" type="text/css" media=screen>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
