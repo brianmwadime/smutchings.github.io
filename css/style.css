@@ -89,7 +89,7 @@ ol {
 }
 
 ul {
-  list-style-type: circle;
+  list-style: disc;
 }
 
 blockquote {
@@ -110,6 +110,9 @@ blockquote {
 #navigation {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
+}
+
+#navigation ul {
   list-style: none;
 }
 
