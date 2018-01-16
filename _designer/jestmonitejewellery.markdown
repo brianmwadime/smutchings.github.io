@@ -16,10 +16,12 @@ The ultimate result of this process was a series of four space-inspired jesmonit
 
 #### Solar
 
-<img src="/img/jesmoniteVoid.jpg" alt="" title="" />
+<img src="/img/jesmoniteSolar.jpg" alt="" title="" />
 
 #### Lunar
 
-<img src="/img/jesmoniteVoid.jpg" alt="" title="" />
+<img src="/img/jesmoniteLunar.jpg" alt="" title="" />
 
 #### Martian
+
+<img src="/img/jesmoniteMartian.jpg" alt="" title="" />
