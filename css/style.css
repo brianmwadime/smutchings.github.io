@@ -177,6 +177,10 @@ img {
     z-index: 2000;
   }
 
+  .navigation {
+    font-size: 2em;
+  }
+
   .navigation ul {
     display: inline;
   }
