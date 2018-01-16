@@ -133,6 +133,10 @@ blockquote {
   text-decoration: underline;
 }
 
+.scroll-adjust {
+  padding-left: 25px;
+}
+
 .one-word-line {
     word-spacing: 10000px;
 }
