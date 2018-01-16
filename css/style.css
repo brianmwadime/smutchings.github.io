@@ -180,10 +180,14 @@ img {
   .navigation {
     top: 0px;
     font-size: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
 
   .navigation li {
     display: inline;
+    padding-left: 1em;
+    padding-right: 1em;
   }
 
   .full-height {
