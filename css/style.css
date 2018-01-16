@@ -211,12 +211,8 @@ img {
     width: 100vw;
   }
 
-  .navigation ul {
-    display: inline;
-    width: 10em;
-  }
-
   .navigation li {
+    display: inline;
     padding-right: 1em;
     text-align: left;
   }
