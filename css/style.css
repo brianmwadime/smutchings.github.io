@@ -123,10 +123,14 @@ img {
 }
 
 .navigation ul > li:first-child a {
-  color: #FFEC00;
+  color: #FFFFFF;
 }
 
 .navigation ul > li:nth-child(2) a {
+  color: #FFEC00;
+}
+
+.navigation ul > li:nth-child(3) a {
   color: #FF001F;
 }
 
