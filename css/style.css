@@ -200,6 +200,11 @@ img {
 
   .navigation li {
     display: inline;
+    padding-right: 1em;
+  }
+
+  .navigation li:last-child {
+    padding-right: 0;
   }
 
   .full-height {
