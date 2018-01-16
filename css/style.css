@@ -176,7 +176,7 @@ img {
     position: static;
     z-index: 2000;
     width: 100vw;
-    padding: 0;
+    padding: 0px;
   }
 
   .full-height {
@@ -191,6 +191,11 @@ img {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: #10001f;
+  }
+
+  .container{
+    padding: 0px;
+    margin: 0px;
   }
 
   .navigation li {
