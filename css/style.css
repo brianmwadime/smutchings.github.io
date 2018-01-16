@@ -188,6 +188,8 @@ img {
   .navigation {
     width: 100vw;
     text-align: center;
+    position: fixed;
+    top: 0px;
     font-size: 2em;
     padding-top: 1em;
     padding-bottom: 1em;
