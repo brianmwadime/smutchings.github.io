@@ -242,9 +242,17 @@ img {
     text-align: center;
     width: 100vw;
   }
+
+  col-lg-5 {
+    padding: 0px;
+  }
 }
 
 @media (max-width: 500px) {
+
+  col-lg-5 {
+    padding: 0px;
+  }
 
   h1 {
     font-size: 5em;
