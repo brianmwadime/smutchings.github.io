@@ -197,7 +197,8 @@ img {
 
   .navigation ul {
     list-style-type: none;
-    -webkit-padding-start: 0px;
+    margin: 0px;
+    padding: 0px;
   }
 
   .container{
