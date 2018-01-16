@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Portfolio One
-description: In-House Copywriter
-meta-description: As a core member of the Typeform marketing team, I helped define a tone for an up and coming startup.
-img: /img/image1.jpg
+title: Jesmonite Jewellery
+description: Hand-made and designed jesmonite jewellery inspired by the solar system.
+meta-description: Hand-made and designed jesmonite jewellery inspired by the solar system.
+img: /img/jesmoniteHero.jpg
 ---
 
 Working as a core member of the marketing team, my responsibilities included:
