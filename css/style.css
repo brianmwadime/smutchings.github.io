@@ -213,6 +213,7 @@ img {
 
   .navigation ul {
     display: inline-block;
+    width: 10em;
   }
 
   .navigation li {
