@@ -13,7 +13,7 @@ What happens when you mix electronics, garment printing and digital illustration
 <img src="/img/ledTshirtChelsea.jpg" alt="" title="" />
 
 <video width="720" height="405" controls>
-  <source src="ledPaintTest.m4v" type="video/mp4">
-  <source src="ledPaintTest.ogg" type="video/ogg">
+  <source src="/img/ledPaintTest.m4v" type="video/mp4">
+  <source src="/img/ledPaintTest.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
