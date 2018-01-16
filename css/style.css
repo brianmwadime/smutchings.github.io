@@ -171,7 +171,7 @@ img {
   right: 0%;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 999px) {
   .fixed-right-desktop {
     position: static;
     z-index: 2000;
