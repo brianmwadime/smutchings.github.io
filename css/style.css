@@ -178,7 +178,7 @@ img {
   }
 
   .navigation {
-    width: 100%;
+    width: 100vw;
     text-align: center;
     top: 0px;
     font-size: 2em;
