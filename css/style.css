@@ -212,14 +212,13 @@ img {
   }
 
   .navigation ul {
-    display: inline-block;
+    display: inline;
     width: 10em;
   }
 
   .navigation li {
     padding-right: 1em;
     text-align: left;
-    display: inherit;
   }
 
   .navigation li:last-child {
