@@ -177,8 +177,8 @@ img {
     z-index: 2000;
   }
 
-  .navigation {
-    top: 0px;
+  .navigation ul {
+    display: inline;
   }
 
   .full-height {
