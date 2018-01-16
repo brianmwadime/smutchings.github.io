@@ -3,7 +3,7 @@ layout: post
 title: Jesmonite Jewellery
 description: Hand-made and designed jesmonite jewellery inspired by the solar system.
 meta-description: Hand-made and designed jesmonite jewellery inspired by the solar system.
-img: /img/jesmoniteHero.jpg
+img: /img/jesmoniteHero.png
 ---
 
 Working as a core member of the marketing team, my responsibilities included:
