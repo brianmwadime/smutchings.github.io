@@ -191,6 +191,9 @@ img {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: #10001f;
+  }
+
+  .navigation ul {
     list-style-type: none;
     -webkit-padding-start: 0px;
   }
