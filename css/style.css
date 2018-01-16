@@ -97,39 +97,39 @@ blockquote {
   border-left: 0.25em solid #10001F;
 }
 
-#navigation li a:link {
+.navigation li a:link {
   text-decoration: none;
 }
 
-#navigation li a:visited {
+.navigation li a:visited {
   text-decoration: none;
 }
 
 /* Styles for Home Page Navigation */
 
-#navigation {
+.navigation {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
 }
 
-#navigation ul {
+.navigation ul {
   list-style: none;
   line-height: 1;
 }
 
-#navigation ul > li:first-child a {
+.navigation ul > li:first-child a {
   color: #FFEC00;
 }
 
-#navigation ul > li:nth-child(2) a {
+.navigation ul > li:nth-child(2) a {
   color: #FF001F;
 }
 
-#navigation ul > li:last-child a {
+.navigation ul > li:last-child a {
   color: #1DA1F2;
 }
 
-#navigation li a:hover {
+.navigation li a:hover {
   text-decoration: underline;
 }
 

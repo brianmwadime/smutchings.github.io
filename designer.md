@@ -26,7 +26,7 @@ meta-description: Designer Portfolio.
     </div>
     <div class="col-lg-5" style="position: fixed; right: 0%;">
       <!-- HTML for Home Page navigation-->
-      <div id="navigation">
+      <div class="navigation">
         <ul>
           <li><a href="/designer">Designer</a></li>
           <li><a href="https://www.medium.com/@Smutchings">Writer</a></li>
