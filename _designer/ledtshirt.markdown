@@ -11,3 +11,9 @@ What happens when you mix electronics, garment printing and digital illustration
 <img src="/img/ledTShirtClose.jpg" alt="" title="" />
 
 <img src="/img/ledTshirtChelsea.jpg" alt="" title="" />
+
+<video width="320" height="240" controls>
+  <source src="ledPaintTest.m4v" type="video/mp4">
+  <source src="ledPaintTest.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
