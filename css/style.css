@@ -53,6 +53,10 @@ h1 {
   font-size: 6em;
 }
 
+.large {
+  font-size: 1.2;
+}
+
 h2 {
   font-size: 4em;
 }
