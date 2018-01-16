@@ -1,6 +1,7 @@
 body {
   background-color: #10001F;
   font-family: 'BrixSansLight', sans-serif;
+  -webkit-overflow-scrolling: touch;
 }
 
 p {
