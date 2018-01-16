@@ -236,12 +236,18 @@ img {
   .scroll-adjust {
     padding-left: 0px;
   }
+
+  h1 {
+    font-size: 6em;
+    text-align: center;
+  }
 }
 
 @media (max-width: 500px) {
 
   h1 {
     font-size: 5em;
+    text-align: center;
   }
 
 }
