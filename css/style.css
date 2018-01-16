@@ -155,7 +155,7 @@ img {
 }
 
 .col-left-scroll {
-  position: fixed;
+  position: absolute;
   left: 0;
   overflow-y: scroll;
   overflow-x: hidden;
@@ -168,13 +168,13 @@ img {
 }
 
 .fixed-right-desktop {
-  position: fixed;
+  position: absolute;
   right: 0%;
 }
 
 @media (max-width: 990px) {
   .fixed-right-desktop {
-    position: fixed;
+    position: absolute;
     top: 0px;
     z-index: 2000;
     width: 100vw;
@@ -188,8 +188,7 @@ img {
   .navigation {
     width: 100vw;
     text-align: center;
-    position: fixed;
-    top: 0px;
+    position: absolute;
     font-size: 2em;
     padding-top: 1em;
     padding-bottom: 1em;
