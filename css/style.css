@@ -232,4 +232,8 @@ img {
     padding-top: 6em;
     width: 100vw;
   }
+
+  .scroll-adjust {
+    padding-left: 0px;
+  }
 }
