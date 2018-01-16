@@ -174,7 +174,8 @@ img {
 
 @media (max-width: 990px) {
   .fixed-right-desktop {
-    position: static;
+    position: fixed;
+    top: 0px;
     z-index: 2000;
     width: 100vw;
     padding: 0px;
