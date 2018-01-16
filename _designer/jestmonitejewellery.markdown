@@ -6,17 +6,20 @@ meta-description: Hand-made and designed jesmonite jewellery inspired by the sol
 img: /img/jesmoniteHero.png
 ---
 
-Working as a core member of the marketing team, my responsibilities included:
+As part of my Level 3 Art and Creative Design course, I worked with Folkestone-based artist Matt Rowe to create a series of jesmonite products as part of a material study.
 
-- The tone and communication style Typeform uses
-- Social media and outreach
-- Writing newsletters and blog posts for Typeform and partner sites
+The ultimate result of this process was a series of four space-inspired jesmonite pendants - called Void, Solar, Lunar and Martian.
 
-Highlights include:
+#### Void
 
-- Helping to organise and run the 2013/2014 Student Ambassador Program
-- Reviewing the naming of the Typeform pricing plans, to improve clarity
-- Helping establish Typeform as the online form software people talk about
-- Working with our support team to deliver great customer support
-- Writing and reviewing content for the Typeform Help Center
-- Creating demonstration and training typeforms for the community
+<img src="/img/jesmoniteVoid.jpg" alt="" title="" />
+
+#### Solar
+
+<img src="/img/jesmoniteVoid.jpg" alt="" title="" />
+
+#### Lunar
+
+<img src="/img/jesmoniteVoid.jpg" alt="" title="" />
+
+#### Martian
