@@ -204,7 +204,7 @@ img {
   }
 
   .navigation li:last-child {
-    padding-right: 0;
+    padding-right: 0px;
   }
 
   .full-height {
@@ -216,7 +216,7 @@ img {
   }
 
   .col-left-scroll {
-    padding-top: 5em;
+    padding-top: 6em;
     width: 100vw;
   }
 }
