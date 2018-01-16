@@ -182,10 +182,10 @@ img {
   }
 
   .full-height {
-    /* height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center; */
+    align-items: start;
+    justify-content: start;
   }
 }
