@@ -211,10 +211,12 @@ img {
     width: 100vw;
   }
 
+  .navigation ul {
+    display: inline-block;
+  }
+
   .navigation li {
-    display: inline;
     padding-right: 1em;
-    flex: 1;
     text-align: left;
   }
 
