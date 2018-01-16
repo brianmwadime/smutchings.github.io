@@ -175,6 +175,7 @@ img {
   .fixed-right-desktop {
     position: static;
     z-index: 2000;
+    width: 100vw;
   }
 
   .navigation {
@@ -201,5 +202,6 @@ img {
 
   .col-left-scroll {
     padding-top: 5em;
+    width: 100vw;
   }
 }
