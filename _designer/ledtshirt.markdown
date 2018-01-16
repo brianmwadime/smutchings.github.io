@@ -10,4 +10,4 @@ What happens when you mix electronics, garment printing and digital illustration
 
 <img src="/img/ledTShirtClose.jpg" alt="" title="" />
 
-<img src="/img/ledTShirtChelsea.jpg" alt="" title="" />
+<img src="/img/ledTshirtChelsea.jpg" alt="" title="" />
