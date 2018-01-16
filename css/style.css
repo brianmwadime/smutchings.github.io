@@ -237,3 +237,11 @@ img {
     padding-left: 0px;
   }
 }
+
+@media (max-width: 500px) {
+
+  h1 {
+    font-size: 4em;
+  }
+
+}
