@@ -192,7 +192,7 @@ img {
     font-size: 2em;
     padding-top: 1em;
     padding-bottom: 1em;
-    background-color: #10001f;
+    background-color: rgba(16, 0, 31, 0.7);
   }
 
   .navigation ul {
