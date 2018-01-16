@@ -191,6 +191,7 @@ img {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: #10001f;
+    list-style-type: none;
   }
 
   .container{
