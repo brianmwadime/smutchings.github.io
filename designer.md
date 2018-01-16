@@ -24,7 +24,7 @@ meta-description: Designer Portfolio.
       {% endfor %}
 
     </div>
-    <div class="col-lg-5" style="position: fixed; right: 0%;">
+    <div class="col-lg-5 fixed-right-desktop">
       <!-- HTML for Home Page navigation-->
       <div class="navigation">
         <ul>

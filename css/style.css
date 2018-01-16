@@ -165,3 +165,8 @@ img {
   margin-bottom: 2em;
   margin-top: 2em;
 }
+
+.fixed-right-desktop {
+  position: fixed;
+  right: 0%;
+}
