@@ -176,4 +176,8 @@ img {
     position: static;
     z-index: 2000;
   }
+
+  .navigation {
+    top: 0px;
+  }
 }
