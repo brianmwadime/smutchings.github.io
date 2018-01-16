@@ -172,7 +172,7 @@ img {
 }
 
 @media (max-width: 1023px) {
-  body {
-    background-color: red;
+  .fixed-right-desktop {
+    position: static;
   }
 }
