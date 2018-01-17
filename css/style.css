@@ -111,7 +111,6 @@ a[href^="https://"]:after {
   content: "\f08e";
   margin: 0 0 0 0px;
   display: none;
-  font-size: 50%;
 }
 
 a[href^="http://"]:hover:after,
@@ -120,7 +119,8 @@ a[href^="https://"]:hover:after {
   content: "\f08e";
   margin: 0 0 0 0px;
   display: inherit;
-  font-size: 50%;
+  font-size: 70%;
+  text-decoration: none;
 }
 
 a[href*="//samhutchings.co/"]:after {
