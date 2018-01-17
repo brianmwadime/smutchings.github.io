@@ -107,14 +107,16 @@ img {
 
 a[href^="http://"]:after,
 a[href^="https://"]:after {
-  content: url(/img/external-link.svg);
+  font-family: FontAwesome;
+  content: ("\f08e");
   margin: 0 0 0 5px;
   display: none;
 }
 
 a[href^="http://"]:hover:after,
 a[href^="https://"]:hover:after {
-  content: url(/img/external-link.svg);
+  font-family: FontAwesome;
+  content: ("\f08e");
   margin: 0 0 0 5px;
   display: inherit;
 }
