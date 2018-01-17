@@ -120,7 +120,7 @@ a[href^="https://"]:hover:after {
   margin: 0 0 0 0px;
   display: inherit;
   font-size: 70%;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 a[href*="//samhutchings.co/"]:after {
