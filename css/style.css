@@ -251,7 +251,7 @@ img {
 @media (max-width: 650px) {
 
   .col-lg-7 .home {
-    padding: 0px;
+    padding: 0px !important;
   }
 
   h1 {
