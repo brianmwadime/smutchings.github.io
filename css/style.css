@@ -109,17 +109,18 @@ a[href^="http://"]:after,
 a[href^="https://"]:after {
   font-family: FontAwesome;
   content: "\f08e";
-  margin: 0 0 0 5px;
+  margin: 0 0 0 0px;
   display: none;
+  font-size: 0.8;
 }
 
 a[href^="http://"]:hover:after,
 a[href^="https://"]:hover:after {
   font-family: FontAwesome;
   content: "\f08e";
-  margin: 0 0 0 5px;
+  margin: 0 0 0 0px;
   display: inherit;
-  color: white;
+  font-size: 0.8;
 }
 
 a[href*="//samhutchings.co/"]:after {
