@@ -294,6 +294,7 @@ a[href*="//samhutchings.co/"]:after {
 
   .navigation li {
     padding-right: 0px;
+    padding-bottom: 1em;
     width: 40%;
     display: inline-block;
     text-align: center;
