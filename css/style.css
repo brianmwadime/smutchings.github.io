@@ -294,14 +294,14 @@ a[href*="//samhutchings.co/"]:after {
 
   .navigation li {
     padding-right: 0px;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
     width: 40%;
     display: inline-block;
     text-align: center;
   }
 
   .col-left-scroll {
-    padding-top: 7em;
+    padding-top: 8em;
     width: 100vw;
   }
 
