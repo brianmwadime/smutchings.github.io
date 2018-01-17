@@ -105,8 +105,8 @@ img {
   width: 100%;
 }
 
-a[href^="http://"]:after,
-a[href^="https://"]:after {
+a[href^="http://"]:hover:after,
+a[href^="https://"]:hover:after {
   content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
   margin: 0 0 0 5px;
 }
