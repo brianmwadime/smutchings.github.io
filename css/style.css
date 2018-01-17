@@ -215,7 +215,6 @@ img {
   .navigation li {
     display: inline;
     padding-right: 1em;
-    text-align: left;
   }
 
   .navigation li:last-child {
@@ -260,6 +259,10 @@ img {
     font-size: 5em;
     text-align: center;
     width: 100vw;
+  }
+
+  .navigation li {
+    padding-right: 0px;
   }
 
 }
