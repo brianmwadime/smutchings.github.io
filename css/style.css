@@ -257,7 +257,11 @@ img {
   h1 {
     font-size: 4em;
     text-align: center;
-    width: 90vw;
+    width: 100vw;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
 
   .navigation li {
