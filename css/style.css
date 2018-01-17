@@ -116,6 +116,7 @@ a[href^="http://"]:hover:after,
 a[href^="https://"]:hover:after {
   content: url(/img/external-link.svg);
   margin: 0 0 0 5px;
+  display: inherit;
 }
 
 a[href*="//samhutchings.co/"]:after {
