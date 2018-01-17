@@ -22,6 +22,7 @@ The three main themes were:
 
 These themes were carried through to the communication workshop and, later, the presentation to local business leaders and councillors.
 
+---
 
 #### Communication Workshop
 
@@ -29,6 +30,7 @@ The day before the presentation, I helped lead a communication workshop with the
 
 During this workshop, we also outlined a PDF document to be created and handed out during the presentation. That evening, I produced the handout, ready for the next day.
 
+---
 
 #### Presentation
 
@@ -37,6 +39,8 @@ On the day of the presentation, I led the group through presenting and defending
 When I appropriate, I would hand over control of the meeting to one of my fellow students, based on their specialist subject and what they had previously made clear they were happy talking about.
 
 At the beginning of the meeting, we had been given a 20-minute slot to talk about the project and field questions from local business people and councillors. By the end of the meeting, our allotted time had expanded to nearly 90 minutes, and record attendance for a last-billed topic at any meeting.
+
+---
 
 #### The Presentation PDF
 
