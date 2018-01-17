@@ -108,7 +108,7 @@ img {
 a[href^="http://"]:after,
 a[href^="https://"]:after {
   font-family: FontAwesome;
-  content: ("\f08e");
+  content: "\f08e";
   margin: 0 0 0 5px;
   display: none;
 }
@@ -116,7 +116,7 @@ a[href^="https://"]:after {
 a[href^="http://"]:hover:after,
 a[href^="https://"]:hover:after {
   font-family: FontAwesome;
-  content: ("\f08e");
+  content: "\f08e";
   margin: 0 0 0 5px;
   display: inherit;
   color: white;
