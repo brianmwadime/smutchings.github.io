@@ -40,10 +40,10 @@ At the beginning of the meeting, we had been given a 20-minute slot to talk abou
 
 #### The Presentation PDF
 
-<a href="http://www.samhutchings.co/img/OtterpoolPark.pdf">Attached</a> is the PDF I designed and produced for the Otterpool Park meeting.
+<a href="/img/OtterpoolPark.pdf">Attached</a> is the PDF I designed and produced for the Otterpool Park meeting.
 
-<object data="http://www.samhutchings.co/img/OtterpoolPark.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="http://www.samhutchings.co/img/OtterpoolPark.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.samhutchings.co/img/OtterpoolPark.pdf">Download PDF</a>.</p>
+<object data="/img/OtterpoolPark.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="/img/OtterpoolPark.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/img/OtterpoolPark.pdf">Download PDF</a>.</p>
     </embed>
 </object>
