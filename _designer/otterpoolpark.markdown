@@ -40,7 +40,7 @@ At the beginning of the meeting, we had been given a 20-minute slot to talk abou
 
 #### The Presentation PDF
 
-Attached is the PDF I designed and produced for the Otterpool Park meeting.
+<a href="http://www.samhutchings.co/img/OtterpoolPark.pdf">Attached</a> is the PDF I designed and produced for the Otterpool Park meeting.
 
 <object data="http://www.samhutchings.co/img/OtterpoolPark.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="http://www.samhutchings.co/img/OtterpoolPark.pdf" type="application/pdf">
