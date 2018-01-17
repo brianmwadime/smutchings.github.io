@@ -264,6 +264,7 @@ img {
   .navigation li {
     padding-right: 0px;
     width: 40%;
+    display: inline-block;
     border: 1px solid pink;
     text-align: center;
   }
