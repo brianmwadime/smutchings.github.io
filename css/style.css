@@ -105,9 +105,16 @@ img {
   width: 100%;
 }
 
+a[href^="http://"]:after,
+a[href^="https://"]:after {
+  content: url(/img/external-link.svg);
+  margin: 0 0 0 5px;
+  display: none;
+}
+
 a[href^="http://"]:hover:after,
 a[href^="https://"]:hover:after {
-  content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
+  content: url(/img/external-link.svg);
   margin: 0 0 0 5px;
 }
 
