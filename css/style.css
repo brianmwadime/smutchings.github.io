@@ -119,6 +119,7 @@ a[href^="https://"]:hover:after {
   content: ("\f08e");
   margin: 0 0 0 5px;
   display: inherit;
+  color: white;
 }
 
 a[href*="//samhutchings.co/"]:after {
