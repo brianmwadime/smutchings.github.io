@@ -186,10 +186,6 @@ img {
     padding: 0px;
   }
 
-  .full-height {
-    margin: 0px;
-  }
-
   .navigation {
     width: 100vw;
     text-align: center;
@@ -227,6 +223,7 @@ img {
     flex-direction: row;
     align-items: start;
     justify-content: start;
+    margin: 0px;
   }
 
   .col-left-scroll {
@@ -265,8 +262,12 @@ img {
     padding-right: 0px;
     width: 40%;
     display: inline-block;
-    border: 1px solid pink;
     text-align: center;
+  }
+
+  .col-left-scroll {
+    padding-top: 7em;
+    width: 100vw;
   }
 
 }
