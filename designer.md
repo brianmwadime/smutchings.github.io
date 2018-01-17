@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samuel Hutchings - Designer
-permalink: /designer/
+permalink: /designer
 meta-description: Designer Portfolio.
 ---
 
@@ -10,26 +10,28 @@ meta-description: Designer Portfolio.
     <div class="col-lg-7 col-left-scroll">
 
       {% for project in site.designer %}
-
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
             <h5 class="card-title">{{ project.title }}</h5>
             <p class="card-text">{{ project.description }}</p>
-            <a href="{{ project.redirect }}" class="btn btn-block btn-outline-primary">Go somewhere</a>
+            <a href="{{ project.url }}" class="btn btn-block btn-outline-primary">Read more</a>
           </div>
         </div>
 
-        {% endfor %}
+      {% else %}
+
+      {% endfor %}
 
     </div>
-    <div class="col-lg-5" style="position: fixed; right: 0%;">
+    <div class="col-lg-5 fixed-right-desktop">
       <!-- HTML for Home Page navigation-->
-      <div id="home-navigation">
+      <div class="navigation">
         <ul>
-          <li><a href="/designer/">Designer</a></li>
-          <li><a href="https://www.medium.com/@Smutchings" target="_blank">Writer</a></li>
-          <li><a href="https://www.twitter.com/Smutchings" target="_blank">Tweeter</a></li>
+          <li><a href="/index.html" title="Go home">Home</a></li>
+          <li><a href="/designer" title="View my portfolio">Designer</a></li>
+          <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
+          <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
         </ul>
       </div>
     </div>
