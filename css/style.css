@@ -272,4 +272,9 @@ img {
     width: 100vw;
   }
 
+  .navigation {
+    left: 0px;
+    right: 0px;
+  }
+
 }
