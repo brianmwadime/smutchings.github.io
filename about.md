@@ -9,7 +9,7 @@ meta-description: About Samuel Hutchings.
   <div class="row full-height">
     <div class="col-lg-7 col-left-scroll">
         <div class="card">
-          <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
+          <img class="card-img-top" src="/img/aboutHero.png" alt="Samuel Hutchings">
           <div class="card-body">
             <h5 class="card-title">About Samuel Hutchings</h5>
             <p class="card-text">I help companies around the world communicate better with their customers and users. And with previous clients including <a href="http://samhutchings.co/project/king-com/">King.com</a>, <a href="http://samhutchings.co/project/lexus/">Lexus</a> and <a href="http://samhutchings.co/project/typeform/">Typeform</a>; you know you're in good hands.</p>
