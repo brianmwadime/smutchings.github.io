@@ -123,6 +123,10 @@ a[href^="https://"]:hover:after {
   text-decoration: none !important;
 }
 
+.navigation a::after {
+  text-decoration: none !important;
+}
+
 a[href*="//samhutchings.co/"]:after {
   content: '';
   margin: 0;
