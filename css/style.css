@@ -125,8 +125,6 @@ a[href^="https://"]:hover:after {
   display: inherit;
   font-size: 70%;
   text-decoration: none !important;
-  text-decoration-style: none;
-  text-decoration-color: none;
 }
 
 .navigation a::after {
