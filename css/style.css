@@ -52,6 +52,10 @@ p {
   color: #10001F;
 }
 
+.name a {
+  color: inherit;
+}
+
 h1 {
   font-size: 6em;
 }
