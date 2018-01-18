@@ -17,7 +17,7 @@ meta-description: About Samuel Hutchings.
             <p>Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. Whether that involves leading a team, joining your team, or working on my own.</p>
 
             <p>My specialities are product copy, UX copy and short-form communications such as email. So if you're looking for someone to write long-form or blog content, I'm not your guy.</p>
-            <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary">Email Samuel</a>
+            <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary btn-lg">Email Samuel</a>
       </div>
     </div>
   </div>
