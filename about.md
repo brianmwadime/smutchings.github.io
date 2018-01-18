@@ -20,4 +20,16 @@ meta-description: About Samuel Hutchings.
       </div>
     </div>
   </div>
+  <div class="col-lg-5 fixed-right-desktop">
+    <!-- HTML for Home Page navigation-->
+    <div class="navigation">
+      <ul>
+        <li><a href="/index.html" title="Go home">Home</a></li>
+        <li><a href="/designer" title="View my portfolio">Designer</a></li>
+        <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
+        <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
+      </ul>
+    </div>
+</div>
+</div>
 </div>
