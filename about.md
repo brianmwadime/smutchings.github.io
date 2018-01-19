@@ -12,11 +12,13 @@ meta-description: About Samuel Hutchings.
           <img class="card-img-top" src="/img/aboutHero.png" alt="Samuel Hutchings">
           <div class="card-body">
             <h5 class="card-title">About Samuel Hutchings</h5>
-            <p class="card-text">I help companies around the world communicate better with their customers and users. And with previous clients including <a href="http://samhutchings.co/project/king-com/">King.com</a>, <a href="http://samhutchings.co/project/lexus/">Lexus</a> and <a href="http://samhutchings.co/project/typeform/">Typeform</a>; you know you're in good hands.</p>
-
-            <p>Passionate about communication and great experiences, I bring my knowledge in both areas together to help you and your business do better. Whether that involves leading a team, joining your team, or working on my own.</p>
-
-            <p>My specialities are product copy, UX copy and short-form communications such as email. So if you're looking for someone to write long-form or blog content, I'm not your guy.</p>
+            <p class="card-text">Hey,</p>
+            <p>My name is Samuel, but you can call me Sam. Welcome to my portfolio, where I'll hope you see what inspires me in design and art.</p>
+            <p>The driving force behind my design is a passion to design a better world for my contemporaries and those who will come after me. Through the application if ideas, great and small, to the creative process, I hope to design better things for everyone.</p>
+            <p>Though, I'm just starting on my journey. After 10 years of working "in the real world", I've just gone back to college to study a Level 3 Diploma in Art and Creative Design at The Edge School of Creative and Business. This website is the outcome of much of that learning, bringing various processes together into one designed product.</p>
+            <p>I'm currently looking for freelance opportunities between now and July, 2018. Towards July, I'll be looking for full-time opportunities in the design sector, either in the UK or Berlin.</p>
+            <p>I hope you enjoy the content you see here. And do get in touch if you think we'd design amazing things together.</p>
+            <p>-S</p>
             <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary btn-lg">Email Samuel</a>
       </div>
     </div>
