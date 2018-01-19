@@ -3,7 +3,7 @@ layout: post
 title: The Edge - Laptop Vinyls
 description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
 meta-description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
-img: /img/wrapHero.png
+img: /img/wrapHero.jpg
 ---
 
 
@@ -48,3 +48,11 @@ Once printed and allowed to dry, each wrap was applied to its respective laptop.
 The result is four great-looking MacBook Airs. Students and staff love them. They are distinct from any MacBook a student would bring in, branded with the school's logo, and easy to see wherever they are in the classroom.
 
 Some students have already enquired about having their own, custom wraps made for their personal laptops.
+
+---
+
+<img src="/img/wrapResult.jpg" />
+
+---
+
+<img src="/img/wrapResult2.jpg" />
