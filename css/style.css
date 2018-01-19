@@ -32,6 +32,13 @@ p {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'BrixSansBold';
+    src: url('/css/font/Brix-Sans-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
 .paralines {
   font-family: 'Paralines', sans-serif;
 }
@@ -85,6 +92,7 @@ em {
 }
 
 strong {
+  font-family: 'BrixSansBold', sans-serif;
   font-weight: bold;
 }
 
