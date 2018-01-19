@@ -18,7 +18,7 @@ meta-description: About Samuel Hutchings.
             <p>Though, I'm just starting on my journey. After 10 years of working "in the real world", I've just gone back to college to study a <a href="https://www.eastkent.ac.uk/course/art-and-creative-design-level-3">Level 3 Diploma in Art and Creative Design at The Edge School of Creative and Business</a>. This website is the outcome of much of that learning, bringing various processes together into one designed product.</p>
             <p>I'm currently looking for freelance opportunities between now and July, 2018. Towards July, I'll be looking for full-time opportunities in the design sector, either in the UK or Berlin.</p>
             <p>I hope you enjoy the content you see here. And do <a href="mailto:hi@samhutchings.co">get in touch</a> if you think we'd design amazing things together.</p>
-            <p><strong>-S<strong></p>
+            <p><strong>-S</strong></p>
             <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary btn-lg">Email Samuel</a>
       </div>
     </div>
