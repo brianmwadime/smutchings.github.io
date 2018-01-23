@@ -238,6 +238,7 @@ a[href*="//samhutchings.co/"]:after {
     padding-bottom: 1em;
     background-color: rgba(16, 0, 31, 0.9);
     height: 6em;
+    transition: top 0.2s ease-in-out;
   }
 
   .navigation ul {
