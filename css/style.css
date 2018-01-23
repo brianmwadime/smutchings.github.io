@@ -222,6 +222,15 @@ a[href*="//samhutchings.co/"]:after {
 
 @media (max-width: 990px) {
 
+  nav {
+    height: 40px;
+    position: fixed;
+    top: 0;
+    height: 4.5em;
+    transition: top 0.2s ease-in-out;
+    width: 100%;
+}
+
   .nav-up {
     top: -200px;
 }
@@ -237,9 +246,6 @@ a[href*="//samhutchings.co/"]:after {
   .navigation {
     width: 100vw;
     text-align: center;
-    position: fixed;
-    top: 0px;
-    height: 4.5em;
     font-size: 2em;
     padding-top: 1em;
     padding-bottom: 1em;
