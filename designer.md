@@ -4,6 +4,7 @@ title: Samuel Hutchings - Designer
 permalink: /designer
 meta-description: Designer Portfolio.
 ---
+<div class="container-fluid">
 
       {% for project in site.designer %}
         <div class="card">
@@ -18,3 +19,5 @@ meta-description: Designer Portfolio.
       {% else %}
 
       {% endfor %}
+      
+  </div>
