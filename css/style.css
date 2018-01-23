@@ -1,15 +1,4 @@
-body {
-  background-color: #10001F;
-  font-family: 'BrixSansLight', sans-serif;
-  -webkit-overflow-scrolling: touch;
-  width: 100vw;
-  height: 100%;
-  overflow: scroll;
-}
-
-p {
-  margin-bottom: 1em;
-}
+/* Load Fonts First */
 
 @font-face {
     font-family: 'Paralines';
@@ -51,17 +40,21 @@ p {
   font-family: 'BrixSansExtraLight', sans-serif;
 }
 
-.white {
-  color: white;
+/* Style HTML tags */
+
+body {
+  background-color: #10001F;
+  font-family: 'BrixSansLight', sans-serif;
+  -webkit-overflow-scrolling: touch;
+  width: 100vw;
+  height: 100%;
+  overflow: scroll;
 }
 
-.purple {
-  color: #10001F;
+p {
+  margin-bottom: 1em;
 }
 
-.name a {
-  color: inherit;
-}
 
 h1 {
   font-size: 6em;
@@ -135,6 +128,20 @@ a[href^="https://"]:hover:after {
   text-decoration: none !important;
 }
 
+.white {
+  color: white;
+}
+
+.purple {
+  color: #10001F;
+}
+
+.name a {
+  color: inherit;
+}
+
+/* Navigation External Link Icon */
+
 .navigation a::after {
   text-decoration: none !important;
 }
@@ -192,6 +199,8 @@ a[href*="//samhutchings.co/"]:after {
     word-spacing: 10000px;
 }
 
+/* Columns */
+
 .full-height {
   height: 100vh;
   display: flex;
@@ -219,6 +228,8 @@ a[href*="//samhutchings.co/"]:after {
   position: absolute;
   right: 0%;
 }
+
+/* Break point for devices under 990px */
 
 @media (max-width: 990px) {
 
@@ -308,6 +319,8 @@ a[href*="//samhutchings.co/"]:after {
     padding-right: 0px !important;
   }
 }
+
+/* Break point for devices under 650px */
 
 @media (max-width: 650px) {
 
