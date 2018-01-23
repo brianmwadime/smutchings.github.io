@@ -51,6 +51,10 @@ body {
   overflow: scroll;
 }
 
+header {
+  background-color: rgba(16, 0, 31, 0.9)
+}
+
 p {
   margin-bottom: 1em;
 }
