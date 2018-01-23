@@ -236,7 +236,7 @@ a[href*="//samhutchings.co/"]:after {
     height: 60px;
     transition: transform .5s;
   }
-  
+
   .cd-auto-hide-header.is-hidden {
     transform: translateY(-100%);
   }
