@@ -241,8 +241,8 @@ a[href*="//samhutchings.co/"]:after {
     top: 0px;
     height: 4em;
     font-size: 2em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     background-color: rgba(16, 0, 31, 0.9);
     transition: top 0.2s ease-in-out;
   }
