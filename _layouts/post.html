@@ -1,30 +1,23 @@
 ---
 layout: default
 ---
-<div class="container">
-<div class="row full-height">
-  <div class="col-lg-7 col-left-scroll">
-      <div class="card">
-        <img class="card-img-top" src="{{ page.img }}" alt="{{ page.title }}">
-        <div class="card-body">
-          <h3 class="card-title">{{ page.title }}</h5>
-          <p class="card-text">{{ content }}</p>
-          <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary btn-lg">Email Samuel</a>
-        </div>
-      </div>
+
+<header class="cd-auto-hide-header">
+  <nav class="navigation cd-primary-nav">
+    <ul>
+      <li><a href="/index.html" title="Go home">Home</a></li>
+      <li><a href="/designer" title="View my portfolio">Designer</a></li>
+      <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
+      <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="card">
+    <img class="card-img-top" src="{{ page.img }}" alt="{{ page.title }}">
+    <div class="card-body">
+      <h3 class="card-title">{{ page.title }}</h5>
+      <p class="card-text">{{ content }}</p>
+      <a href="mailto:hi@samhutchings.co" class="btn btn-block btn-outline-primary btn-lg">Email Samuel</a>
+    </div>
   </div>
-  <div class="col-lg-5">
-    <!-- HTML for Home Page navigation-->
-    <header class="cd-auto-hide-header">
-      <nav class="navigation cd-primary-nav">
-        <ul>
-          <li><a href="/index.html" title="Go home">Home</a></li>
-          <li><a href="/designer" title="View my portfolio">Designer</a></li>
-          <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
-          <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
-        </ul>
-      </nav>
-    </header>
-  </div>
-</div>
-</div>
