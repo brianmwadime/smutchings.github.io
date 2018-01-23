@@ -28,7 +28,7 @@ meta-description: Designer Portfolio.
       <header class="cd-auto-hide-header">
         <nav class="navigation cd-primary-nav">
           <ul>
-            <li><a href="/about" title="Find out more about me">Human</a></li>
+            <li><a href="/index.html" title="Go home">Home</a></li>
             <li><a href="/designer" title="View my portfolio">Designer</a></li>
             <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
             <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>

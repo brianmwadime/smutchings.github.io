@@ -27,7 +27,7 @@ meta-description: About Samuel Hutchings.
     <header class="cd-auto-hide-header">
       <nav class="navigation cd-primary-nav">
         <ul>
-          <li><a href="http://www.samhutchings.co" title="Return to home">Home</a></li>
+          <li><a href="/index.html" title="Return to home">Home</a></li>
           <li><a href="/designer" title="View my portfolio">Designer</a></li>
           <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
           <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
