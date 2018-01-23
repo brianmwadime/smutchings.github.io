@@ -22,10 +22,10 @@ meta-description: About Samuel Hutchings.
       </div>
     </div>
   </div>
-  <div class="col-lg-5">
+  <div class="col-lg-5 fixed-right-desktop">
     <!-- HTML for Home Page navigation-->
     <header class="cd-auto-hide-header">
-      <nav class="navigation scroll-adjust cd-primary-nav">
+      <nav class="navigation cd-primary-nav">
         <ul>
           <li><a href="http://www.samhutchings.co" title="Return to home">Home</a></li>
           <li><a href="/designer" title="View my portfolio">Designer</a></li>
