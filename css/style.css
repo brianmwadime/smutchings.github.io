@@ -223,7 +223,7 @@ a[href*="//samhutchings.co/"]:after {
 @media (max-width: 990px) {
 
   .nav-up {
-    top: -4em;
+    top: -200px;
 }
 
   .fixed-right-desktop {
@@ -239,7 +239,7 @@ a[href*="//samhutchings.co/"]:after {
     text-align: center;
     position: fixed;
     top: 0px;
-    height: 4em;
+    height: 5em;
     font-size: 2em;
     padding-top: 1em;
     padding-bottom: 1em;
