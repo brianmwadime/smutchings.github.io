@@ -24,7 +24,7 @@ meta-description: About Samuel Hutchings.
   </div>
   <div class="col-lg-5 fixed-right-desktop">
     <!-- HTML for Home Page navigation-->
-    <nav class="navigation nav-down">
+    <nav class="navigation cd-auto-hide-header">
       <ul>
         <li><a href="/index.html" title="Go home">Home</a></li>
         <li><a href="/designer" title="View my portfolio">Designer</a></li>
