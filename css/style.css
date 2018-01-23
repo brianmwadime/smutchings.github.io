@@ -536,7 +536,6 @@ nav li a:hover {
     width: auto;
     top: 0;
     padding: 0;
-    background-color: inherit;
     box-shadow: none;
   }
   .cd-primary-nav > ul::after {
