@@ -233,12 +233,6 @@ a[href*="//samhutchings.co/"]:after {
 
 @media (max-width: 990px) {
 
-  nav {
-    position: fixed;
-    top: 0;
-    height: 4.5em;
-}
-
   .cd-auto-hide-header {
     position: fixed;
     top: 0;
