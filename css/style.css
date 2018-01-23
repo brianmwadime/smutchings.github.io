@@ -221,6 +221,15 @@ a[href*="//samhutchings.co/"]:after {
 }
 
 @media (max-width: 990px) {
+
+  header {
+    height: 40px;
+    position: fixed;
+    top: 0;
+    transition: top 0.2s ease-in-out;
+    width: 100%;
+}
+
   .fixed-right-desktop {
     position: absolute;
     top: 0px;
