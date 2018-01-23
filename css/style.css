@@ -237,7 +237,7 @@ a[href*="//samhutchings.co/"]:after {
   .navigation {
     width: 100vw;
     text-align: center;
-    position: absolute;
+    position: fixed;
     top: 0px;
     height: 4em;
     font-size: 2em;
