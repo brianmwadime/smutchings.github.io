@@ -5,7 +5,8 @@ permalink: /designer
 meta-description: Designer Portfolio.
 ---
 <div class="container-fluid">
-
+  <div class="row">
+    <div class="col align-self-center">
       {% for project in site.designer %}
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
@@ -19,5 +20,6 @@ meta-description: Designer Portfolio.
       {% else %}
 
       {% endfor %}
-      
+      </div>
+    </div>
   </div>
