@@ -142,7 +142,7 @@ a[href^="https://"]:hover:after {
 
 /* Navigation External Link Icon */
 
-.navigation a::after {
+nav a::after {
   text-decoration: none !important;
 }
 
@@ -151,43 +151,43 @@ a[href*="//samhutchings.co/"]:after {
   margin: 0;
 }
 
-.navigation li a:link {
+nav li a:link {
   text-decoration: none;
 }
 
-.navigation li a:visited {
+nav li a:visited {
   text-decoration: none;
 }
 
 /* Styles for Home Page Navigation */
 
-.navigation {
+nav {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
 }
 
-.navigation ul {
+nav ul {
   list-style: none;
   line-height: 1;
 }
 
-.navigation ul > li:first-child a {
+nav ul > li:first-child a {
   color: #FFFFFF;
 }
 
-.navigation ul > li:nth-child(2) a {
+nav ul > li:nth-child(2) a {
   color: #FFEC00;
 }
 
-.navigation ul > li:nth-child(3) a {
+nav ul > li:nth-child(3) a {
   color: #FF001F;
 }
 
-.navigation ul > li:last-child a {
+nav ul > li:last-child a {
   color: #1DA1F2;
 }
 
-.navigation li a:hover {
+nav li a:hover {
   text-decoration: underline;
 }
 
@@ -254,7 +254,7 @@ a[href*="//samhutchings.co/"]:after {
     padding: 0px;
   }
 
-  .navigation {
+  nav {
     width: 100vw;
     text-align: center;
     font-size: 2em;
@@ -263,7 +263,7 @@ a[href*="//samhutchings.co/"]:after {
     background-color: rgba(16, 0, 31, 0.9);
   }
 
-  .navigation ul {
+  nav ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -275,12 +275,12 @@ a[href*="//samhutchings.co/"]:after {
     width: 100vw;
   }
 
-  .navigation li {
+  nav li {
     display: inline;
     padding-right: 1em;
   }
 
-  .navigation li:last-child {
+  nav li:last-child {
     padding-right: 0px;
   }
 
@@ -334,7 +334,7 @@ a[href*="//samhutchings.co/"]:after {
     margin-top: 2em;
   }
 
-  .navigation li {
+  nav li {
     padding-right: 0px;
     width: 40%;
     display: inline-block;
@@ -354,7 +354,7 @@ a[href*="//samhutchings.co/"]:after {
     width: 100vw;
   }
 
-  .navigation {
+  nav {
     left: 0px;
     right: 0px;
   }
