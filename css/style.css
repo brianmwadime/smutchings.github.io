@@ -176,23 +176,23 @@ nav ul {
   line-height: 1;
 }
 
-nav ul > li:first-child a {
+nav ul > li .homeNavLink {
   color: #FFFFFF;
 }
 
-nav ul > li:nth-child(2) a {
+nav ul > li .humanNavLink {
   color: #FFFFFF;
 }
 
-nav ul > li:nth-child(3) a {
+nav ul > li .designerNavLink {
   color: #FFEC00;
 }
 
-nav ul > li:nth-child(4) a {
+nav ul > li .writerNavLink {
   color: #FF001F;
 }
 
-nav ul > li:last-child a {
+nav ul > li .tweeterNavLink {
   color: #1DA1F2;
 }
 
