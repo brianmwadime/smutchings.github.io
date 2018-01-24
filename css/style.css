@@ -196,6 +196,22 @@ nav ul > li:last-child a {
   color: #1DA1F2;
 }
 
+nav .homeNav ul > li:first-child a {
+  color: #FFFFFF;
+}
+
+nav .homeNav ul > li:nth-child(2) a {
+  color: #FFEC00;
+}
+
+nav .homeNav ul > li:nth-child(3) a {
+  color: #FF001F;
+}
+
+nav .homeNav ul > li:last-child a {
+  color: #1DA1F2;
+}
+
 nav li a:hover {
   text-decoration: underline;
 }
