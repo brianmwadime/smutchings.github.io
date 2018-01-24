@@ -114,24 +114,6 @@ img {
   width: 100%;
 }
 
-a[href^="http://"]:after,
-a[href^="https://"]:after {
-  font-family: FontAwesome;
-  content: "\f08e";
-  margin: 0 0 0 0px;
-  display: none;
-}
-
-a[href^="http://"]:hover:after,
-a[href^="https://"]:hover:after {
-  font-family: FontAwesome;
-  content: "\f08e";
-  margin: 0 0 0 5px;
-  display: inherit;
-  font-size: 70%;
-  text-decoration: none !important;
-}
-
 .white {
   color: white;
 }
@@ -210,6 +192,25 @@ nav li a:hover {
 
 #writerNavLink {
   color: #FF001F;
+}
+
+a[href^="http://"]:after,
+a[href^="https://"]:after {
+  font-family: FontAwesome;
+  content: "\f08e";
+  margin: 0 0 0 0px;
+  display: none;
+  text-decoration: none;
+}
+
+a[href^="http://"]:hover:after,
+a[href^="https://"]:hover:after {
+  font-family: FontAwesome;
+  content: "\f08e";
+  margin: 0 0 0 5px;
+  display: inherit;
+  font-size: 70%;
+  text-decoration: none !important;
 }
 
 .scroll-adjust {
