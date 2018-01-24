@@ -597,9 +597,9 @@ nav li a:hover {
   */
   display: block;
 }
-@media only screen and (min-width: 1024px) {
+/* @media only screen and (min-width: 1024px) {
   .nav-open .cd-primary-nav ul,
   .cd-primary-nav ul:target {
     display: table-cell;
   }
-}
+} */
