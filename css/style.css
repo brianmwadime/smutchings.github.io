@@ -196,23 +196,31 @@ nav ul > li:last-child a {
   color: #1DA1F2;
 }
 
-.homeNav ul > li:first-child a {
+nav li a:hover {
+  text-decoration: underline;
+}
+
+.navigation ul > li:first-child a {
   color: #FFFFFF;
 }
 
-.homeNav ul > li:nth-child(2) a {
+.navigation ul > li:nth-child(2) a {
+  color: #FFFFFF;
+}
+
+.navigation ul > li:nth-child(3) a {
   color: #FFEC00;
 }
 
-.homeNav ul > li:nth-child(3) a {
+.navigation ul > li:nth-child(4) a {
   color: #FF001F;
 }
 
-.homeNav ul > li:last-child a {
+.navigation ul > li:last-child a {
   color: #1DA1F2;
 }
 
-nav li a:hover {
+.navigation li a:hover {
   text-decoration: underline;
 }
 
