@@ -514,18 +514,17 @@ nav li a:hover {
   display: none;
   box-shadow: 0 14px 20px rgba(0, 0, 0, 0.2);
 }
-/* .cd-primary-nav > ul a {
+.cd-primary-nav > ul a {
   /* target primary-nav links */
-  /* display: block;
+  display: block;
   height: 50px;
   line-height: 50px;
   padding-left: 5%;
   font-size: 1.8rem;
-  border-top: 1px solid #f2f2f2; */
-/* } */
-/* .cd-primary-nav > ul a:hover, .cd-primary-nav > ul a.active {
-  color: #8F3985; */
-/* } */
+}
+.cd-primary-nav > ul a:hover, .cd-primary-nav > ul a.active {
+  color: inherit;
+}
 @media only screen and (min-width: 1024px) {
   .cd-primary-nav {
     /* vertically align its content */
