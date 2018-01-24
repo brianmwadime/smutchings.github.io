@@ -163,7 +163,6 @@ a[href*="//samhutchings.co/"]:after {
 }
 
 nav li a:link {
-  color: inherit;
   text-decoration: none;
 }
 
