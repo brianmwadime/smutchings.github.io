@@ -523,7 +523,6 @@ nav li a:hover {
   font-size: 1.8rem;
 }
 .cd-primary-nav > ul a:hover, .cd-primary-nav > ul a.active {
-  color: inherit;
 }
 @media only screen and (min-width: 1024px) {
   .cd-primary-nav {
