@@ -213,9 +213,9 @@ a[href^="https://"]:hover:after {
   text-decoration: none !important;
 }
 
-.scroll-adjust {
+/* .scroll-adjust {
   padding-left: 25px;
-}
+} */
 
 .one-word-line {
     word-spacing: 10000px;
@@ -245,24 +245,12 @@ a[href^="https://"]:hover:after {
   margin-left: 1em;
   margin-right: 1em;
   width: 50em;
-}
-
-.fixed-right-desktop {
-  position: absolute;
-  right: 0%;
+  top: 4em;
 }
 
 /* Break point for devices under 990px */
 
 /* @media (max-width: 990px) { */
-
-  .fixed-right-desktop {
-    position: absolute;
-    top: 0px;
-    z-index: 2000;
-    width: 100vw;
-    padding: 0px;
-  }
 
   nav {
     width: 100vw;
@@ -293,24 +281,6 @@ a[href^="https://"]:hover:after {
 
   nav li:last-child {
     padding-right: 0px;
-  }
-
-  .full-height {
-    height: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: start;
-    justify-content: start;
-    margin: 0px;
-  }
-
-  .col-left-scroll {
-    padding-top: 6em;
-    width: 100vw;
-  }
-
-  .scroll-adjust {
-    padding-left: 0px;
   }
 
   .home h1 {
@@ -357,11 +327,6 @@ a[href^="https://"]:hover:after {
 
   ul > li:nth-child(2) {
     padding-bottom: 0.5em;
-  }
-
-  .col-left-scroll {
-    padding-top: 8em;
-    width: 100vw;
   }
 
   nav {
