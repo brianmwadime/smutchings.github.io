@@ -153,6 +153,10 @@ nav li a:visited {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 nav ul {
   list-style: none;
   line-height: 1;
@@ -176,10 +180,6 @@ nav ul > li:nth-child(4) a {
 
 nav ul > li:last-child a {
   color: #1DA1F2;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 #humanNavLink {
