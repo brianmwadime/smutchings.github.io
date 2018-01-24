@@ -144,7 +144,14 @@ a[href^="https://"]:hover:after {
   color: inherit;
 }
 
+/* Styles for Home Page Navigation */
+
 /* Navigation External Link Icon */
+
+nav {
+  font-family: 'Paralines', sans-serif;
+  font-size: 6em;
+}
 
 nav a::after {
   text-decoration: none !important;
@@ -163,13 +170,6 @@ nav li a:link {
 nav li a:visited {
   color: inherit;
   text-decoration: none;
-}
-
-/* Styles for Home Page Navigation */
-
-nav {
-  font-family: 'Paralines', sans-serif;
-  font-size: 6em;
 }
 
 nav ul {
