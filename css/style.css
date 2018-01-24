@@ -200,27 +200,19 @@ nav li a:hover {
   text-decoration: underline;
 }
 
-.navigation ul > li:first-child a {
+#humanNavLink {
   color: #FFFFFF;
 }
 
-.navigation ul > li:nth-child(2) a {
-  color: #FFFFFF;
-}
-
-.navigation ul > li:nth-child(3) a {
+#designerNavLink {
   color: #FFEC00;
 }
 
-.navigation ul > li:nth-child(4) a {
+#writerNavLink {
   color: #FF001F;
 }
 
-.navigation ul > li:last-child a {
-  color: #1DA1F2;
-}
-
-.navigation li a:hover {
+#tweeterNavLink {
   text-decoration: underline;
 }
 
