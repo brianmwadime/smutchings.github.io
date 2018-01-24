@@ -267,7 +267,7 @@ nav li a:hover {
 
 @media (max-width: 990px) {
 
-  .cd-auto-hide-header {
+  /* .cd-auto-hide-header {
     position: fixed;
     top: 0;
     left: 0;
@@ -278,7 +278,7 @@ nav li a:hover {
 
   .cd-auto-hide-header.is-hidden {
     transform: translateY(-100%);
-  }
+  } */
 
   .fixed-right-desktop {
     position: absolute;
