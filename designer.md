@@ -5,8 +5,8 @@ permalink: /designer
 meta-description: Designer Portfolio.
 ---
 <div class="container-fluid">
-  <div class="row">
-    <div class="col align-self-center">
+  <div class="row d-flex align-items-center justify-content-center flex-column">
+    <div class="col-md-8 offset-md-1">
       {% for project in site.designer %}
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
