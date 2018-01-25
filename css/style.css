@@ -148,7 +148,7 @@ nav li a:link {
   text-decoration: none;
 }
 
-nav li a:link {
+nav li a:hover {
   text-decoration: underline;
 }
 
