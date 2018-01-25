@@ -219,6 +219,7 @@ a[href^="https://"]:hover:after {
 
 .one-word-line {
     word-spacing: 10000px;
+    text-align: center;
 }
 
 /* Columns */
