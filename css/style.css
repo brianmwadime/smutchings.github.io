@@ -122,8 +122,9 @@ img {
   color: #10001F;
 }
 
-.name a {
+.name {
   color: inherit;
+  margin: 0 auto;
 }
 
 /* Styles for Home Page Navigation */
