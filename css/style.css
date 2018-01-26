@@ -220,6 +220,10 @@ nav li:last-child {
   color: #FF001F;
 }
 
+.homeCard {
+  top: -2em;
+}
+
 .heroImage {
   background-image: url(/img/aboutHero.png);
   background-size: cover;
