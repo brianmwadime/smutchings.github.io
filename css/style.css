@@ -301,6 +301,11 @@ padding: 0 ! important;
 
 @media (max-width: 650px) {
 
+  .topMargin {
+    margin-top: 6em;
+  }
+
+
   .heroImage h1 {
     font-size: 4em;
     text-align: center;
