@@ -106,9 +106,9 @@ blockquote {
   border-left: 0.25em solid #10001F;
 }
 
-img {
+/* img {
   width: 100%;
-}
+} */
 
 nav {
   font-family: 'Paralines', sans-serif;
@@ -218,10 +218,6 @@ nav li:last-child {
 
 #writerNavLink {
   color: #FF001F;
-}
-
-#heroImage {
-  width: auto;
 }
 
 .one-word-line {
