@@ -352,7 +352,7 @@ a[href^="https://"]:hover:after {
 -------------------------------- */
 .cd-auto-hide-header {
   position: fixed;
-  z-index: 2;
+  z-index: 1010;
   top: 0;
   left: 0;
   width: 100%;
