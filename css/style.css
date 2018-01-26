@@ -106,9 +106,9 @@ blockquote {
   border-left: 0.25em solid #10001F;
 }
 
-/* img {
+.card img {
   width: 100%;
-} */
+}
 
 nav {
   font-family: 'Paralines', sans-serif;
