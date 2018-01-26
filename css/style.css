@@ -220,6 +220,10 @@ nav li:last-child {
   color: #FF001F;
 }
 
+#heroImage {
+  width: auto;
+}
+
 .one-word-line {
     word-spacing: 10000px;
     text-align: center;
