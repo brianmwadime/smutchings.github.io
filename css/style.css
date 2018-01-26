@@ -262,7 +262,7 @@ a[href^="https://"]:hover:after {
 
 /* Break point for devices under 990px */
 
-@media (max-width: 990px) {
+/* @media (max-width: 990px) {
 
   nav {
     width: 100vw;
@@ -305,7 +305,7 @@ a[href^="https://"]:hover:after {
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
-}
+} */
 
 /* Break point for devices under 650px */
 
