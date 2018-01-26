@@ -136,7 +136,7 @@ img {
 nav {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
-  z-index: 2000;
+  z-index: 1010;
 }
 
 nav a::after {
