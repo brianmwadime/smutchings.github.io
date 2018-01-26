@@ -273,7 +273,7 @@ padding: 0 ! important;
 @media (max-width: 990px) {
 
   .home h1 {
-    font-size: 6em;
+    font-size: 5em;
     text-align: center;
     width: 100vw;
   }
@@ -293,7 +293,7 @@ padding: 0 ! important;
 @media (max-width: 650px) {
 
   .home h1 {
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
     width: 100vw;
     padding-left: 0px;
