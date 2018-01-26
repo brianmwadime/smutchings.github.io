@@ -290,6 +290,14 @@ a[href^="https://"]:hover:after {
     width: 100vw;
   }
 
+  .card {
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    width: auto;
+  }
+
 }
 
 /* Break point for devices under 650px */
