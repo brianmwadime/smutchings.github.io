@@ -8,7 +8,7 @@ meta-description: About Samuel Hutchings.
 
 <div class="container-fluid">
   <div class="row d-flex align-items-center justify-content-center flex-column">
-    <div class="col-md-8 offset-md-1">
+    <div class="col">
       <div class="card">
         <img class="card-img-top" src="/img/aboutHero.png" alt="Samuel Hutchings">
 
