@@ -120,6 +120,7 @@ img {
 
 .name {
   margin: 0 auto;
+  z-index: 1000;
 }
 
 /* Styles for Home Page Navigation */
