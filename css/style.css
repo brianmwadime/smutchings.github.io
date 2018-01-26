@@ -220,6 +220,11 @@ nav li:last-child {
   color: #FF001F;
 }
 
+.heroImage {
+  background-image: url(/img/aboutHero.png);
+  background-size: cover;
+}
+
 .one-word-line {
     word-spacing: 10000px;
     text-align: center;
