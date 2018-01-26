@@ -277,7 +277,6 @@ a[href^="https://"]:hover:after {
   margin-top: 2em;
   margin-left: 1em;
   margin-right: 1em;
-  width: 50em;
 }
 
 /* Break point for devices under 990px */
