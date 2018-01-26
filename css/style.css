@@ -110,30 +110,6 @@ img {
   width: 100%;
 }
 
-.white {
-  color: white;
-}
-
-.purple {
-  color: #10001F;
-}
-
-.name {
-  margin: 0 auto;
-  z-index: 1000;
-  width: 100vw;
-  text-align: center;
-  position: absolute;
-  left: 0px;
-  top: 35%;
-  background-color: rgba(16, 0, 31, 0.9);
-
-}
-
-/* Styles for Home Page Navigation */
-
-/* Navigation External Link Icon */
-
 nav {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
@@ -210,6 +186,28 @@ nav li:last-child {
   padding-right: 0px;
 }
 
+/*  Classes and IDs */
+
+.white {
+  color: white;
+}
+
+.purple {
+  color: #10001F;
+}
+
+.name {
+  margin: 0 auto;
+  z-index: 1000;
+  width: 100vw;
+  text-align: center;
+  position: absolute;
+  left: 0px;
+  top: 35%;
+  background-color: rgba(16, 0, 31, 0.9);
+
+}
+
 #humanNavLink {
   color: #FFFFFF;
 }
@@ -222,35 +220,12 @@ nav li:last-child {
   color: #FF001F;
 }
 
-/* a[href^="http://"]:after,
-a[href^="https://"]:after {
-  font-family: FontAwesome;
-  content: "\f08e";
-  margin: 0 0 0 0px;
-  display: none;
-  text-decoration: none;
-}
-
-a[href^="http://"]:hover:after,
-a[href^="https://"]:hover:after {
-  font-family: FontAwesome;
-  content: "\f08e";
-  margin: 0 0 0 5px;
-  display: inherit;
-  font-size: 70%;
-  text-decoration: none !important;
-} */
-
-/* .scroll-adjust {
-  padding-left: 25px;
-} */
-
 .one-word-line {
     word-spacing: 10000px;
     text-align: center;
 }
 
-/* Columns */
+/* Column Properties */
 
 .full-height {
   height: 100vh;
@@ -303,11 +278,6 @@ a[href^="https://"]:hover:after {
 /* Break point for devices under 650px */
 
 @media (max-width: 650px) {
-
-  /* .col-lg-7 {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-  } */
 
   .home h1 {
     font-size: 4em;
