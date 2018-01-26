@@ -265,7 +265,7 @@ a[href^="https://"]:hover:after {
 
 @media (max-width: 990px) {
 
-  nav {
+  /* nav {
     width: 100vw;
     text-align: center;
     font-size: 2em;
@@ -279,7 +279,7 @@ a[href^="https://"]:hover:after {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-  }
+  } */
 
   .container{
     padding: 0px;
@@ -287,14 +287,14 @@ a[href^="https://"]:hover:after {
     width: 100vw;
   }
 
-  nav li {
+  /* nav li {
     display: inline;
     padding-right: 1em;
   }
 
   nav li:last-child {
     padding-right: 0px;
-  }
+  } */
 
   .home h1 {
     font-size: 6em;
@@ -302,20 +302,9 @@ a[href^="https://"]:hover:after {
     width: 100vw;
   }
 
-  .col-lg-7 {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-  }
-}
-
 /* Break point for devices under 650px */
 
 @media (max-width: 650px) {
-
-  /* .col-lg-7 {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-  } */
 
   .home h1 {
     font-size: 4em;
@@ -326,25 +315,6 @@ a[href^="https://"]:hover:after {
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 2em;
-  }
-
-  nav li {
-    padding-right: 0px;
-    width: 40%;
-    display: inline-block;
-  }
-
-  ul > li:nth-child(1) {
-    padding-bottom: 0.5em;
-  }
-
-  ul > li:nth-child(2) {
-    padding-bottom: 0.5em;
-  }
-
-  nav {
-    left: 0px;
-    right: 0px;
   }
 
 }
