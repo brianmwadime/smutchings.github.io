@@ -138,6 +138,13 @@ nav {
   font-family: 'Paralines', sans-serif;
   font-size: 6em;
   z-index: 1010;
+  width: 100vw;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: rgba(16, 0, 31, 0.9);
+  text-align: center;
 }
 
 nav a::after {
@@ -168,6 +175,9 @@ a:hover {
 
 nav ul {
   list-style: none;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
   line-height: 1;
 }
 
@@ -189,6 +199,15 @@ nav ul > li:nth-child(4) a {
 
 nav ul > li:last-child a {
   color: #1DA1F2;
+}
+
+nav li {
+  display: inline;
+  padding-right: 1em;
+}
+
+nav li:last-child {
+  padding-right: 0px;
 }
 
 #humanNavLink {
@@ -263,38 +282,7 @@ a[href^="https://"]:hover:after {
 
 /* Break point for devices under 990px */
 
-/* @media (max-width: 990px) { */
-
-  nav {
-    width: 100vw;
-    text-align: center;
-    font-size: 2em;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    background-color: rgba(16, 0, 31, 0.9);
-    text-align: center;
-  }
-
-  nav ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-  }
-
-  .container{
-    padding: 0px;
-    margin: 0px;
-    width: 100vw;
-  }
-
-  nav li {
-    display: inline;
-    padding-right: 1em;
-  }
-
-  nav li:last-child {
-    padding-right: 0px;
-  }
+@media (max-width: 990px) {
 
   .home h1 {
     font-size: 6em;
@@ -302,11 +290,7 @@ a[href^="https://"]:hover:after {
     width: 100vw;
   }
 
-  .col-lg-7 {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-  }
-/* } */
+}
 
 /* Break point for devices under 650px */
 
