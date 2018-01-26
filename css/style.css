@@ -223,7 +223,7 @@ nav li:last-child {
 
 .homeCard {
   top: -120px;
-  padding-bottom: 2em;
+  margin-bottom: 2em;
 }
 
 .heroImage {
