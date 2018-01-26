@@ -301,6 +301,7 @@ a[href^="https://"]:hover:after {
     text-align: center;
     width: 100vw;
   }
+}
 
 /* Break point for devices under 650px */
 
