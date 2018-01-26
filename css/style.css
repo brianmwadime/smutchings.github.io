@@ -365,7 +365,7 @@ a[href^="https://"]:hover:after {
   display: block;
 }
 .cd-auto-hide-header.is-hidden {
-  -webkit-transform: translateY(-100%);
-      -ms-transform: translateY(-100%);
-          transform: translateY(-100%);
+  -webkit-transform: translateY(-150%);
+      -ms-transform: translateY(-150%);
+          transform: translateY(-150%);
 }
