@@ -241,6 +241,10 @@ a[href^="https://"]:hover:after {
   justify-content: center;
 }
 
+.full-width {
+  width: 100vw;
+}
+
 .col-left-scroll {
   position: absolute;
   left: 0;
