@@ -256,7 +256,11 @@ nav li:last-child {
 }
 
 .remove-all-margin{
-margin:0 ! important;
+margin: 0 ! important;
+}
+
+.remove-all-padding{
+padding: 0 ! important;
 }
 
 /* Break point for devices under 990px */
