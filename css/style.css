@@ -121,6 +121,13 @@ img {
 .name {
   margin: 0 auto;
   z-index: 1000;
+  width: 33%;
+  text-align: center;
+  position: absolute;
+  left: 16%;
+  height: 30%;
+  top: 35%;
+
 }
 
 /* Styles for Home Page Navigation */
