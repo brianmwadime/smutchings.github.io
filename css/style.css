@@ -179,7 +179,7 @@ nav li:last-child {
 
 /*  Classes and IDs */
 
-.btn-primary {
+/* .btn-primary {
     background-color: #10001f;
     border-color: #10001f;
 }
@@ -187,7 +187,7 @@ nav li:last-child {
 .btn-primary:hover {
     background-color: #21003F;
     border-color: #21003F;
-}
+} */
 
 .white {
   color: white;
