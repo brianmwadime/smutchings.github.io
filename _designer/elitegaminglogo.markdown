@@ -36,7 +36,7 @@ The monochrome nature of the logo means that it works well in a variety of envir
 
 Here are some pictures of the logo in use.
 
-<img src="/img/elteGamingInStore.jpeg" />
+<img src="/img/eliteGamingInStore.jpeg" />
 
 <img src="/img/eliteGamingShelves.jpeg" />
 
