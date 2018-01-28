@@ -6,7 +6,7 @@ meta-description: Designing a new logo mark for a local board gaming store.
 img: /img/eliteGamingHero.jpg
 ---
 
-### A new logo for an old store with a new name
+#### A new logo for an old store with a new name
 
 Back at the beginning of this year, my friendly local gaming store was taken into new ownership. The previous owner wanted to sell up some of his 4 stores across East Kent, to give him time to focus on his family.
 
