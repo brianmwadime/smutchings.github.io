@@ -22,9 +22,10 @@ Initial ideas revolved around the meeple – a famous icon in the world of board
 <hr />
 
 #### Competing Logos
-With other stores in the local area, there were plenty of logos to consider and work against in the market. Below are a selection of the logos used in the local gaming market by stores.
 
 <img src="/img/eliteGamingCompetition.png" />
+
+With other stores in the local area, there were plenty of logos to consider and work against in the market. Above are a selection of the logos used in the local gaming market by stores.
 
 <hr />
 
