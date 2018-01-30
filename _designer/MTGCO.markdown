@@ -36,10 +36,10 @@ With this in mind, and inspired by [Commander Versus](https://www.youtube.com/pl
 
 This also allowed the information to be updated from a secondary device - normally a smartphone or tablet - and for multiple people to update the information at a time, allowing for a smoother stream and more focus on the game.
 
-
-
-
+![Admin panel on an iPhone](/img/mtgcoAdmin.png)
 
 ---
 
 #### The Result
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WuZIFZV4K90?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
