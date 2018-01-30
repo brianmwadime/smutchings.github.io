@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTG: Commander Overlay
+title: MTG Commander Overlay
 description: A web-based OBS overlay and admin panel for Commander games of the popular Magic The Gathering card game.
 meta-description: A web-based OBS overlay and admin panel for Commander games of the popular Magic The Gathering card game.
 img: /img/mtgcoHero.png
