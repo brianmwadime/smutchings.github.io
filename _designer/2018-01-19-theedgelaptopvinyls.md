@@ -3,7 +3,7 @@ layout: post
 title: The Edge - Laptop Vinyls
 description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
 meta-description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
-permalink: /theedgelaptopvinyls
+permalink: /designer/theedgelaptopvinyls
 img: /img/wrapHero.jpg
 ---
 
