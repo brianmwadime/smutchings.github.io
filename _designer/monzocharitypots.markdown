@@ -1,0 +1,41 @@
+---
+layout: post
+title: Monzo Charity Pots
+description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
+meta-description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
+img: /img/monzoHero.jpg
+---
+
+#### A new way of giving to charity
+
+Charity Pots, inspired by a tweet by Stevie Buckley, are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
+
+#### The Process
+
+I spent an hour or so working on the initial prototype, entirely in Sketch 49. Using screenshots from the iOS app itself as the basis, I was able to recreate and extend the current Pot creation flow to inform about Charity Pots and add simple functionality on the customer's side to enable a Charity Pot and choose a charity.
+
+#### Assumptions
+
+- Monzo customers would like to have a pot that automatically donates its contents to a charity of their choice each month
+- That the full contents of the pot will be donated each month
+- That the contents of all pots will be aggregated and donated on the same day each month, to save any potential charges to Monzo
+- As donations are made from the Pot, and not from the account itself, a set date for transfer can be used, as the whole value of the pot will be transferred, meaning no shock when money “disappears” from your account.
+- Creating a Charity Pot uses the same flow as creating a standard Pot, with an additional option on the set up screen.
+
+#### Prototype
+
+Based on the above assumptions and the current visual design of the Monzo application on iOS, I’ve put together the following prototype to click through to show the flow.
+
+Link to prototype: https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play28
+
+#### Potential Future Improvements
+
+Add option to add a custom charity, in case there are smaller or lesser-known charities that are not on the list
+Add option for a certain amount (fixed £ or % based on income/balance) to be transferred to the Charity Pot each month.
+Add way to calculate aggregate total donation values across the network, so Monzo and their customers can see how much is being donated where.
+
+#### Support This Feature
+
+If you think this feature is a good idea, you can like it and feed back on it over on the Monzo Community Forums. I'm active in the thread, so will reply to any and all suggestions.
+
+Link: https://community.monzo.com/t/pots-improvement-charity-pots/34270?u=smutchings
