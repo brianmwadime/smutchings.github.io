@@ -27,7 +27,7 @@ I spent an hour or so working on the initial prototype, entirely in Sketch 49. U
 
 Based on the above assumptions and the current visual design of the Monzo application on iOS, I’ve put together the following prototype to click through to show the flow.
 
-Link to prototype: https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play28
+Link to prototype: [https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play](https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play)
 
 #### Potential Future Improvements
 
@@ -39,4 +39,4 @@ Add way to calculate aggregate total donation values across the network, so Monz
 
 If you think this feature is a good idea, you can like it and feed back on it over on the Monzo Community Forums. I'm active in the thread, so will reply to any and all suggestions.
 
-Link: https://community.monzo.com/t/pots-improvement-charity-pots/34270?u=smutchings
+Link: [https://community.monzo.com/t/pots-improvement-charity-pots/34270?u=smutchings](https://community.monzo.com/t/pots-improvement-charity-pots/34270?u=smutchings)
