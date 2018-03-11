@@ -3,6 +3,7 @@ layout: post
 title: LED T-Shirt
 description: What happens when you mix electronics, garment printing and digital illustration? You get a repeat-pattern inspired t-shirt that lights up using LEDs.
 meta-description: Mixing mediums to create an LED illuminated t-shirt.
+permalink: /ledtshirt
 img: /img/ledTshirtHero.jpg
 ---
 

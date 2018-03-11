@@ -3,6 +3,7 @@ layout: post
 title: Elite Gaming Logo
 description: Designing a new logo mark for a local board gaming store.
 meta-description: Designing a new logo mark for a local board gaming store.
+permalink: /elitegaminglogo
 img: /img/eliteGamingHero.jpg
 ---
 

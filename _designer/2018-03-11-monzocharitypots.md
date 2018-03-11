@@ -3,6 +3,7 @@ layout: post
 title: Monzo Charity Pots
 description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
 meta-description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
+permalink: /monzocharitypots
 img: /img/monzoHero.jpg
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: Otterpool Park
 description: Designing a new town in the South-East of Kent.
 meta-description: Designing a new town in the South-East of Kent.
+permalink: /otterpoolpark
 img: /img/otterpoolParkHero.png
 ---
 
