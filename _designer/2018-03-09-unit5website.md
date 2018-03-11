@@ -4,7 +4,7 @@ title: Unit 5 - Portfolio Website
 description: A new design and code for my personal portfolio website.
 meta-description: A new design and code for my personal portfolio website.
 permalink: /designer/unit5portfolio
-img: /img/portfolioHero.jpg
+img: /img/unit5Hero.jpg
 ---
 
 #### A new design for a new direction
