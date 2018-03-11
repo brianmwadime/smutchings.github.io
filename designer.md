@@ -7,7 +7,7 @@ meta-description: Designer Portfolio.
 <div class="container-fluid">
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col topMargin">
-      {% for project in site.designer %}
+      {% for project in site.designer reversed %}
         <div class="card">
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
