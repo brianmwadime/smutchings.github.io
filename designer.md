@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Samuel Hutchings - Designer
+title: Sam Hutchings - Designer
 permalink: /designer
 meta-description: Designer Portfolio.
 ---
