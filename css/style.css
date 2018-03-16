@@ -110,8 +110,9 @@ blockquote {
   width: 100%;
 }
 
-.card img + em {
+img + em {
   text-align: center;
+  width: 100%;
 }
 
 nav {
