@@ -111,10 +111,7 @@ blockquote {
 }
 
 .card img + em {
-  width: 100%;
   text-align: center;
-  color: white;
-  background-color: #212529;
 }
 
 nav {
