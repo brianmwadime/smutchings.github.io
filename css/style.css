@@ -112,7 +112,7 @@ blockquote {
 
 img + em {
   text-align: center;
-  width: 100%;
+  width: 100vw;
 }
 
 nav {
