@@ -9,13 +9,17 @@ img: /img/unit6Hero.jpg
 
 #### Project Outline
 
-For Unit 6, I will be working for a client and with a fellow student to solve the real-world, three- dimensional problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
+I worked for a client with a fellow student to solve the real-world, three- dimensional problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
 
-Through the application of information and visual design, our aim is to improve interaction between the students and the laptop lockers, making them a more effective learning resource for East Kent College in Broadstairs, Dover and Folkestone.
+Through the application of information and visual design, we improved interaction between the students and the laptop lockers, making them a more effective learning resource for East Kent College in Broadstairs, Dover and Folkestone.
 
-The following is a PDF report created as the end result of Unit 6. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
+**Role:** Project Manager & Lead Designer
+**Team:** Myself and Alex Lawford
+**Client:** [East Kent College](https://eastkent.ac.uk)
 
-#### Unit 6 Report
+The following is a PDF report created at the end of the project. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
+
+#### Project Report
 
 <a href="/img/Unit6Report.pdf">Attached</a> is the PDF report for my Unit 6 website project.
 
