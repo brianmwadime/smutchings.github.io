@@ -14,7 +14,9 @@ I worked for a client with a fellow student to solve the real-world, three- dime
 Through the application of information and visual design, we improved interaction between the students and the laptop lockers, making them a more effective learning resource for East Kent College in Broadstairs, Dover and Folkestone.
 
 **Role:** Project Manager & Lead Designer
+
 **Team:** Myself and Alex Lawford
+
 **Client:** [East Kent College](https://eastkent.ac.uk)
 
 The following is a PDF report created at the end of the project. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
