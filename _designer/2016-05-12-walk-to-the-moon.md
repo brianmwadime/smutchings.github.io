@@ -7,7 +7,7 @@ permalink: /designer/walk-to-the-moon
 img: /img/walktothemoonHero.jpg
 ---
 
-“Space is big. You just won’t believe how vastly, hugely, mind- bogglingly big it is. I mean, you may think it’s a long way down the road to the chemist’s, but that’s just peanuts to space.” – Douglas Adams, The Hitchhiker’s Guide to the Galaxy
+“Space is big. You just won’t believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it’s a long way down the road to the chemist’s, but that’s just peanuts to space.” – Douglas Adams, The Hitchhiker’s Guide to the Galaxy
 
 At any given time, the distance between the Earth and Moon is about 385,000 kilometres. It’s quite the distance. But, could you walk it? Maybe get there at a steady jog? That’s the idea behind Walk to the Moon, a personal walking tracking app and community concept.
 
