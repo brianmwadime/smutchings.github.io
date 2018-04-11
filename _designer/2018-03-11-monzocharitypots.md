@@ -11,6 +11,8 @@ img: /img/monzoHero.jpg
 
 Charity Pots, inspired by a tweet by Stevie Buckley, are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yo <a href="https://twitter.com/monzo?ref_src=twsrc%5Etfw">@monzo</a>. Sort me out with a function that lets me arrange a direct debit that takes the contents of my Coin Jar and donates it to a charity of my choosing on a monthly basis. Cheers.</p>&mdash; Stevie Buckley (@StevieBuckley) <a href="https://twitter.com/StevieBuckley/status/971724116310089729?ref_src=twsrc%5Etfw">March 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### The Process
 
 I spent an hour or so working on the initial prototype, entirely in Sketch 49. Using screenshots from the iOS app itself as the basis, I was able to recreate and extend the current Pot creation flow to inform about Charity Pots and add simple functionality on the customer's side to enable a Charity Pot and choose a charity.
