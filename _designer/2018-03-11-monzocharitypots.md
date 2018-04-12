@@ -7,9 +7,15 @@ permalink: /designer/monzocharitypots
 img: /img/monzoHero.jpg
 ---
 
-#### A new way of giving to charity
+### A new way of giving to charity
 
-Charity Pots, inspired by a tweet by Stevie Buckley, are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
+#### The Problem To Solve
+
+How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
+
+#### Introducing Charity Pots
+
+Charity Pots, inspired by [https://twitter.com/StevieBuckley/status/971724116310089729](a tweet by Stevie Buckley), are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
 
 <center>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yo <a href="https://twitter.com/monzo?ref_src=twsrc%5Etfw">@monzo</a>. Sort me out with a function that lets me arrange a direct debit that takes the contents of my Coin Jar and donates it to a charity of my choosing on a monthly basis. Cheers.</p>&mdash; Stevie Buckley (@StevieBuckley) <a href="https://twitter.com/StevieBuckley/status/971724116310089729?ref_src=twsrc%5Etfw">March 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -32,6 +38,12 @@ I spent an hour or so working on the initial prototype, entirely in Sketch 49. U
 Based on the above assumptions and the current visual design of the Monzo application on iOS, I’ve put together the following prototype to click through to show the flow.
 
 Link to prototype: [https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play](https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play)
+
+#### Initial Community Feedback
+
+I posted my initial prototype and assumptions to the Monzo Community forum. You can read the thread here: https://community.monzo.com/t/pots-improvement-charity-pots/34270.
+
+Feedback on the feature suggestion and prototype was mainly positive, [https://community.monzo.com/t/pots-improvement-charity-pots/34270/21?u=smutchings](with one or two people) even thinking that this was a product feature Monzo was about to work on. Oops!
 
 #### Potential Future Improvements
 
