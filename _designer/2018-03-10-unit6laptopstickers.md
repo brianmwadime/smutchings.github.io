@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Laptop Locker Signage - 3D Problem Solving
-description: An integrated approach to 3D problem solving in art and creative design, focussed on improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
-meta-description: An integrated approach to 3D problem solving in art and creative design, focussed on improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
-permalink: /designer/unit6
+description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
+meta-description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
+permalink: /designer/laptoplockers
 img: /img/unit6Hero.jpg
 ---
 
 #### Project Outline
 
-I worked for a client with a fellow student to solve the real-world, three- dimensional problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
+I worked for a client with a fellow student to solve the real-world problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
 
 Through the application of information and visual design, we improved interaction between the students and the laptop lockers, making them a more effective learning resource for East Kent College in Broadstairs, Dover and Folkestone.
 
