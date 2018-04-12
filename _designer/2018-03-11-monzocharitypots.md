@@ -37,7 +37,7 @@ I spent an hour or so working on the initial prototype, entirely in Sketch 49. U
 
 Based on the above assumptions and the current visual design of the Monzo application on iOS, I’ve put together the following prototype to click through to show the flow.
 
-Link to prototype: [https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play](https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play)
+Link to prototype: [https://sketch.cloud/s/j4v1a/all/design/account-view-add-pot/play](https://sketch.cloud/s/j4v1a/all/page-1/account-view-add-pot/play)
 
 ##### Initial Community Feedback
 
