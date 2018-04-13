@@ -9,17 +9,23 @@ img: /img/monzoHero.jpg
 
 #### A new way of giving to charity
 
-##### The Problem To Solve
+##### Identifying the Problem
 
 How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
 
-##### Introducing Charity Pots
-
-Charity Pots, inspired by [https://twitter.com/StevieBuckley/status/971724116310089729](a tweet by Stevie Buckley), are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
+This problem was brought to my attention via [https://twitter.com/StevieBuckley/status/971724116310089729](a tweet by Stevie Buckley), who was looking for an easy way to donate to charity from his Monzo account.
 
 <center>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yo <a href="https://twitter.com/monzo?ref_src=twsrc%5Etfw">@monzo</a>. Sort me out with a function that lets me arrange a direct debit that takes the contents of my Coin Jar and donates it to a charity of my choosing on a monthly basis. Cheers.</p>&mdash; Stevie Buckley (@StevieBuckley) <a href="https://twitter.com/StevieBuckley/status/971724116310089729?ref_src=twsrc%5Etfw">March 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+Because the contents of a Coin Jar/Pot in Monzo can be variable, this is a problem that cannot currently be solved by Direct Debits, as they involve the transfer of a fixed amount each month to the charity.
+
+A [https://community.monzo.com/search?q=charity](quick search of the Monzo Community) forums found other Monzo customers wanted a way to easily donate to charity. And [https://www.statista.com/statistics/420137/charitable-donation-giving-uk-england-by-means/](research into the methods) of donation showed that approximately 25% of people currently donate to charity through Direct Debit.
+
+##### Introducing Charity Pots
+
+Charity Pots are the easiest way to donate to charity from your Monzo bank account. Once you've chosen the charity you want to donate to, the total value of your Pot is donated straight to them every month. No direct debits to worry about, just donate what you can each month.
 
 ##### The Process
 
