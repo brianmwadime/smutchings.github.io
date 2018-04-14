@@ -1,52 +1,9 @@
-/* Load Fonts First */
-
-@font-face {
-    font-family: 'Paralines';
-    src: url('/css/font/Paralines-Regular.otf');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'BrixSansLight';
-    src: url('/css/font/Brix-Sans-Light.ttf');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'BrixSansExtraLight';
-    src: url('/css/font/Brix-Sans-ExtraLight.ttf');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'BrixSansBold';
-    src: url('/css/font/Brix-Sans-Bold.ttf');
-    font-weight: bold;
-    font-style: normal;
-}
-
-.paralines {
-  font-family: 'Paralines', sans-serif;
-}
-
-.brixSansLight {
-  font-family: 'BrixSansLight', sans-serif;
-}
-
-.brixSansExtraLight {
-  font-family: 'BrixSansExtraLight', sans-serif;
-}
-
 /* Style HTML tags */
 
 body {
-  background-color: #FEFEFE;
+  background-color: #EFEFEF;
   font-family: 'Raleway', sans-serif;
   -webkit-overflow-scrolling: touch;
-  /* width: 100vw; */
   height: 100%;
   overflow: scroll;
 }
@@ -85,7 +42,6 @@ em {
 }
 
 strong {
-  font-family: 'BrixSansBold', sans-serif;
   font-weight: bold;
 }
 
@@ -115,7 +71,6 @@ img + em {
 }
 
 nav {
-  font-family: 'Raleway', sans-serif;
   font-size: 6em;
   z-index: 1010;
   /* width: 100vw; */
