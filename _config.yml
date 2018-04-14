@@ -1,8 +1,8 @@
 # Site settings
-title: Sam Hutchings - Designer, Writer, Tweeter
+title: Sam Hutchings - Budding Product Designer
 email: hi@samhutchings.co
 description: > # this means to ignore newlines until "baseurl:"
-  Designing a better world.
+  Budding Product Designer. Passionate about creating a better world for everyone, through making great products.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: smutchings
