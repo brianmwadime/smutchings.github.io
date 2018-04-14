@@ -253,17 +253,6 @@ padding: 0 ! important;
     margin-top: 7em;
   }
 
-
-  .heroImage h1 {
-    font-size: 4em;
-    text-align: center;
-    width: 100vw;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
   nav li {
     padding-right: 0px;
     width: 40%;
@@ -281,6 +270,42 @@ padding: 0 ! important;
   nav {
     left: 0px;
     right: 0px;
+  }
+
+  h1 {
+    font-size: 2em;
+    font-weight: 500;
+    color: #DB504A;
+  }
+
+  h2 {
+    font-size: 1.3em;
+    font-weight: 300;
+    color: #DB504A;
+  }
+
+  h3 {
+    font-size: 1.25em;
+    font-weight: 300;
+    color: #DB504A;
+  }
+
+  h4 {
+    font-size: 1em;
+    font-weight: 400;
+    color: #DB504A;
+  }
+
+  h5 {
+    font-size: 0.75em;
+    font-weight: 500;
+    color: #DB504A;
+  }
+
+  h6 {
+    font-size: 0.5em;
+    font-weight: 600;
+    color: #DB504A;
   }
 
 }
