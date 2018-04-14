@@ -1,7 +1,7 @@
 /* Style HTML tags */
 
 body {
-  background-color: #EFEFEF;
+  background-color: #EBE9E9;
   font-family: 'Raleway', sans-serif;
   -webkit-overflow-scrolling: touch;
   height: 100%;
@@ -11,7 +11,6 @@ body {
 p {
   margin-bottom: 1em;
 }
-
 
 h1 {
   font-size: 6em;
@@ -59,7 +58,7 @@ ul {
 
 blockquote {
   padding: 0 1em;
-  border-left: 0.25em solid #10001F;
+  border-left: 0.25em solid #3581B8;
 }
 
 .card img {
@@ -73,12 +72,11 @@ img + em {
 nav {
   font-size: 6em;
   z-index: 1010;
-  /* width: 100vw; */
   text-align: center;
   font-size: 2em;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: rgba(16, 0, 31, 0.9);
+  background-color: rgba(53, 129, 184, 0.9);
   text-align: center;
 }
 
@@ -108,23 +106,23 @@ nav ul {
 }
 
 nav ul > li:first-child a {
-  color: #FFFFFF;
+  color: #F3F8F2;
 }
 
 nav ul > li:nth-child(2) a {
-  color: #FFFFFF;
+  color: #F3F8F2;
 }
 
 nav ul > li:nth-child(3) a {
-  color: #FFEC00;
+  color: #F3F8F2;
 }
 
 nav ul > li:nth-child(4) a {
-  color: #FF001F;
+  color: #F3F8F2;
 }
 
 nav ul > li:last-child a {
-  color: #007bff;
+  color: #F3F8F2;
 }
 
 nav li {
@@ -138,15 +136,15 @@ nav li:last-child {
 
 /*  Classes and IDs */
 
-/* .btn-primary {
-    background-color: #10001f;
-    border-color: #10001f;
+.btn-primary {
+    background-color: #3581B8;
+    border-color: #3581B8;
 }
 
 .btn-primary:hover {
-    background-color: #21003F;
-    border-color: #21003F;
-} */
+    background-color: #FCB07E;
+    border-color: #FCB07E;
+}
 
 .white {
   color: white;
@@ -218,6 +216,7 @@ nav li:last-child {
 }
 
 .card {
+  background-color: #F3F8F2;
   margin-bottom: 2em;
   margin-top: 2em;
   margin-left: auto;
