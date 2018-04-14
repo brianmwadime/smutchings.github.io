@@ -15,7 +15,7 @@ p {
 
 h1 {
   font-size: 3em;
-  font-weight: 300;
+  font-weight: 500;
   color: #DB504A;
 }
 
@@ -216,6 +216,7 @@ padding: 0 ! important;
   top: 6em;
   margin-bottom: 2em;
   background-color: #EBE9E9;
+  border: 0;
 }
 
 .heroImage {
