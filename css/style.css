@@ -161,11 +161,6 @@ nav li:last-child {
 
 }
 
-.homeCard {
-  top: -250px;
-  margin-bottom: 2em;
-}
-
 .heroImage {
   background-image: url(/img/aboutHero.png);
   background-size: cover;
