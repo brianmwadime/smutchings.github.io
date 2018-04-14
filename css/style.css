@@ -85,7 +85,7 @@ img + em {
 nav {
   font-size: 6em;
   font-weight: 700;
-  color: #FDFFFC;
+  color: #DB504A;
   z-index: 1010;
   text-align: center;
   font-size: 2em;
@@ -162,7 +162,6 @@ nav li:last-child {
 }
 
 .homeCard {
-  position: relative;
   top: 100px;
   margin-bottom: 2em;
 }
