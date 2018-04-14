@@ -164,17 +164,6 @@ nav li:last-child {
 
 }
 
-.homeCard {
-  top: 6em;
-  margin-bottom: 2em;
-  background-color: none;
-}
-
-.heroImage {
-  background-image: url(/img/aboutHero.png);
-  background-size: cover;
-}
-
 .one-word-line {
     word-spacing: 10000px;
     text-align: center;
@@ -221,6 +210,17 @@ padding: 0 ! important;
 
 .topMargin {
   margin-top: 4em;
+}
+
+.homeCard {
+  top: 6em;
+  margin-bottom: 2em;
+  background-color: #EBE9E9;
+}
+
+.heroImage {
+  background-image: url(/img/aboutHero.png);
+  background-size: cover;
 }
 
 /* Break point for devices under 990px */
