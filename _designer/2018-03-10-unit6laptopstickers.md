@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Informational Laptop Locker Signage
+title: Laptop Locker Signage
 description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 meta-description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 permalink: /designer/laptoplockers
