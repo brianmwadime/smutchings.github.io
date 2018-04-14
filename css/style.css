@@ -86,7 +86,7 @@ nav {
   font-weight: 500;
   color: #235789;
   z-index: 1010;
-  text-align: left;
+  text-align: center;
   font-size: 2em;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -269,6 +269,7 @@ padding: 0 ! important;
   nav {
     left: 0px;
     right: 0px;
+    text-align: left;
   }
 
   h1 {
