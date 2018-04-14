@@ -162,6 +162,7 @@ nav li:last-child {
 }
 
 .homeCard {
+  position: relative;
   top: 100px;
   margin-bottom: 2em;
 }
