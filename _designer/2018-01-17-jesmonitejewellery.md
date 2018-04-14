@@ -11,25 +11,25 @@ As part of my [Level 3 Art and Creative Design](http://eastkent.ac.uk/course/art
 
 The ultimate result of this process was a series of four space-inspired jesmonite pendants - called Void, Solar, Lunar and Martian.
 
-#### Void
+## Void
 
 <img src="/img/jesmoniteVoid.jpg" alt="" title="" />
 
 Multi-coloured terazzo adds a stellar quality to this dark purple jesmonite pendant, hinting to the colour-specked expanse that is the void of space.
 
-#### Solar
+## Solar
 
 <img src="/img/jesmoniteSolar.jpg" alt="" title="" />
 
 Red terazzo adds heat and character to this yellow jesmonite, hinting to the warmth and light of our own sun.
 
-#### Lunar
+## Lunar
 
 <img src="/img/jesmoniteLunar.jpg" alt="" title="" />
 
 The cratered white landscape of this pendant hints to the pock-marked surface of our nearest stellar neighbour, the moon.
 
-#### Martian
+## Martian
 
 <img src="/img/jesmoniteMartian.jpg" alt="" title="" />
 

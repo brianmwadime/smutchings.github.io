@@ -11,7 +11,7 @@ img: /img/walktothemoonHero.jpg
 
 At any given time, the distance between the Earth and Moon is about 385,000 kilometres. It’s quite the distance. But, could you walk it? Maybe get there at a steady jog? That’s the idea behind Walk to the Moon, a personal walking tracking app and community concept.
 
-#### The Numbers Behind Walk to the Moon
+## The Numbers Behind Walk to the Moon
 
 Before I designed an app for it, I needed to ask “Can someone even walk to the moon?”
 
@@ -25,7 +25,7 @@ If you run, the numbers are a bit more optimistic. Wikipedia pegs human running 
 
 If you’re pretty active, it is in entirely possible for you to walk, jog or run to the moon in their lifetime.
 
-#### The App and Community
+## The App and Community
 
 Walk to the Moon is an application AND a community. The idea is to track your movement during the day using the sensors in your iPhone and/or Apple Watch and map these to the distance between the Earth and the Moon. Your ultimate goal, to make it to the Moon on a solo walk.
 

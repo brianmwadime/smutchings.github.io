@@ -9,7 +9,7 @@ img: /img/otterpoolParkHero.png
 
 As part of my [Level 3 Art and Creative Design](http://eastkent.ac.uk/course/art-and-creative-design-level-3) course, I was involved in and led workshops to help design a new town, Otterpool Park, in the south-east of Kent.
 
-#### Idea Workshops
+## Idea Workshops
 
 At the beginning of the process, we worked as a group of 8-10 students, coming up with ideas for what we'd ideally like to see in a new town opening in our community.
 
@@ -25,7 +25,7 @@ These themes were carried through to the communication workshop and, later, the 
 
 ---
 
-#### Communication Workshop
+## Communication Workshop
 
 The day before the presentation, I helped lead a communication workshop with the three other students who would be joining me at the meeting. This helped focus their message on the three main themes from our previous workshops, whilst also helping them gain confidence and basic skills to stand up in front of an audience and talk freely about their respective ideas and dreams.
 
@@ -33,7 +33,7 @@ During this workshop, we also outlined a PDF document to be created and handed o
 
 ---
 
-#### Presentation
+## Presentation
 
 On the day of the presentation, I led the group through presenting and defending our ideas. Backing up our points with anecdotal evidence as well as evidence from other cities or research I had read whilst preparing for the presentation.
 
@@ -43,7 +43,7 @@ At the beginning of the meeting, we had been given a 20-minute slot to talk abou
 
 ---
 
-#### The Presentation PDF
+## The Presentation PDF
 
 <a href="/img/OtterpoolPark.pdf">Attached</a> is the PDF I designed and produced for the Otterpool Park meeting.
 

@@ -7,15 +7,15 @@ permalink: /designer/hxwarth
 img: /img/hxwarthHero.jpg
 ---
 
-#### Outline
+## Outline
 
 HXWARTH (pronounced "Howarth") is a collection of streetwear by the young fashion designer Jack Howarth. Jack was looking for a new logo to better represent the collection, so I helped him put one together. Then, I used the new logo to design a couple of minimalist pieces for Jack to showcase in an upcoming photoshoot.
 
-#### Inspirations
+## Inspirations
 
 The HXWARTH logo is inspired by the urban environment, graffiti, and the boldness of the fonts and colours used in these environments. It is designed to be used in a variety of colour-ways, to match the mood and context of the piece.
 
-#### Showcase
+## Showcase
 
 ![HXWARTH Orange logo on royal blue background](/img/hxwarth/orangeblue.png)
 
