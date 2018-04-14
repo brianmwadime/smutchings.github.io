@@ -44,7 +44,7 @@
 
 body {
   background-color: #10001F;
-  font-family: 'BrixSansLight', sans-serif;
+  font-family: 'Raleway', sans-serif;
   -webkit-overflow-scrolling: touch;
   /* width: 100vw; */
   height: 100%;
@@ -115,7 +115,7 @@ img + em {
 }
 
 nav {
-  font-family: 'Paralines', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 6em;
   z-index: 1010;
   /* width: 100vw; */
