@@ -13,7 +13,7 @@ img: /img/monzoHero.jpg
 
 How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
 
-This problem was brought to my attention via [https://twitter.com/StevieBuckley/status/971724116310089729](a tweet by Stevie Buckley), who was looking for an easy way to donate to charity from his Monzo account.
+This problem was brought to my attention via [a tweet by Stevie Buckley](https://twitter.com/StevieBuckley/status/971724116310089729), who was looking for an easy way to donate to charity from his Monzo account.
 
 <center>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yo <a href="https://twitter.com/monzo?ref_src=twsrc%5Etfw">@monzo</a>. Sort me out with a function that lets me arrange a direct debit that takes the contents of my Coin Jar and donates it to a charity of my choosing on a monthly basis. Cheers.</p>&mdash; Stevie Buckley (@StevieBuckley) <a href="https://twitter.com/StevieBuckley/status/971724116310089729?ref_src=twsrc%5Etfw">March 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -21,7 +21,7 @@ This problem was brought to my attention via [https://twitter.com/StevieBuckley/
 
 Because the contents of a Coin Jar/Pot in Monzo can be variable, this is a problem that cannot currently be solved by Direct Debits, as they involve the transfer of a fixed amount each month to the charity.
 
-A [https://community.monzo.com/search?q=charity](quick search of the Monzo Community) forums found other Monzo customers wanted a way to easily donate to charity. And [https://www.statista.com/statistics/420137/charitable-donation-giving-uk-england-by-means/](research into the methods) of donation showed that approximately 25% of people currently donate to charity through Direct Debit.
+A [quick search of the Monzo Community](https://community.monzo.com/search?q=charity) forums found other Monzo customers wanted a way to easily donate to charity. And [research into the methods](https://www.statista.com/statistics/420137/charitable-donation-giving-uk-england-by-means/) of donation showed that approximately 25% of people currently donate to charity through Direct Debit.
 
 ### Introducing Charity Pots
 
@@ -49,7 +49,7 @@ Link to prototype: [https://sketch.cloud/s/j4v1a/all/design/account-view-add-pot
 
 I posted my initial prototype and assumptions to the Monzo Community forum. You can read the thread here: https://community.monzo.com/t/pots-improvement-charity-pots/34270.
 
-Feedback on the feature suggestion and prototype was mainly positive, [https://community.monzo.com/t/pots-improvement-charity-pots/34270/21?u=smutchings](with one or two people) even thinking that this was a product feature Monzo was about to work on. Oops!
+Feedback on the feature suggestion and prototype was mainly positive, [with one or two people](https://community.monzo.com/t/pots-improvement-charity-pots/34270/21?u=smutchings) even thinking that this was a product feature Monzo was about to work on. Oops!
 
 ### Potential Future Improvements
 
