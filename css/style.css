@@ -270,7 +270,7 @@ padding: 0 ! important;
     left: 0px;
     right: 0px;
     text-align: left;
-    padding: 0 10%;
+    padding: inherit 10%;
   }
 
   h1 {
