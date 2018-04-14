@@ -15,25 +15,25 @@ p {
 
 h1 {
   font-size: 4em;
-  font-weight: 900;
+  font-weight: 100;
   color: #DB504A;
 }
 
 h2 {
   font-size: 3em;
-  font-weight: 800;
+  font-weight: 200;
   color: #DB504A;
 }
 
 h3 {
   font-size: 2em;
-  font-weight: 700;
+  font-weight: 300;
   color: #DB504A;
 }
 
 h4 {
   font-size: 1em;
-  font-weight: 600;
+  font-weight: 400;
   color: #DB504A;
 }
 
@@ -45,7 +45,7 @@ h5 {
 
 h6 {
   font-size: 0.5em;
-  font-weight: 500;
+  font-weight: 600;
   color: #DB504A;
 }
 
