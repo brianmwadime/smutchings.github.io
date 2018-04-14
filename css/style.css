@@ -308,6 +308,10 @@ padding: 0 ! important;
     color: #DB504A;
   }
 
+  .card {
+    width: 90%;
+  }
+
 }
 
 /* --------------------------------
