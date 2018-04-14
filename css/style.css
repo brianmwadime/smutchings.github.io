@@ -113,6 +113,7 @@ nav li a:visited {
 
 a:hover {
   text-decoration: underline;
+  color: #235789;
 }
 
 a {
