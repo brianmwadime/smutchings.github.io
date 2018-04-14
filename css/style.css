@@ -75,7 +75,7 @@ ul {
 
 blockquote {
   padding: 0 1em;
-  border-left: 0.25em solid #DB504A;
+  border-left: 0.25em solid #F1D302;
 }
 
 .card img {
@@ -146,10 +146,6 @@ nav li:last-child {
 
 .white {
   color: white;
-}
-
-.purple {
-  color: #10001F;
 }
 
 .name {
@@ -225,7 +221,7 @@ padding: 0 ! important;
 }
 
 #homeNavLink {
-  color: #DB504A;
+  color: #F1D302;
 }
 
 /* Break point for devices under 990px */
