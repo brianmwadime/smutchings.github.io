@@ -78,6 +78,7 @@ img + em {
 
 nav {
   font-size: 6em;
+  font-weight: 700;
   color: #FDFFFC;
   z-index: 1010;
   text-align: center;
