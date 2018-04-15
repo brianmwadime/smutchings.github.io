@@ -12,7 +12,7 @@ meta-description: Designer Portfolio.
           <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
           <div class="card-body">
             <h1 class="card-title">{{ project.title }}</h1>
-            <h2 class="card-subtitle mb-2 text-muted">{{ page.subtitle }}</h2>
+            <h2 class="card-subtitle mb-2 text-muted">{{ project.subtitle }}</h2>
             <p class="card-text">{{ project.description }}</p>
             <a href="{{ project.url }}" class="btn btn-block btn-primary btn-lg">Read more</a>
           </div>
