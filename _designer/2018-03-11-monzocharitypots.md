@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Monzo Charity Pots
+subtitle: A new way of giving to charity
 description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
 meta-description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
 permalink: /designer/monzocharitypots

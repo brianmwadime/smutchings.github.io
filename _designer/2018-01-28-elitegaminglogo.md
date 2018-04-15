@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elite Gaming Logo
+subtitle: A new logo for a new store
 description: Designing a new logo mark for a local board gaming store.
 meta-description: Designing a new logo mark for a local board gaming store.
 permalink: /designer/elitegaminglogo
