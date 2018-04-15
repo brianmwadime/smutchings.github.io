@@ -8,7 +8,7 @@ permalink: /designer/laptoplockers
 img: /img/unit6Hero.jpg
 ---
 
-## Project Outline
+### Project Outline
 
 I worked for a client with a fellow student to solve the real-world problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
 
@@ -20,7 +20,7 @@ Through the application of information and visual design, we improved interactio
 
 The following is a PDF report created at the end of the project. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
 
-## Project Report
+### Project Report
 
 <a href="/img/Unit6Report.pdf">Attached</a> is the PDF report for my Unit 6 website project.
 

@@ -8,8 +8,7 @@ permalink: /designer/theedgelaptopvinyls
 img: /img/wrapHero.jpg
 ---
 
-
-## The Problem
+### The Problem
 
 The Edge School of Creative and Business had a problem. They had four MacBook Airs for students to use for research and production in class, but no way to - at a glance - identify which laptops in the class were theirs, and which belonged to the students.
 
@@ -17,7 +16,7 @@ I needed to design a visual way to quickly see which laptops are being used and 
 
 ---
 
-## The Solution
+### The Solution
 
 It quickly became clear to me that the Roland printer we have in the classroom, for printing and cutting vinyl, would be a great resource to use. We could print labels for each laptop, or perhaps even a skin to cover the whole back of the MacBook Air.
 
@@ -25,7 +24,7 @@ After discussions with the head of school, we decided to wrap the back of each M
 
 ---
 
-## The Process
+### The Process
 
 I started by finding and downloading a decal template for the 13" MacBook Air. This would save me a lot of time measuring, shaping and testing before printing the decal. As the template was a PDF, I could simply import it into Illustrator, trace the lines, and have a template to use for all four laptop vinyls.
 
@@ -45,7 +44,7 @@ Once printed and allowed to dry, each wrap was applied to its respective laptop.
 
 ---
 
-## The Result
+### The Result
 
 The result is four great-looking MacBook Airs. Students and staff love them. They are distinct from any MacBook a student would bring in, branded with the school's logo, and easy to see wherever they are in the classroom.
 

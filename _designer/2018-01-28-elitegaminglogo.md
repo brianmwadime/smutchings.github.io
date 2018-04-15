@@ -8,13 +8,11 @@ permalink: /designer/elitegaminglogo
 img: /img/eliteGamingHero.jpg
 ---
 
-## A new logo for an old store with a new name
-
 Back at the beginning of this year, my friendly local gaming store was taken into new ownership. The previous owner wanted to sell up some of his 4 stores across East Kent, to give him time to focus on his family.
 
 In the first quarter of 2017, XPG Dover closed and in its place opened Elite Gaming, with no logo.
 
-## How we got here
+### How we got here
 Shortly after the takeover was completed, and the name was decided on, talk about a logo started. How would it look? What feel should it have? Who should design it? One weekend, with a little time on my hand, I played around with some ideas and concepts and came upon the logo the store is using today.
 
 I knew from the off that I wanted to create a logo that was minimalist, classy, and that would set the store apart from the colourful, almost gaudy, logos of gaming stores throughout the world. I also knew the logo had to relate to gaming in some way, and the visual language and metaphor used in this hobby.
@@ -23,7 +21,7 @@ Initial ideas revolved around the meeple – a famous icon in the world of board
 
 <hr />
 
-## Competing Logos
+### Competing Logos
 
 <img src="/img/eliteGamingCompetition.png" />
 
@@ -31,7 +29,7 @@ With other stores in the local area, there were plenty of logos to consider and 
 
 <hr />
 
-## The Final Logo
+### The Final Logo
 
 <img src="/img/eliteGamingLogo.png" />
 
