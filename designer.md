@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sam Hutchings - Designer
+title: Sam Hutchings - Budding Product Designer
 permalink: /designer
-meta-description: Designer Portfolio.
+meta-description: Passionate about creating a better world for everyone, through making great products.
 ---
 <div class="container-fluid">
   <div class="row d-flex align-items-center justify-content-center flex-column">
