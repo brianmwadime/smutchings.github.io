@@ -155,12 +155,11 @@ nav li:last-child {
 
 .btn-outline-primary {
   font-family: 'Raleway', sans-serif;
-  background-color: #235789;
   border-color: #235789;
 }
 
 .btn-outline-primary:hover {
-  background-color: #161925;
+  font-family: 'Raleway', sans-serif;
   border-color: #161925;
 }
 
