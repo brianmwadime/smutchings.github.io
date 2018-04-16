@@ -318,6 +318,12 @@ padding: 0 ! important;
     color: #DB504A;
   }
 
+  .card-body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 }
 
 /* --------------------------------
