@@ -132,6 +132,12 @@ nav li:last-child {
   padding-right: 0px;
 }
 
+/* Card Styling */
+
+.card-body {
+  width: 80%;
+}
+
 /*  Classes and IDs */
 
 .btn-primary {
