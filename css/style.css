@@ -153,13 +153,13 @@ nav li:last-child {
 
 /*  Classes and IDs */
 
-.btn-outline-primary {
+.btn-primary {
   font-family: 'Raleway', sans-serif;
   background-color: #235789;
   border-color: #235789;
 }
 
-.btn-outline-primary:hover {
+.btn-primary:hover {
   background-color: #161925;
   border-color: #161925;
 }
