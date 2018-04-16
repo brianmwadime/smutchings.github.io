@@ -89,6 +89,7 @@ img + em {
 }
 
 nav {
+  font-family: 'Raleway', sans-serif;
   font-weight: 500;
   color: #235789;
   z-index: 1010;
