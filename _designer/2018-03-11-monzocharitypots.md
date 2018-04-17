@@ -2,15 +2,15 @@
 layout: post
 title: Monzo Charity Pots
 subtitle: A new way of giving to charity
-description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
+description: How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
 meta-description: A quick design and prototype to see how Monzo, the bank, could add charity donations to their Pots system.
 permalink: /designer/monzocharitypots
 img: /img/monzoHero.jpg
 ---
 
-### Identifying the Problem
-
 How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
+
+### Identifying the Problem
 
 This problem was brought to my attention via [a tweet by Stevie Buckley](https://twitter.com/StevieBuckley/status/971724116310089729), who was looking for an easy way to donate to charity from his Monzo account.
 
@@ -52,9 +52,10 @@ Feedback on the feature suggestion and prototype was mainly positive, [with one 
 
 ### Potential Future Improvements
 
-Add option to add a custom charity, in case there are smaller or lesser-known charities that are not on the list
-Add option for a certain amount (fixed £ or % based on income/balance) to be transferred to the Charity Pot each month.
-Add way to calculate aggregate total donation values across the network, so Monzo and their customers can see how much is being donated where.
+- Add option to add a custom charity, in case there are smaller or lesser-known charities that are not on the list
+- Add option for a certain amount (fixed £ or % based on income/balance) to be transferred to the Charity Pot each month.
+- Add way to calculate aggregate total donation values across the network, so Monzo and their customers can see how much is being donated where.
+- Bring in improvements suggested by the Monzo community.
 
 ### Support This Feature
 
