@@ -38,7 +38,7 @@ I spent an hour or so working on the initial prototype, entirely in Sketch 49. U
 - As donations are made from the Pot, and not from the account itself, a set date for transfer can be used, as the whole value of the pot will be transferred, meaning no shock when money “disappears” from your account.
 - Creating a Charity Pot uses the same flow as creating a standard Pot, with an additional option on the set up screen.
 
-### Prototype
+### Initial Prototype
 
 Based on the above assumptions and the current visual design of the Monzo application on iOS, I’ve put together the following prototype to click through to show the flow.
 
