@@ -14,7 +14,7 @@ meta-description: Passionate about creating a better world for everyone, through
             <h1 class="card-title">{{ project.title }}</h1>
             <h2 class="card-subtitle mb-2 text-muted">{{ project.subtitle }}</h2>
             <p class="card-text">{{ project.description }}</p>
-            <a href="{{ project.url }}" class="btn btn-block btn-primary btn-lg">Read more</a>
+            <a href="{{ project.url }}" class="btn btn-block btn-primary btn-lg">{{ project.button-text }}</a>
           </div>
         </div>
 

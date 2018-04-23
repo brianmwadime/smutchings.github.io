@@ -5,6 +5,7 @@ subtitle: Easily identify laptops in a busy classroom
 description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
 meta-description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
 permalink: /designer/theedgelaptopvinyls
+button-text: Read the case study
 img: /img/wrapHero.jpg
 ---
 
