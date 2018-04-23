@@ -5,7 +5,7 @@ subtitle: Informational signage for students and staff
 description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 meta-description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 permalink: /designer/laptoplockers
-button-text: Read the case study
+button-text: Read my report
 img: /img/unit6Hero.jpg
 ---
 
