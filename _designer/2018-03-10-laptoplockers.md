@@ -19,9 +19,11 @@ Through the application of information and visual design, we improved interactio
 **Team:** Myself and Alex Lawford  
 **Client:** [East Kent College](https://eastkent.ac.uk)  
 
-The following is a PDF report created at the end of the project. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
+> "A great job. I am really impressed with what you have completed with the laptops, and I know visitors I have shown have also been impressed. I think there is most definitely potential in taking this further across Folkestone."" - Victoria Copp-Crawley, Folkestone Campus Principal
 
 ### Project Report
+
+The following is a PDF report created at the end of the project. It's a long read (clocking in at 25 pages), but is a good example of where I'm currently at in research and reporting.
 
 <a href="/img/Unit6Report.pdf">Attached</a> is the PDF report for my Unit 6 website project.
 
