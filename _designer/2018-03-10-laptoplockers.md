@@ -82,10 +82,7 @@ Those campuses fitted with informational labelling have seen a dramatic increase
 
 East Kent College Technology Services are now looking to roll out the smart laptop lockers to their new Canterbury and Sheppey campuses, and they will be labelled in the same way as those systems in Dover, Folkestone and Broadstairs.
 
-
-<div class="videoWrapper">
   <video controls>
   <source src="{{ site.baseurl }}/img/laptoplockers/inuse.m4v" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-</div>
