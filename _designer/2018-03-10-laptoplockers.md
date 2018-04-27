@@ -82,8 +82,3 @@ Overall, this project has been very successful.
 Those campuses fitted with informational labelling have seen a dramatic increase in the use of the locker system and laptops by students, and a reduction in incorrect replacement of laptops into the lockers. Staff and students alike love the colourful and clear designs of the stickers.
 
 East Kent College Technology Services are now looking to roll out the smart laptop lockers to their new Canterbury and Sheppey campuses, and they will be labelled in the same way as those systems in Dover, Folkestone and Broadstairs.
-
-  <video controls>
-  <source src="{{ site.baseurl }}/img/laptoplockers/inuse.m4v" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
