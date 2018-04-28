@@ -82,9 +82,12 @@ ul {
 }
 
 blockquote {
+  font-family: "Raleway", "Roboto", sans-serif;
   padding: 0 1em;
   border-left: 0.25em solid #F1D302;
-  font-size: 1.2em;
+  font-size: 1.1em;
+  position: relative;
+  left: -1.2em;
 }
 
 .card img {
