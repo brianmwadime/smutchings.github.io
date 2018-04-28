@@ -10,8 +10,6 @@ img: /img/unit6Hero.jpg
 video: /img/laptopLockersHero.m4v
 ---
 
-### Project Outline
-
 Working for East Kent College Technology Services alongside a fellow student, we worked to solve the real-world problem of students understanding and interacting with East Kent College’s new smart laptop locker system.
 
 Through the application of information and visual design, we improved interaction between the students and the laptop lockers, making them a more effective learning resource for East Kent College campuses in Broadstairs, Dover and Folkestone.

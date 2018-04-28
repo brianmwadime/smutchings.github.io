@@ -9,8 +9,6 @@ button-text: See the process
 img: /img/wrapHero.jpg
 ---
 
-### The Problem
-
 The Edge School of Creative and Business had a problem. They had four MacBook Airs for students to use for research and production in class, but no way to - at a glance - identify which laptops in the class were theirs, and which belonged to the students.
 
 I needed to design a visual way to quickly see which laptops are being used and where they are within the classroom. The solution had to be something made up using the resources available in the classroom, so as not to cost a large amount of money.
