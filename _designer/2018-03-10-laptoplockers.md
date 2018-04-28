@@ -26,18 +26,16 @@ Through the application of information and visual design, we improved interactio
 
 The project was bound by the following parameters:
 
-- The resultant product had to adhere to the laptops and laptop lockers as they are used in day-to-day college life.
-- The product had to be long-lasting and able to resist common environmental hazards in a college environment.
-- The resultant product had to conform to new EKC Group brand guidelines, using defined campus colours, the college’s Montserrat typeface, and the font weights chosen by the college as they rebrand from East Kent College to EKC Group.
-- The product had to be delivered to a pre-agreed timeline and budget, as it is a commercial application of design and is necessary for the successful roll-out of the laptop locker project.
-- The product had to use resources already available to the college, as much as possible, to ensure cost-effective delivery.
-- The product had to be adhered to plastic and aluminium laptops and painted doors, and be relatively easy to apply by technicians on various campuses.
-- The locker product had to make it clear how to borrow or return a laptop, using language suitable for students with varying English comprehension levels.
-- The laptop product had to feature instructions on how to return the laptop, as well as information on where the laptop is located, and its serial number for easy tracking and repair logging by students and the college's Technology team.
-- The product had to be sized appropriately for both Lenovo and MacBook Air laptops, as the college is a mixed-platform environment.
-- The product had to be delivered in a printed format and fitted by myself and Alex Lawford.
+- has to adhere to metal and plastic laptops and painted laptop lockers.
+- has to be sized appropriately for both Lenovo and MacBook Air laptops.
+- has to be long-lasting and able to resist common college hazards.
+- has to conform to new brand guidelines as college rebrands to EKC Group.
+- has to use resources already available to the college to ensure cost-effective delivery.
+- has to be relatively easy to apply by technicians on various campuses.
+- has to make it clear how to borrow or return a laptop, using inclusive language.
+- has to feature all information and instructions for smooth daily operation.
 
-The project was considered complete once 4 locker systems and 130 laptops have had their labelling applied and spares had been produced and supplied.
+The project was complete once 4 locker systems and 130 laptops had their labelling applied and spares were produced and supplied.
 
 ### Research and Observations
 
