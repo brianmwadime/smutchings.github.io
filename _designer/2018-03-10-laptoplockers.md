@@ -19,7 +19,7 @@ Through the application of information and visual design, we improved interactio
 **Client:** [East Kent College](https://eastkent.ac.uk)  
 
 > "_A great job. I am really impressed with what you have completed with the laptops, and I know visitors I have shown have also been impressed. I think there is most definitely potential in taking this further across Folkestone._"  
-> – Victoria Copp-Crawley, Folkestone Campus Principal
+> Victoria Copp-Crawley, Folkestone Campus Principal
 
 ### Project Parameters
 
