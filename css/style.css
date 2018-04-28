@@ -7,7 +7,6 @@ body {
   -webkit-overflow-scrolling: touch;
   height: 100%;
   overflow: scroll;
-  margin-bottom: 1em;
 }
 
 video {
