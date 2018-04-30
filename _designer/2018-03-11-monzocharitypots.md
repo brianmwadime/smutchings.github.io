@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: videopost
 title: Monzo Charity Pots
 subtitle: A new way of giving to charity
 description: How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
@@ -7,6 +7,7 @@ meta-description: A quick design and prototype to see how Monzo, the bank, could
 permalink: /designer/monzocharitypots
 button-text: See the prototype
 img: /img/monzoHero.jpg
+video: /img/monzoHero.m4v
 ---
 
 How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
