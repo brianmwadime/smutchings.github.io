@@ -6,7 +6,7 @@ description: Improving the accessibility and usability of a new smart laptop loc
 meta-description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 permalink: /designer/laptoplockers
 button-text: See the process
-img: /img/unit6Hero.jpg
+img: /img/laptoplockersHero.jpg
 video: /img/laptopLockersHero.m4v
 ---
 
