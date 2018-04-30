@@ -47,7 +47,7 @@ We looked at the cultural aspect of stickers and their placement on laptops and 
 
 <figure class="figure">
   <img src="/img/laptoplockers/MacBookStickers.jpg" class="figure-img img-fluid rounded" alt="A MacBook Air covered in various stickers.">
-  <figcaption class="figure-caption text-center">How do you make a laptop sticker stand out againse other laptops trying to stand out?</figcaption>
+  <figcaption class="figure-caption text-center">How do you make a laptop sticker stand out against other laptops trying to stand out?</figcaption>
 </figure>
 
 We also looked into the use of colour in informational signage - such as the use of yellow for caution and blue for information - as well as the use of mixed-case typography and chunking to ensure legibility and understanding.
