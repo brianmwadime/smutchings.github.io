@@ -9,7 +9,9 @@ meta-description: Passionate about creating a better world for everyone, through
     <div class="col topMargin">
       {% for project in site.designer reversed %}
         <div class="card">
-          <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
+          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop controls muted>
+            <source src="{{ page.video }}" type="video/mp4">
+          </video>
           <div class="card-body">
             <h1 class="card-title">{{ project.title }}</h1>
             <h2 class="card-subtitle mb-2 text-muted">{{ project.subtitle }}</h2>
