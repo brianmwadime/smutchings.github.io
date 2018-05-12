@@ -90,6 +90,11 @@ blockquote {
   left: -1.2em;
 }
 
+hr {
+    height: 4px;
+    background: #F1D302;
+}
+
 .card img {
   width: 100%;
 }
