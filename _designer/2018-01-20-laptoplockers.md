@@ -28,7 +28,7 @@ Working for East Kent College Technology Services alongside a fellow student, I 
 - [Evaluation](#evaluation)  
 - [Post-Install Improvements](#improvements)  
 
-### Project Parameters [](# "parameters")
+### Project Parameters {#parameters}
 
 The project was bound by the following parameters:
 
@@ -43,7 +43,7 @@ The project was bound by the following parameters:
 
 The project was complete once 4 locker systems and 130 laptops had their labelling applied and spares were produced and supplied.
 
-### Research and Observations [](# "research")
+### Research and Observations
 
 We looked at the use of information design in the real world, as well as the cultural and material properties of stickers and their placement. This research helped us understand how words, shapes and colours are used to convey information, including on road signage, warning labels, and ticket vending machines.
 
@@ -68,7 +68,7 @@ We also looked into the use of colour in informational signage - such as the use
 
 Observations found that a large proportion of students had issues when returning the laptops. Most notably, they returned the laptops in an incorrect orientation or forgot to reconnect the laptop to its charger.
 
-### Development [](# "development")
+### Development
 
 Then it was time to develop the design of the informational sticks for the laptops and lockers. In this instance, I started by sketching out designs for the laptop locker stickers, before creating digital and physical prototypes to test legibility and clarity of information in the space.
 
@@ -88,7 +88,7 @@ When iterating on the design for the laptops, it became clear that we were deali
 
 Iterating through designs and sketching, I decided upon a modular, chevron-inspired design for the stickers, allowing for dynamism in the design as well as easy installation across a range of sizes of device, with chevrons added or removed based on the size of the device.
 
-### Installation [](# "install")
+### Installation
 
 Once the stickers were designed and printed, using Roland VersaWorks Dual and a BN-20 vinyl printer and cutter, it was time to install them. Alex and I started in Folkestone, as this was our home base at the time, to make it easier for us to adapt our process and gather any tools we would need as the day progressed. Once we were comfortable with how things were at Folkestone, we were able to put together an installation toolkit that we could take to the other campuses.
 
@@ -99,13 +99,13 @@ Once the stickers were designed and printed, using Roland VersaWorks Dual and a 
 
 This toolkit was rather simple, being made up of two application squeegees, a vinyl weeder, a utility knife, and an installation "jig" made of a 7cm piece of foamboard and a right-angled set square. This small selection of tools were all we needed to apply the stickers, and installation at each site took between 1.5 and 2.5 hours depending on the number of stickers involved and the proximity between our work area and the laptops.
 
-### Evaluation [](# "evaluation")
+### Evaluation
 
 Campuses fitted with informational labelling have seen a dramatic increase in the use of the locker system and laptops by students, and a reduction in incorrect replacement of laptops into the lockers. Staff and students alike love the colourful and clear design of the stickers.
 
 East Kent College Technology Services are now looking to roll out the smart laptop lockers to their new Canterbury and Sheppey campuses, and they will be labelled in the same way as those systems in Dover, Folkestone and Broadstairs.
 
-### Post-Install Improvements [](# "improvements")
+### Post-Install Improvements
 
 After installing the locker signage at Folkestone, we kept an eye on how people interacted with them and any potential problems that may arise in the real world. A couple of months after installation, it became clear that students were physically tapping and dragging their ID badges across the reader, leading to damage to the sticker.
 
