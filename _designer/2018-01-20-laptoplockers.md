@@ -95,3 +95,21 @@ This toolkit was rather simple, being made up of two application squeegees, a vi
 Campuses fitted with informational labelling have seen a dramatic increase in the use of the locker system and laptops by students, and a reduction in incorrect replacement of laptops into the lockers. Staff and students alike love the colourful and clear design of the stickers.
 
 East Kent College Technology Services are now looking to roll out the smart laptop lockers to their new Canterbury and Sheppey campuses, and they will be labelled in the same way as those systems in Dover, Folkestone and Broadstairs.
+
+### Post-Installation Improvements
+
+After installing the locker signage at Folkestone, we kept an eye on how people interacted with them and any potential problems that may arise in the real world. A couple of months after installation, it became clear that students were physically tapping and dragging their ID badges across the reader, leading to damage to the sticker.
+
+<figure class="figure">
+  <img src="/img/laptoplockers/damagedSticker.jpg" class="figure-img img-fluid rounded" alt="Damaged Step 1 sticker from students tapping and dragging their ID badges across the sticker.">
+  <figcaption class="figure-caption text-center">Damaged Step 1 sticker from students tapping and dragging their ID badges across the sticker.</figcaption>
+</figure>
+
+As soon as this problem became evident, I worked to develop and produce a solution to the problem. I reprinted the sticker at a slightly reduced size (90%) and ordered a resilient laminate material to go over the top. I then laminated the two parts together and fitted them on the laptop lockers in Folkestone.
+
+<figure class="figure">
+  <img src="/img/laptoplockers/laminateSide.jpg" class="figure-img img-fluid rounded" alt="A side view of the new, laminated solution installed and good to go in Folkestone.">
+  <figcaption class="figure-caption text-center">The UV and moisture resistant laminate also gives extra physical protection, increasing the longevity of the stickers.</figcaption>
+</figure>
+
+A pack of replacement stickers was produced for both Dover and Broadstairs campuses and distributed, with an instructional video on how to install the replacement, to the campuses for their on-site technology teams to deploy.
