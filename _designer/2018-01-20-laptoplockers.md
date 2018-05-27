@@ -21,12 +21,12 @@ Working for East Kent College Technology Services alongside a fellow student, I 
 
 ### Table Of Contents
 
-[Project Parameters](#parameters)
-[Research and Observations](#research)
-[Development](#development)
-[Installation](#install)
-[Evaluation](#evaluation)
-[Post-Install Improvements](#improvements)
+- [Project Parameters](#parameters)  
+- [Research and Observations](#research)  
+- [Development](#development)  
+- [Installation](#install)  
+- [Evaluation](#evaluation)  
+- [Post-Install Improvements](#improvements)  
 
 ### Project Parameters []("parameters")
 
