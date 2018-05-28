@@ -47,8 +47,8 @@ The project was complete once 4 locker systems and 130 laptops had their labelli
 
 We looked at the use of information design in the real world, as well as the cultural and material properties of stickers and their placement. This research helped us understand how words, shapes and colours are used to convey information, including on road signage, warning labels, and ticket vending machines.
 
-<figure class="figure mx-auto">
-  <img src="/img/laptoplockers/secretBunker.jpg" class="figure-img img-fluid rounded mx-auto" alt="A road sign showing directions to Secret Bunker.">
+<figure class="figure">
+  <img src="/img/laptoplockers/secretBunker.jpg" class="figure-img img-fluid rounded" alt="A road sign showing directions to Secret Bunker.">
   <figcaption class="figure-caption text-center">Road signs are designed to be seen from a distance.</figcaption>
 </figure>
 
