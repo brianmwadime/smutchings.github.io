@@ -24,7 +24,10 @@ Initial ideas revolved around the meeple – a famous icon in the world of board
 
 ### Competing Logos
 
-<img src="/img/eliteGamingCompetition.png" />
+<figure class="figure d-block text-center">
+  <img src="/img/eliteGamingCompetition.png" class="figure-img img-fluid rounded" alt="An image of competing logos from other local gaming stores.">
+  <figcaption class="figure-caption text-center">Local stores have a variety of different logos.</figcaption>
+</figure>
 
 With other stores in the local area, there were plenty of logos to consider and work against in the market. Above are a selection of the logos used in the local gaming market by stores.
 
@@ -32,7 +35,10 @@ With other stores in the local area, there were plenty of logos to consider and 
 
 ### The Final Logo
 
-<img src="/img/eliteGamingLogo.png" />
+<figure class="figure d-block text-center">
+  <img src="/img/eliteGamingLogo.png" class="figure-img img-fluid rounded" alt="The Elite Gaming EG Dice logo with accompanying letters in black.">
+  <figcaption class="figure-caption text-center">The Elite Gaming logo stands out from the crowd.</figcaption>
+</figure>
 
 The final logo combines the EG dice device alongside the words “Elite Gaming” set in the Whitney font. The dice provide a visual metaphor and relation to the board gaming hobby, with dice perhaps being the most recognised and famous part of tabletop gaming, whilst allowing for the EG initials to be shown on their faces.
 
@@ -42,9 +48,15 @@ The monochrome nature of the logo means that it works well in a variety of envir
 
 Here are some pictures of the logo in use.
 
-<img src="/img/eliteGamingInStore.jpeg" />
+<figure class="figure d-block text-center">
+  <img src="/img/eliteGamingInStore.jpeg" class="figure-img img-fluid rounded" alt="The new logo took pride of place on the shelves in the store.">
+  <figcaption class="figure-caption text-center">The Elite Gaming logo stands proud in the store.</figcaption>
+</figure>
 
-<img src="/img/eliteGamingShelves.jpeg" />
+<figure class="figure d-block text-center">
+  <img src="/img/eliteGamingShelves.jpeg" class="figure-img img-fluid rounded" alt="The new logo took pride of place on the shelves in the store.">
+  <figcaption class="figure-caption text-center">The new logo design on the old shelves.</figcaption>
+</figure>
 
 Whilst it is currently set against the gaudy interior of the previous store and its colour scheme, the new logo gives the shop the refined feel that the new owner is looking for, whilst being designed purposefully for use in the store, on posters, and on receipts.
 

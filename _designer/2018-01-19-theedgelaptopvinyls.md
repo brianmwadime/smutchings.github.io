@@ -27,19 +27,31 @@ After discussions with the head of school, we decided to wrap the back of each M
 
 I started by finding and downloading a decal template for the 13" MacBook Air. This would save me a lot of time measuring, shaping and testing before printing the decal. As the template was a PDF, I could simply import it into Illustrator, trace the lines, and have a template to use for all four laptop vinyls.
 
-<img src="/img/wrapIllustrator.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapIllustrator.jpg" class="figure-img img-fluid rounded" alt="Image showing the green laptop skin set up in Adobe Illustrator.">
+  <figcaption class="figure-caption text-center">Illustrator is used to add the cut lines, using a custom swatch pack.</figcaption>
+</figure>
 
 Once the lines were traced in, I chose four distinct and non-distracting colours for the laptop lids. Green, yellow, blue and lilac were chosen, from the Roland Colour Chart we have in the classroom. I then coloured the Apple logo black, so as to cover up the laser-cut logo and the light it emits.
 
-<img src="/img/wrapRoland.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapRoland.jpg" class="figure-img img-fluid rounded" alt="Image showing the green and blue laptop skins set up in Roland VersaWorks Dual.">
+  <figcaption class="figure-caption text-center">VersaWorks Dual converts the EPS file we created in Illustrator into data for the printer.</figcaption>
+</figure>
 
 Once the four files were created and a cut line was added, I loaded the resulting .ESP files into Roland VersaWorks Dual, ready to be printed. I checked the sizing, cut marks, and alignment of the wraps on the vinyl material before sending them to print.
 
-<img src="/img/wrapMacBookAir.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapMacBookAir.jpg" class="figure-img img-fluid rounded" alt="Picture of a 13" MacBook Air, before it has been skinned.">
+  <figcaption class="figure-caption text-center">MacBook, you shall be naked no longer!</figcaption>
+</figure>
 
 Once printed and allowed to dry, each wrap was applied to its respective laptop. Each MacBook Air was given a quick clean with methylated spirits, before applying the wrap using application tape and a squeegee. Any air bubbles were popped using a weeder, and the air pushed out using the squeegee.
 
-<img src="/img/wrapPrinted.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapPrinted.jpg" class="figure-img img-fluid rounded" alt="Picture of the four skins - blue, green, yellow and purple - fresh out of the printer.">
+  <figcaption class="figure-caption text-center">The skins are printed and ready to go.</figcaption>
+</figure>
 
 ---
 
@@ -51,8 +63,14 @@ Some students have already enquired about having their own, custom wraps made fo
 
 ---
 
-<img src="/img/wrapResult.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapResult.jpg" class="figure-img img-fluid rounded" alt="Picture of the four skins applied to their MacBooks and displayed on a table.">
+  <figcaption class="figure-caption text-center">My first attempt at product photography.</figcaption>
+</figure>
 
 ---
 
-<img src="/img/wrapResult2.jpg" />
+<figure class="figure d-block text-center">
+  <img src="/img/wrapResult2.jpg" class="figure-img img-fluid rounded" alt="Picture of the four skins applied to their MacBooks and displayed vertically.">
+  <figcaption class="figure-caption text-center">Next time, I think I should skin 7 laptops so I can have a full rainbow.</figcaption>
+</figure>
