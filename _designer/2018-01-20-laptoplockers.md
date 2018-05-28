@@ -54,14 +54,14 @@ We looked at the use of information design in the real world, as well as the cul
 
 We looked at the cultural aspect of stickers and their placement on laptops and in the world, so that we could create informational sticker products that look like they belong in the space they're designed for, instead of appearing as sticker graffiti.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/MacBookStickers.jpg" class="figure-img img-fluid rounded" alt="A MacBook Air covered in various stickers.">
   <figcaption class="figure-caption text-center">How do you make a laptop sticker stand out against other laptops trying to stand out?</figcaption>
 </figure>
 
 We also looked into the use of colour in informational signage - such as the use of yellow for caution and blue for information - as well as the use of mixed-case typography and chunking to ensure legibility and understanding.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/observation.jpg" class="figure-img img-fluid rounded" alt="Adrian, a student, using the laptop lockers.">
   <figcaption class="figure-caption text-center">Observation played an important role in understanding how students use the laptop lockers.</figcaption>
 </figure>
@@ -72,14 +72,14 @@ Observations found that a large proportion of students had issues when returning
 
 Then it was time to develop the design of the informational sticks for the laptops and lockers. In this instance, I started by sketching out designs for the laptop locker stickers, before creating digital and physical prototypes to test legibility and clarity of information in the space.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/paperPrototype.jpg" class="figure-img img-fluid rounded" alt="A paper prototype of the final locker sticker design.">
   <figcaption class="figure-caption text-center">A paper prototype of the final locker design.</figcaption>
 </figure>
 
 During prototyping, it became clear that the client's original brief - that we have one big sticker on the panel nearest the locker interface - would cause issues, as the information would be too far away from the point of interaction. Prototypes that placed the information right next to the point of interaction were more intuitive and easier to follow.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/developmentSketch.jpg" class="figure-img img-fluid rounded" alt="Development sketches of the laptop stickers.">
   <figcaption class="figure-caption text-center">Development sketches of the laptop stickers from arrow to chevrons.</figcaption>
 </figure>
@@ -92,7 +92,7 @@ Iterating through designs and sketching, I decided upon a modular, chevron-inspi
 
 Once the stickers were designed and printed, using Roland VersaWorks Dual and a BN-20 vinyl printer and cutter, it was time to install them. Alex and I started in Folkestone, as this was our home base at the time, to make it easier for us to adapt our process and gather any tools we would need as the day progressed. Once we were comfortable with how things were at Folkestone, we were able to put together an installation toolkit that we could take to the other campuses.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/toolkit.jpg" class="figure-img img-fluid rounded" alt="Myself and Alex using our simple toolkit to prepare and fit laptop stickers.">
   <figcaption class="figure-caption text-center">Whilst crude, our selection of tools was perfectly suited for the job.</figcaption>
 </figure>
@@ -109,14 +109,14 @@ East Kent College Technology Services are now looking to roll out the smart lapt
 
 After installing the locker signage at Folkestone, we kept an eye on how people interacted with them and any potential problems that may arise in the real world. A couple of months after installation, it became clear that students were physically tapping and dragging their ID badges across the reader, leading to damage to the sticker.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/damagedSticker.jpg" class="figure-img img-fluid rounded" alt="Damaged Step 1 sticker from students tapping and dragging their ID badges across the sticker.">
   <figcaption class="figure-caption text-center">Damaged Step 1 sticker from students tapping and dragging their ID badges across the sticker.</figcaption>
 </figure>
 
 As soon as this problem became evident, I worked to develop and produce a solution to the problem. I reprinted the sticker at a slightly reduced size (90%) and ordered a resilient laminate material to go over the top. I then laminated the two parts together and fitted them on the laptop lockers in Folkestone.
 
-<figure class="figure">
+<figure class="figure d-block text-center">
   <img src="/img/laptoplockers/laminateSide.jpg" class="figure-img img-fluid rounded" alt="A side view of the new, laminated solution installed and good to go in Folkestone.">
   <figcaption class="figure-caption text-center">The UV and moisture resistant laminate also gives extra physical protection, increasing the longevity of the stickers.</figcaption>
 </figure>
