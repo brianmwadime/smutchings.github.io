@@ -4,6 +4,7 @@ title: Walk to the Moon
 description: Nerd up your fitness with this walking tracking app and community idea.
 meta-description: Nerd up your fitness with this walking tracking app and community idea.
 permalink: /designer/walk-to-the-moon
+button-text: Scope it out
 img: /img/walktothemoonHero.jpg
 ---
 
