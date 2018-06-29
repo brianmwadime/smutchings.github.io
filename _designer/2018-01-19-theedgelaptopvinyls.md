@@ -42,7 +42,7 @@ Once the lines were traced in, I chose four distinct and non-distracting colours
 Once the four files were created and a cut line was added, I loaded the resulting .ESP files into Roland VersaWorks Dual, ready to be printed. I checked the sizing, cut marks, and alignment of the wraps on the vinyl material before sending them to print.
 
 <figure class="figure d-block text-center">
-  <img src="/img/the-edge-laptop-vinyls/img/wrapMacBookAir.jpg" class="figure-img img-fluid rounded" alt="Picture of a 13" MacBook Air, before it has been skinned.">
+  <img src="/img/the-edge-laptop-vinyls/wrapMacBookAir.jpg" class="figure-img img-fluid rounded" alt="Picture of a 13" MacBook Air, before it has been skinned.">
   <figcaption class="figure-caption text-center">MacBook, you shall be naked no longer!</figcaption>
 </figure>
 
