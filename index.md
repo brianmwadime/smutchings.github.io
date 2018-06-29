@@ -9,7 +9,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <div class="col">
       <div class="card homeCard">
         <div class="card-body">
-          <h1 class="card-title">Budding <a href="http://www.samhutchings.co/designer">Product Designer</a>. Currently studying at <a href="https://eastkent.ac.uk/course/art-and-creative-design-level-3">East Kent College</a>. Passionate about creating a better world for everyone, through making great products. <a href="mailto:hi@samhutchings.co?subject=I'd love to work with you">Seeking work opportunities</a>.</h1>
+          <h1 class="card-title"><a href="http://www.samhutchings.co/designer">Designer</a>. Recently studied at <a href="https://eastkent.ac.uk/course/art-and-creative-design-level-3">East Kent College</a>. Passionate about creating a better world for everyone, through making great products. <a href="mailto:hi@samhutchings.co?subject=Let's chat!">Always up for a chat</a>.</h1>
         </div>
       </div>
     </div>
