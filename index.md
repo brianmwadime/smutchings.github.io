@@ -5,7 +5,6 @@ meta-description: Experience & Product Designer. Passionate about creating a bet
 img: /img/index.png
 video: /img/index.mp4
 ---
-
 <div class="container-fluid remove-all-margin remove-all-padding">
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col">
