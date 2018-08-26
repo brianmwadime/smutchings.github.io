@@ -33,7 +33,7 @@ video: /img/index.mp4
             <h4 class="card-subtitle mb-2 text-muted">Tweeting.</h4>
             <h4 class="card-subtitle mb-2 text-muted">Boardgames.</h4>
           </div>
-          <div style="background: #E9E9E9; padding: 20px 0px; margin-left: auto;">
+          <div style="background: #E9E9E9; padding: 20px 0px; margin-left: 20px;">
           <h3>Get in touch.</h3>
           <p></p>
         </div>
