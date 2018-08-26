@@ -3,7 +3,7 @@ layout: default
 title: Sam Hutchings - Budding Product Designer
 meta-description: Passionate about creating a better world for everyone, through making great products. Open to opportunities.
 img: /img/index.png
-video: /img/index.m4v
+video: /img/index.mp4
 ---
 
 <div class="container-fluid remove-all-margin remove-all-padding">
