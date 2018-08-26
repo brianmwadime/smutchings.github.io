@@ -6,10 +6,6 @@ img: /img/index.png
 video: /img/index.mp4
 ---
 
-
-          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
-            <source src="{{ page.video }}" type="video/mp4">
-          </video>
               <h1>Sam Hutchings</h1>
               <h2 class="card-subtitle mb-2 text-muted">Experience & Product Designer</h2>
               <div style="padding: 10px 0px;">
