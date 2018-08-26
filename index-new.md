@@ -9,7 +9,7 @@ video: /img/index.mp4
 <div class="container-fluid remove-all-margin remove-all-padding">
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col">
-          <video class="card-img-top" style="width: 100%;" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
+          <video class="card-img-top" style="height: 100vh;" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
             <source src="{{ page.video }}" type="video/mp4">
           </video>
           <div class="card homeCard">
