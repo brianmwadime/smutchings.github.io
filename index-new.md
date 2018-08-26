@@ -9,11 +9,11 @@ video: /img/index.mp4
 <div class="container-fluid remove-all-margin remove-all-padding">
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col">
+      <div class="card homeCard">
+        <div class="card-body">
           <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
             <source src="{{ page.video }}" type="video/mp4">
           </video>
-          <div class="card homeCard">
-            <div class="card-body">
               <h1>Sam Hutchings</h1>
               <h2 class="card-subtitle mb-2 text-muted">Experience & Product Designer</h2>
               <div style="padding: 10px 0px;">
