@@ -21,7 +21,7 @@ video: /img/index.mp4
             <p>Whatever I'm designing, I'm designing an experience. Something that will solve a problem and bring joy to those who use it, online and off. In the real world, or the digital one.</p>
             <p>I bring a business-oriented and human-centred approach to my design work. Combining understanding of business, communication, people and design to create a top-notch experience.</p>
           </div>
-          <div style="background: #FFFFFF; padding: 40px 0px;">
+          <div>
           <h3>Previous work.</h3>
             <h4 class="card-subtitle mb-2 text-muted">Laptop lockers.</h4>
             <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
