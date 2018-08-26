@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sam Hutchings - Budding Product Designer
-meta-description: Passionate about creating a better world for everyone, through making great products. Open to opportunities.
+title: Sam Hutchings - Experience and Product Designer
+meta-description: Experience and Product Designer. Passionate about creating a better world for everyone, through making great products.
 img: /img/index.png
 video: /img/index.mp4
 ---
@@ -11,7 +11,7 @@ video: /img/index.mp4
     <div class="col">
       <div class="card homeCard">
         <div class="card-body">
-          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop controls muted>
+          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
             <source src="{{ page.video }}" type="video/mp4">
           </video>
           <h1>Sam Hutchings</h1>
