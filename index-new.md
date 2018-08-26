@@ -11,7 +11,7 @@ video: /img/index.mp4
     <div class="col">
       <div class="card homeCard">
         <div class="card-body">
-          <video class="card-img-top" style="width: 100vw" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop controls muted>
+          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop controls muted>
             <source src="{{ page.video }}" type="video/mp4">
           </video>
           <h1>Sam Hutchings</h1>
