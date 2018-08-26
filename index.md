@@ -39,7 +39,7 @@ video: /img/index.mp4
                 <div style="padding: 40px 0px;">
                   <h4 class="card-subtitle mb-2 text-muted">O2 service design.</h4>
                   <p>Part of the in-store team at O2, I worked tirelessly to ensure that each and every customer got the best experience possible. From training staff, to refining processes, to designing custom POS to alert customers to in-store offers and services.</p>
-                  <a href="http://samhutchings.co/designer/" class="btn btn-primary">Read more about my experience.</a>
+                  <a href="http://samhutchings.co/designer" class="btn btn-primary">Read more about my experience.</a>
                 </div>
                 <hr>
               </div>
