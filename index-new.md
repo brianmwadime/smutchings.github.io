@@ -30,6 +30,7 @@ video: /img/index.mp4
               <a href="http://samhutchings.co/designer/laptoplockers" class="btn btn-primary">Read more.</a>
             </div>
               <div style="padding: 10px 0px;">
+              <img src="/img/z-house-index.png">
               <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
               <p>The design of the Z-House is somewhat of a selfish endeavour. As a “Millennial”, I’ve long lived in a world where the typical cost of a house is way beyond the affordable limit for me. And as I’ve seen the housing market continue to get pricier and pricier, and my friends around me continue to be as unable to afford a house as I am, I was driven to try and design a solution that would give comfortable and affordable modern housing to a new generation of home owner.</p>
               <a href="http://samhutchings.co/designer/z-house" class="btn btn-primary">Read more.</a>
