@@ -31,7 +31,7 @@ video: /img/index.mp4
             </div>
               <div style="padding: 10px 0px;">
               <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
-              <img src="/img/z-house-index.png" class="rounded float-left" alt="A 5x5 grid of the 25 possible Z-House finishes.">
+              <img src="/img/z-house-index.png" class="rounded float-left" style="height: 100%; width: 100%;" alt="A 5x5 grid of the 25 possible Z-House finishes.">
               <p></p>
               <a href="http://samhutchings.co/designer/z-house" class="btn btn-primary btn-lg">Read more.</a>
             </div>
