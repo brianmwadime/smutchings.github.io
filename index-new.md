@@ -27,13 +27,13 @@ video: /img/index.mp4
             <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
             <h4 class="card-subtitle mb-2 text-muted">O2 service design.</h4>
           </div>
-          <div>
+          <div style="background: #FFFFFF; padding: 40px 0px; width: 100vw;">
           <h3>Other interests.</h3>
             <h4 class="card-subtitle mb-2 text-muted">Writing.</h4>
             <h4 class="card-subtitle mb-2 text-muted">Tweeting.</h4>
             <h4 class="card-subtitle mb-2 text-muted">Boardgames.</h4>
           </div>
-          <div style="background: #FFFFFF; padding: 40px 0px;">
+          <div>
           <h3>Get in touch.</h3>
           <p></p>
         </div>
