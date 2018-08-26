@@ -21,7 +21,7 @@ meta-description: Passionate about creating a better world for everyone, through
           <h3>Other interests.</h3>
             <h4>Writing.</h4>
             <h4>Tweeting.</h4>
-            <Boardgames.</h4>
+            <h4>Boardgames.</h4>
           <h3>Get in touch.</h3>
         </div>
       </div>
