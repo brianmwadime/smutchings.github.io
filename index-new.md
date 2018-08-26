@@ -42,8 +42,11 @@ video: /img/index.mp4
           <div style="padding: 10px 0px;">
           <h3>Other interests.</h3>
             <h4 class="card-subtitle mb-2 text-muted">Writing.</h4>
+            In a former life, I was a copywriter. Becuase of this, writing still plays an integral role in my creative process. You can read my thoughts on design and other subjects over at <a href="https://www.medium.com/@Smutchings">Medium</a>.
             <h4 class="card-subtitle mb-2 text-muted">Tweeting.</h4>
+            I tweet. Not as much as I used to, but still quite a bit. It's a semi-curated stream of my in-the-moment thoughts and ideas. You can <a href="https://www.twitter.com/Smutchings">follow @Smutchings on Twitter to read more.</a>
             <h4 class="card-subtitle mb-2 text-muted">Boardgames.</h4>
+            Me and my friends regularly meet up and play boardgames. Modern boardgames. Like Pandemic, Gloomhaven, and Exploding Kittens. I'm happy to bring boardgames with me to socialise with the team.
           </div>
           <div style="padding: 20px 0px;">
           <h3>Get in touch.</h3>
