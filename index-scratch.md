@@ -6,6 +6,7 @@ img: /img/index.png
 video: /img/index.mp4
 ---
 
+<div class="container-fluid remove-all-margin remove-all-padding">
               <h1>Sam Hutchings</h1>
               <h2 class="card-subtitle mb-2 text-muted">Experience & Product Designer</h2>
               <div style="padding: 10px 0px;">
@@ -51,3 +52,4 @@ video: /img/index.mp4
               <p>Call <a href="tel:+447709172611">07709172611</a>.</p>
               <p>Follow <a href="https://www.twitter.com/Smutchings">@Smutchings</a>.</p>
               </div>
+</div>
