@@ -9,8 +9,8 @@ video: /img/index.mp4
 <div class="container-fluid remove-all-margin remove-all-padding">
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col">
-      <div class="card homeCard">
-        <div class="card-body">
+      <!-- <div class="card homeCard">
+        <div class="card-body"> -->
           <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
             <source src="{{ page.video }}" type="video/mp4">
           </video>
@@ -50,7 +50,7 @@ video: /img/index.mp4
             <h4 class="card-subtitle mb-2 text-muted">Boardgames.</h4>
             <p>Me and my friends regularly meet up and play boardgames. Modern boardgames. Like Pandemic, Gloomhaven, and Exploding Kittens. I'm happy to bring boardgames with me to socialise with the team.</p>
           </div>
-          <div style="padding: 20px 0px;">
+          <div style="padding: 10px 0px;">
           <h3>Get in touch.</h3>
           <p><a href="mailto:hi@samhutchings.co">hi@samhutchings.co</a></p>
           <p><a href="tel:+447709172611">07709172611</a></p>
@@ -59,5 +59,5 @@ video: /img/index.mp4
         </div>
       </div>
     </div>
-  </div>
-</div>
+  <!-- </div>
+</div> -->
