@@ -47,7 +47,9 @@ video: /img/index.mp4
           </div>
           <div style="padding: 20px 0px;">
           <h3>Get in touch.</h3>
-          <p></p>
+          <p><a href="mailto:hi@samhutchings.co">hi@samhutchings.co</a></p>
+          <p><a href="tel:+447709172611">07709172611</a></p>
+          <p><a href="https://www.twitter.com/Smutchings">@Smutchings</a></p>
         </div>
         </div>
       </div>
