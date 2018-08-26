@@ -24,8 +24,13 @@ video: /img/index.mp4
           <div style="padding: 20px 0px;">
           <h3>Previous work.</h3>
             <h4 class="card-subtitle mb-2 text-muted">Laptop lockers.</h4>
+            <p></p>
+            <a href="http://samhutchings.co/designer/laptoplockers" class="btn btn-block btn-primary btn-lg">Read more.</a>
             <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
+            <p></p>
+            <a href="http://samhutchings.co/designer/z-house" class="btn btn-block btn-primary btn-lg">Read more.</a>
             <h4 class="card-subtitle mb-2 text-muted">O2 service design.</h4>
+            <p></p>
           </div>
           <div style="padding: 20px 0px;">
           <h3>Other interests.</h3>
