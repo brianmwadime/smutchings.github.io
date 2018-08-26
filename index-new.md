@@ -11,6 +11,11 @@ meta-description: Passionate about creating a better world for everyone, through
         <div class="card-body">
           <h1>Sam Hutchings</h1>
           <h2>Experience and Product Designer</h2>
+          <h3>Designing experiences.</h3>
+          <h3>Designing products.</h3>
+          <h3>Previous work.</h3>
+          <h3>Other interests.</h3>
+          <h3>Get in touch.</h3>
         </div>
       </div>
     </div>
