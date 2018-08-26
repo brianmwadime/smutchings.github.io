@@ -23,19 +23,19 @@ video: /img/index.mp4
               </div>
               <div style="padding: 10px 0px;">
               <h3>Previous work.</h3>
-                <div style="padding: 20px 0px;">
+                <div style="padding: 40px 0px;">
                   <h4 class="card-subtitle mb-2 text-muted">Informational signage for laptop lockers.</h4>
                   <p>Working for East Kent College Technology Services alongside a fellow student, I worked to solve the real-world problem of students understanding and interacting with East Kent College’s new smart laptop locker system.</p>
                   <p>We looked at the use of information design in the real world, as well as the cultural and material properties of stickers and their placement. This research helped us understand how words, shapes and colours are used to convey information, including on road signage, warning labels, and ticket vending machines</p>
                   <a href="http://samhutchings.co/designer/laptoplockers" class="btn btn-primary float-right">Read more about information signage.</a>
                 </div>
-                  <div style="padding: 20px 0px;">
+                  <div style="padding: 40px 0px;">
                   <img src="/img/z-house-index.png">
                   <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
                   <p>The design of the Z-House is somewhat of a selfish endeavour. As a “Millennial”, I’ve long lived in a world where the typical cost of a house is way beyond the affordable limit for me. And as I’ve seen the housing market continue to get pricier and pricier, and my friends around me continue to be as unable to afford a house as I am, I was driven to try and design a solution that would give comfortable and affordable modern housing to a new generation of home owner.</p>
                   <a href="http://samhutchings.co/designer/z-house" class="btn btn-primary float-right">Read more about the Z-House.</a>
                 </div>
-                <div style="padding: 20px 0px;">
+                <div style="padding: 40px 0px;">
                   <h4 class="card-subtitle mb-2 text-muted">O2 service design.</h4>
                   <p>Part of the in-store team at O2, I worked tirelessly to ensure that each and every customer got the best experience possible. From training staff, to refining processes, to designing custom POS to alert customers to in-store offers and services.</p>
                 </div>
