@@ -23,7 +23,7 @@ video: /img/index.mp4
               </div>
               <div style="padding: 10px 0px;">
               <h3>Previous work.</h3>
-                <div style="padding: 40px 0px;">
+                <div style="padding: 10px 0px 40px 0px;">
                   <h4 class="card-subtitle mb-2 text-muted">Informational signage for laptop lockers.</h4>
                   <p>Working for East Kent College Technology Services alongside a fellow student, I worked to solve the real-world problem of students understanding and interacting with East Kent College’s new smart laptop locker system.</p>
                   <p>We looked at the use of information design in the real world, as well as the cultural and material properties of stickers and their placement. This research helped us understand how words, shapes and colours are used to convey information, including on road signage, warning labels, and ticket vending machines</p>
