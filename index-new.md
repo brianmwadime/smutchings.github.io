@@ -32,7 +32,7 @@ video: /img/index.mp4
             </div>
               <div style="padding: 10px 0px;">
               <h4 class="card-subtitle mb-2 text-muted">Z-House.</h4>
-              <img src="/img/z-house-index.png" class="rounded float-left" style="height: 346px; width: 368px;" alt="A 5x5 grid of the 25 possible Z-House finishes.">
+              <img src="/img/z-house-index.png" class="rounded float-left" style="max-height: 346px; max-width: 368px;" alt="A 5x5 grid of the 25 possible Z-House finishes.">
               <p>The design of the Z-House is somewhat of a selfish endeavour. As a “Millennial”, I’ve long lived in a world where the typical cost of a house is way beyond the affordable limit for me. And as I’ve seen the housing market continue to get pricier and pricier, and my friends around me continue to be as unable to afford a house as I am, I was driven to try and design a solution that would give comfortable and affordable modern housing to a new generation of home owner.</p>
               <a href="http://samhutchings.co/designer/z-house" class="btn btn-primary btn-lg">Read more.</a>
             </div>
