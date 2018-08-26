@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sam Hutchings - Experience and Product Designer
-meta-description: Experience and Product Designer. Passionate about creating a better world for everyone, through making great products.
+title: Sam Hutchings - Experience & Product Designer
+meta-description: Experience & Product Designer. Passionate about creating a better world for everyone, through making great products.
 img: /img/index.png
 video: /img/index.mp4
 ---
@@ -15,7 +15,7 @@ video: /img/index.mp4
             <source src="{{ page.video }}" type="video/mp4">
           </video>
           <h1>Sam Hutchings</h1>
-          <h2 class="card-subtitle mb-2 text-muted">Experience and Product Designer</h2>
+          <h2 class="card-subtitle mb-2 text-muted">Experience & Product Designer</h2>
           <div style="padding: 20px 0px;">
           <h3>Designing experiences.</h3>
             <p>Whatever I'm designing, I'm designing an experience. Something that will solve a problem and bring joy to those who use it, online and off. In the real world, or the digital one.</p>
