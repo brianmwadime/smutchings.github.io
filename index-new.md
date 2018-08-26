@@ -50,7 +50,7 @@ video: /img/index.mp4
                 <h4 class="card-subtitle mb-2 text-muted">Tweeting.</h4>
                 <p>I tweet. Not as much as I used to, but still quite a bit. It's a semi-curated stream of my in-the-moment thoughts and ideas. You can <a href="https://www.twitter.com/Smutchings">follow @Smutchings on Twitter to read more.</a></p>
                 <h4 class="card-subtitle mb-2 text-muted">Boardgames.</h4>
-                <p>Me and my friends regularly meet up and play boardgames. Modern boardgames. Like Pandemic, Gloomhaven, and Exploding Kittens. I'm happy to bring boardgames with me to socialise with the team.</p>
+                <p>Me and my friends regularly meet up and play boardgames. Modern boardgames. Like Pandemic, Gloomhaven, and Exploding Kittens. They're a great way to let off steam and catch up with what's been going on.</p>
               </div>
               <div style="padding: 10px 0px;">
               <h3>Get in touch.</h3>
