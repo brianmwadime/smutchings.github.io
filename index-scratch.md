@@ -10,9 +10,12 @@ video: /img/index.mp4
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col">
       <div class="card homeCard">
+        <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop muted>
+          <source src="{{ page.video }}" type="video/mp4">
+        </video>
               <h1>Sam Hutchings</h1>
               <h2 class="card-subtitle mb-2 text-muted">Experience & Product Designer</h2>
-              <div style="padding: 10px 0px;">
+              <div style="padding: 10px 0px; background: black;">
               <h3>Designing experiences.</h3>
                 <p>Whatever I'm designing, I'm designing an experience. Something that will solve a problem and bring joy to those who use it, online and off. In the real world, or the digital one.</p>
                 <p>I bring a business-oriented and human-centred approach to my design work. Combining understanding of business, communication, people and design to create a top-notch experience.</p>
