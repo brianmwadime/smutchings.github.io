@@ -9,7 +9,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <div class="col">
       <div class="card homeCard">
         <div class="card-body">
-          <h1 class="card-title">Designer. Artist. Passionate about creating a better world for everyone, through creating great experiences. <a href="mailto:hi@samhutchings.co?subject=Let's chat!">Available for work in 2019.</a>.</h1>
+          <h1 class="card-title">Designer. Artist. Passionate about creating a better world for everyone, through creating great experiences. <a href="mailto:hi@samhutchings.co?subject=Let's chat!">Available for work in 2019.</a></h1>
         </div>
       </div>
     </div>
