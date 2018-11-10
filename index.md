@@ -34,11 +34,6 @@ video: /img/index.mp4
                   <p>We looked at the use of information design in the real world, as well as the cultural and material properties of stickers and their placement. This research helped us understand how words, shapes and colours are used to convey information, including on road signage, warning labels, and ticket vending machines</p>
                   <a href="http://samhutchings.co/designer/laptoplockers" class="btn btn-primary">Read more about information signage.</a>
                 </div>
-              <div style="padding: 10px 0px;">
-              <h3>Get in touch.</h3>
-              <p>Email <a href="mailto:hi@samhutchings.co">hi@samhutchings.co</a>.</p>
-              <p>Follow <a href="https://www.twitter.com/Smutchings">@Smutchings</a>.</p>
-              </div>
         </div>
       </div>
     </div>
