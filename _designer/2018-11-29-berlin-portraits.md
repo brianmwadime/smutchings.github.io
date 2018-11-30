@@ -6,7 +6,7 @@ description: Over the years, a selection of cities have inspired me. The City Po
 meta-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Berlin.
 permalink: /designer/berlin
 button-text: Explore Berlin
-img: /-img/chapter-one-berlin.png
+img: /img/chapter-one-berlin.png
 ---
 
 Love, they say, happens at first sight. As soon as your eyes lock on to the view, they understand what your heart wants. And, no matter what you do, you never forget that moment.
@@ -33,12 +33,12 @@ Chapter One: Berlin is made up of three works. Each represents an aspect of Berl
 #### Fernsehturm
 Built by the Soviets during the Cold War, the Fernsehturm (translation: TV Tower) stands tall above the Berlin Skyline. Its silver globe and red and white pylon standing proud against the sky. Still active as a broadcast tower, the Fernsehturm is also home to a souvenir shop and revolving restaurant, where you can enjoy a drink or a bite to eat as the city goes past.
 
-![Fernsehturm](/img/berlin-portraits/Fernsehturm.png)
+![Fernsehturm](/img/berlin-portraits/fernsehturm.png)
 
 #### Reichstag
 The Reichstag was badly damaged in fighting during the Second World War, and was left in disrepair until the 1990s, when the task of modernising the building was given to Foster + Partners. Whilst the company updated a lot of the features of the building, such as the dome over the plenary chamber and the connecting tunnels between the Reichstag and other government buildings, they also paid respect to the history of the building. Throughout its insides, you can see the bullet holes where shots were traded by Russian and German troops.
 
-![Reichstag](/img/berlin-portraits/Reichstag.png)
+![Reichstag](/img/berlin-portraits/reichstag.png)
 
 #### U-Bahn
 The U-Bahn and S-Bahn connect the people of Berlin to their city. They act like arteries, carrying passengers throughout the urban sprawl of the city. The modern yellow trains have an amazing design and colouration that makes them stand out against the darkness they travel through. With my love of Berlin and trains, I couldn't leave the U-Bahn out of this chapter.
