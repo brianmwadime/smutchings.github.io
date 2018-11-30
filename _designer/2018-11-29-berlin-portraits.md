@@ -6,7 +6,7 @@ description: Over the years, a selection of cities have inspired me. The City Po
 meta-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Berlin.
 permalink: /designer/berlin
 button-text: Explore Berlin
-img: img/chapter-one-berlin.png
+img: /img/chapter-one-berlin.png
 ---
 
 Love, they say, happens at first sight. As soon as your eyes lock on to the view, they understand what your heart wants. And, no matter what you do, you never forget that moment.
