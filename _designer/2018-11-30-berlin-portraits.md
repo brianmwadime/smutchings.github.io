@@ -19,7 +19,6 @@ City Portraits is a collection of paintings and prints celebrating the cities th
 
 ### Chapter One: Berlin
 
-#### The Story
 I was sixteen when I first stepped off the coach in Berlin. We'd been studying the dreadful history of the city between 1936 and 1989, and were spending 4 days exploring the historical sites from that time. Checkpoint Charlie, the Jewish Museum, and Sachsenhausen Concentration Camp were all on the itinerary. History so close to still be in the living memory of many of the people we walked past on the streets.
 
 Whilst my fellow students gawped at the souvenirs and wondered if they'd be able to sneak in a beer, I fell in love. This city, which I had spend a few years reading the history of, was exactly as I had imagined. The scars of its history still on view, but filled with brand new buildings and a people who were unwilling to let that history happen again. In Berlin, I saw optimism. And I gave it my utmost attention and respect.
@@ -28,10 +27,10 @@ Two years later, I would visit Berlin again. This time, it was a cultural trip. 
 
 When I moved back to the UK from Barcelona, my plan was not to stay long before travelling to Berlin. To see the city I love, and the people I love who live there. Unfortunately, that plan has been delayed. But, I intend to visit my first love again some day!
 
-#### The Portraits
+### The Portraits
 Chapter One: Berlin is made up of three works. Each represents an aspect of Berlin that stands out to me. Each a fond or prominent memory from my past, and the past of the city.
 
-##### Fernsehturm
+#### Fernsehturm
 Built by the Soviets during the Cold War, the Fernsehturm (translation: TV Tower) stands tall above the Berlin Skyline. Its silver globe and red and white pylon standing proud against the sky. Still active as a broadcast tower, the Fernsehturm is also home to a souvenir shop and revolving restaurant, where you can enjoy a drink or a bite to eat as the city goes past.
 
 #### Reichstag
