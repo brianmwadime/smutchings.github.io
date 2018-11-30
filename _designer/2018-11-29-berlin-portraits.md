@@ -3,7 +3,7 @@ layout: post
 title: City Portraits Chapter One
 description: Berlin
 meta-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Berlin.
-permalink: /designer/chapter-one-berlin
+permalink: /designer/berlin
 button-text: Explore Berlin
 img: img/chapter-one-berlin.png
 ---
