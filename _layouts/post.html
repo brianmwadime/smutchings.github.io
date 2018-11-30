@@ -1,27 +1,20 @@
 ---
 layout: default
 ---
-<div class="container">
-<div class="row full-height">
-  <div class="col-lg-7 col-left-scroll">
+
+
+<div class="container-fluid">
+  <div class="row d-flex align-items-center justify-content-center flex-column">
+    <div class="col topMargin">
       <div class="card">
-        <img class="card-img-top" src="{{ page.img }}" alt="{{ page.title }}">
-        <div class="card-body">
-          <h3 class="card-title">{{ page.title }}</h5>
-          <p class="card-text">{{ content }}</p>
-        </div>
+          <img class="card-img-top" src="{{ page.img }}" alt="{{ page.title }}">
+          <div class="card-body">
+            <h1 class="card-title">{{ page.title }}</h1>
+            <h2 class="card-subtitle mb-2 text-muted">{{ page.subtitle }}</h2>
+            {{ content }}
+            <a href="mailto:hi@samhutchings.co?subject=I saw your work on {{ page.title }}" class="btn btn-block btn-primary btn-lg">Email Sam</a>
+          </div>
       </div>
-  </div>
-  <div class="col-lg-5 fixed-right-desktop">
-    <!-- HTML for Home Page navigation-->
-    <div class="navigation">
-      <ul>
-        <li><a href="/index.html" title="Go home">Home</a></li>
-        <li><a href="/designer" title="View my portfolio">Designer</a></li>
-        <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
-        <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
-      </ul>
     </div>
   </div>
-</div>
 </div>

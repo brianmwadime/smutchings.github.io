@@ -1,39 +1,28 @@
 ---
 layout: default
-title: Samuel Hutchings - Designer
+title: Sam Hutchings - Budding Product Designer
 permalink: /designer
-meta-description: Designer Portfolio.
+meta-description: Passionate about creating a better world for everyone, through making great products.
 ---
-
-  <div class="container">
-  <div class="row full-height">
-    <div class="col-lg-7 col-left-scroll">
-
-      {% for project in site.designer %}
+<div class="container-fluid">
+  <div class="row d-flex align-items-center justify-content-center flex-column">
+    <div class="col topMargin">
+      {% for project in site.designer reversed %}
         <div class="card">
-          <img class="card-img-top" src="{{ project.img }}" alt="{{ project.title }}">
+          <video class="card-img-top" poster="{{ project.img }}" autoplay loop muted>
+            <source src="{{ project.video }}" type="video/mp4">
+          </video>
           <div class="card-body">
-            <h5 class="card-title">{{ project.title }}</h5>
+            <h1 class="card-title">{{ project.title }}</h1>
+            <h2 class="card-subtitle mb-2 text-muted">{{ project.subtitle }}</h2>
             <p class="card-text">{{ project.description }}</p>
-            <a href="{{ project.url }}" class="btn btn-block btn-outline-primary">Read more</a>
+            <a href="{{ project.url }}" class="btn btn-block btn-primary btn-lg">{{ project.button-text }}</a>
           </div>
         </div>
 
       {% else %}
 
       {% endfor %}
-
-    </div>
-    <div class="col-lg-5 fixed-right-desktop">
-      <!-- HTML for Home Page navigation-->
-      <div class="navigation">
-        <ul>
-          <li><a href="/index.html" title="Go home">Home</a></li>
-          <li><a href="/designer" title="View my portfolio">Designer</a></li>
-          <li><a href="https://www.medium.com/@Smutchings" title="Read my writings on Medium">Writer</a></li>
-          <li><a href="https://www.twitter.com/Smutchings" title="View my Twitter">Tweeter</a></li>
-        </ul>
       </div>
     </div>
   </div>
-</div>
