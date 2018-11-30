@@ -1,9 +1,8 @@
 ---
 layout: post
-title: City Portraits Collection
-subtitle: Berlin
-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Chapter One: Berlin.
-meta-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Chapter One: Berlin.
+title: City Portraits Chapter One
+description: Berlin
+meta-description: Over the years, a selection of cities have inspired me. The City Portraits celebrates these cities. We start with Berlin.
 permalink: /designer/chapter-one-berlin
 button-text: Explore Berlin
 img: /img/chapter-one-berlin.png
