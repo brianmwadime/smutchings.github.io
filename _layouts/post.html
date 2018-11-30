@@ -7,8 +7,14 @@ layout: default
   <div class="row d-flex align-items-center justify-content-center flex-column">
     <div class="col topMargin">
       <div class="card">
+        {% if page.video %}{{ page.meta-description }}{{ site.description }}
+          <video class="card-img-top" alt="{{ page.title }}" poster="{{ page.img }}" autoplay loop controls muted>
+            <source src="{{ page.video }}" type="video/mp4">
+          </video>
+        {% else %}
           <img class="card-img-top" src="{{ page.img }}" alt="{{ page.title }}">
           <div class="card-body">
+        {% endif %}
             <h1 class="card-title">{{ page.title }}</h1>
             <h2 class="card-subtitle mb-2 text-muted">{{ page.subtitle }}</h2>
             {{ content }}
