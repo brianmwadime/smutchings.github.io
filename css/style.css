@@ -23,42 +23,42 @@ h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 3em;
   font-weight: 500;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 2.4em;
   font-weight: 300;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 h3 {
   font-family: 'Raleway', sans-serif;
   font-size: 2em;
   font-weight: 300;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 h4 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.6em;
   font-weight: 400;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.2em;
   font-weight: 500;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 h6 {
   font-family: 'Raleway', sans-serif;
   font-size: 1em;
   font-weight: 600;
-  color: #fef6af;
+  color: ##ee5847;
 }
 
 em {
@@ -227,7 +227,7 @@ nav li:last-child {
 }
 
 .card {
-  background-color: #eeeeee;
+  background-color: #ffffff;
   margin-bottom: 2em;
   margin-top: 2em;
   margin-left: auto;
