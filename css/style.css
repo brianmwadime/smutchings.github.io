@@ -116,7 +116,7 @@ nav {
   font-size: 2em;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: #EBE9E9;
+  background-color: #ee5847;
 }
 
 nav li a:link {
@@ -227,7 +227,7 @@ nav li:last-child {
 }
 
 .card {
-  background-color: #FDFFFC;
+  background-color: #ee5847;
   margin-bottom: 2em;
   margin-top: 2em;
   margin-left: auto;
