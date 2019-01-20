@@ -1,7 +1,7 @@
 /* Style HTML tags */
 
 body {
-  background-color: #EBE9E9;
+  background-color: #ee5847;
   color: #161925;
   font-family: 'Roboto', sans-serif;
   -webkit-overflow-scrolling: touch;
@@ -23,42 +23,42 @@ h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 3em;
   font-weight: 500;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 2.4em;
   font-weight: 300;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 h3 {
   font-family: 'Raleway', sans-serif;
   font-size: 2em;
   font-weight: 300;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 h4 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.6em;
   font-weight: 400;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.2em;
   font-weight: 500;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 h6 {
   font-family: 'Raleway', sans-serif;
   font-size: 1em;
   font-weight: 600;
-  color: #DB504A;
+  color: #fef6af;
 }
 
 em {
