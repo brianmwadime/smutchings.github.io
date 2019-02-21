@@ -79,7 +79,7 @@ a:hover {
 }
 
 #c-hello h1 {
-  background-image: URL(img/Scan_1.jpeg);
+  background-image: URL(../img/Scan_1.jpeg);
   background-clip: text;
   -webkit-background-clip: text;
   color: rgba(0,0,0,0);
@@ -94,32 +94,32 @@ a:hover {
 }
 
 #s-3dPrinting {
-  background-image: url(img/IMG_4673.jpeg);
+  background-image: url(../img/../img_4673.jpeg);
   background-size: cover;
 }
 
 #s-communication {
-  background-image: url(img/communication.tiff);
+  background-image: url(../img/communication.tiff);
   background-size: cover;
 }
 
 #s-architecture {
-  background-image: url(img/z-house.png);
+  background-image: url(../img/z-house.png);
   background-size: cover;
 }
 
 #s-augmentedReality {
-  background-image: url(img/AR.png);
+  background-image: url(../img/AR.png);
   background-size: cover;
 }
 
 #s-sustainability {
-  background-image: url(img/nature.jpg);
+  background-image: url(../img/nature.jpg);
   background-size: cover;
 }
 
 #s-art {
-  background-image: url(img/Scan_1.jpeg);
+  background-image: url(../img/Scan_1.jpeg);
   background-size: cover;
 }
 
