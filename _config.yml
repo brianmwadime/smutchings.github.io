@@ -1,10 +1,10 @@
 # Site settings
-title: Sam Hutchings - Experience and Product Designer
+title: Sam Hutchings - Designer and Artist.
 email: hi@samhutchings.co
 description: > # this means to ignore newlines until "baseurl:"
   Experience and Product Designer. Passionate about creating a better world for everyone, through making great products.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+url:  www.samhutchings.co # the base hostname & protocol for your site
 twitter_username: smutchings
 github_username:  smutchings
 permalink: /:title/
@@ -21,13 +21,6 @@ highlighter: rouge
 # Pagination
 paginate: 7
 paginate_path: "/blog/page:num/"
-
-
-collections:
-  designer:
-    output: true
-    permalink: /designer/:path/
-
 
 navigation:
       - text: Home
