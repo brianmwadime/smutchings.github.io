@@ -78,15 +78,4 @@ meta-description: Passionate about creating a better world for everyone, through
       <p><a href="sustainability.html">Read more</a></p>
     </div>
   </section>
-  <section id="s-footer">
-    <div class="container" id="c-footer">
-      <h3>Fin.</h3>
-      <p id="twitterLink"><a href="https://www.twitter.com/Smutchings" target="_blank">Connect with @Smutchings on Twitter.</a></p>
-      <p id="dribbbleLink"><a href="https://dribbble.com/smutchings" target="_blank">Connect with @Smutchings on Dribbble.</a></p>
-      <p id="instagramLink"><a href="https://www.instagram.com/Smutchings/" target="_blank">Connect with @Smutchings on Instagram.</a></p>
-      <p id="linkedinLink"><a href="https://www.linkedin.com/in/Smutchings/" target="_blank">Connect with @Smutchings on LinkedIn.</a></p>
-      <p id="githubLink"><a href="https://github.com/Smutchings" target="_blank">Connect with @Smutchings on GitHub.</a></p>
-      <p>My thanks to Jez, Alex, Cassius, David, and Finlay for their support during the creation of this new site.</p>
-      <p>All content &copy; Sam Hutchings, unless stated otherwise.</p>
-    </div>
-  </section>
+  
