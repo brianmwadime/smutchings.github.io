@@ -82,10 +82,11 @@ p {
 
 a:active {
   color: blue;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .container {
