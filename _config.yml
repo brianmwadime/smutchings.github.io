@@ -32,13 +32,13 @@ collections:
 navigation:
       - text: Home
         title: Back to home page
-        url: /index.html
+        url: /index
       - text: Projects
         title: An introduction to the project
-        url: /projects.html
+        url: /projects
       - text: Writing
         title: My writing and thoughts
-        url: /writing.html
+        url: /writing
       - text: Contact Me
         title: Contact me
-        url: /contact.html
+        url: /contact
