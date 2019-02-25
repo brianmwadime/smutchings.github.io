@@ -78,4 +78,3 @@ meta-description: Passionate about creating a better world for everyone, through
       <p><a href="sustainability.html">Read more</a></p>
     </div>
   </section>
-  

@@ -1,12 +1,12 @@
 ---
 layout: index
-title: Augmented Reality - Sam Hutchings - Artist and Designer
+title: Architecture - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
 <section id="s-hello">
   <div class="container" id="c-hello">
-    <h1>Hello!</h1>
+    <h1>Architecture</h1>
     <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
   </div>
 </section>
