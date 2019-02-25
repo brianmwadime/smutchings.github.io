@@ -1,6 +1,6 @@
 <nav>
     <ul class="nav">
-        {% assign url = page.url|remove:'.html' %}
+        {% assign url = page.url|remove:'/' %}
         {% for link in site.navigation %}
             {% assign state = '' %}
             {% if page.url == link.url %}
