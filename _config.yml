@@ -1,0 +1,44 @@
+# Site settings
+title: Sam Hutchings - Experience and Product Designer
+email: hi@samhutchings.co
+description: > # this means to ignore newlines until "baseurl:"
+  Experience and Product Designer. Passionate about creating a better world for everyone, through making great products.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: smutchings
+github_username:  smutchings
+permalink: /:title/
+timezone: Europe/London
+
+gems:
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 7
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  designer:
+    output: true
+    permalink: /designer/:path/
+
+
+navigation:
+      - text: Home
+        title: Back to home page
+        url: /index.html
+      - text: Projects
+        title: An introduction to the project
+        url: /projects.html
+      - text: Writing
+        title: My writing and thoughts
+        url: /writing.html
+      - text: Contact Me
+        title: Contact me
+        url: /contact.html
