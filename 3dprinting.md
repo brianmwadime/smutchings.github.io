@@ -7,19 +7,20 @@ meta-description: Passionate about creating a better world for everyone, through
 <section id="s-hello">
   <div class="container" id="c-hello">
     <h1>3D Printing</h1>
-    <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
+    <h2>The future of rapid prototyping and bespoke construction.</h2>
   </div>
 </section>
-<div class="container" id="c-nav">
-  <nav>
-    <ul>
-      <li><a href="http://www.samhutchings.co" class="active">Home</a></li>
-      <li><a href="/projects">Projects</a></li>
-      <li><a href="/writing">Writing</a></li>
-      <li><a href="/contact">Contact Me</a></li>
-    </ul>
-  </nav>
-</div>
+<section>
+  <div class="container" id="c-nav">
+    <nav>
+      <ul>
+        <li><a href="http://www.samhutchings.co" class="active">Home</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/writing">Writing</a></li>
+        <li><a href="/contact">Contact Me</a></li>
+      </ul>
+    </nav>
+  </div>
 </section>
 <section id="s-designingTheFuture">
   <div class="container" id="c-designingTheFuture">
@@ -31,7 +32,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <p>- Sam</p>
   </div>
 </section>
-<!-- <section id="s-relatedProjects">
+<section id="s-relatedProjects">
   <div class="container" id="c-relatedProjects">
     <h3>Related Projects</h3>
   </div>
@@ -40,4 +41,4 @@ meta-description: Passionate about creating a better world for everyone, through
   <div class="container" id="c-relatedWriting">
     <h3>Related Writing</h3>
   </div>
-</section> -->
+</section>
