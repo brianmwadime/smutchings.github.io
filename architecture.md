@@ -7,7 +7,7 @@ meta-description: Passionate about creating a better world for everyone, through
 <section id="s-hello">
   <div class="container" id="c-hello">
     <h1>Architecture</h1>
-    <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
+    <h2>The future of building and living in the UK and beyond.</h2>
   </div>
 </section>
 <section id="s-nav">

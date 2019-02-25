@@ -7,7 +7,7 @@ meta-description: Passionate about creating a better world for everyone, through
 <section id="s-hello">
   <div class="container" id="c-hello">
     <h1>Contact</h1>
-    <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
+    <h2>Get in touch with me.</h2>
   </div>
 </section>
 <section id="s-nav">
