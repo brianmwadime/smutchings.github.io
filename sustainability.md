@@ -10,7 +10,7 @@ meta-description: Passionate about creating a better world for everyone, through
       <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
     </div>
   </section>
-  <section>
+  <section id="s-nav">
     <div class="container" id="c-nav">
       <nav>
         <ul>

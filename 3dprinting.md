@@ -10,7 +10,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <h2>The future of rapid prototyping and bespoke construction.</h2>
   </div>
 </section>
-<section>
+<section id="s-nav">
   <div class="container" id="c-nav">
     <nav>
       <ul>
