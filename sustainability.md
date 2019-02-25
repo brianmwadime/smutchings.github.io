@@ -13,12 +13,7 @@ meta-description: Passionate about creating a better world for everyone, through
   <section id="s-nav">
     <div class="container" id="c-nav">
       <nav>
-        <ul>
-          <li><a href="http://www.samhutchings.co" class="active">Home</a></li>
-          <li><a href="/projects">Projects</a></li>
-          <li><a href="/writing">Writing</a></li>
-          <li><a href="/contact">Contact Me</a></li>
-        </ul>
+        {% include nav.html %}
       </nav>
     </div>
   </section>
