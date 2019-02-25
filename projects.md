@@ -27,13 +27,3 @@ meta-description: Passionate about creating a better world for everyone, through
     <p>- Sam</p>
   </div>
 </section>
-<!-- <section id="s-relatedProjects">
-  <div class="container" id="c-relatedProjects">
-    <h3>Related Projects</h3>
-  </div>
-</section>
-<section id="s-relatedWwriting">
-  <div class="container" id="c-relatedWriting">
-    <h3>Related Writing</h3>
-  </div>
-</section> -->
