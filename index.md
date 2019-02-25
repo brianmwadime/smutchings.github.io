@@ -1,15 +1,25 @@
-<html>
-<head>
-  <title>Sam Hutchings - Designer.</title>
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-</head>
-<body>
+---
+layout: default
+title: Sam Hutchings - Artist and Designer
+meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
+---
+
   <section id="s-hello">
     <div class="container" id="c-hello">
       <h1>Hello!</h1>
       <h2>My name is Sam Hutchings.<br />I'm a Designer and Artist.</h2>
+    </div>
+  </section>
+  <section id="s-nav">
+    <div class="container" id="c-nav">
+      <nav>
+        <ul>
+          <li><a href="http://www.samhutchings.co" class="active">Home</a></li>
+          <li><a href="/projects">Projects</a></li>
+          <li><a href="/writing">Writing</a></li>
+          <li><a href="/contact">Contact Me</a></li>
+        </ul>
+      </nav>
     </div>
   </section>
   <section id="s-designingTheFuture">
@@ -26,7 +36,7 @@
     <div class="container containerBackground" id="c-3dPrinting">
       <h3>3D Printing</h3>
       <p>As I explore 3D Printing, I understand that this technology represents a paradigm shift in how products can be designed, made, and distributed. With capable 3D printers now available for under $200, it won't be long before we're able to print things on-demand in our houses, rather than go to the shops for them.</p>
-      <!-- <p><a href="3dprinting.html">Read more</a></p> -->
+      <p><a href="3dprinting.html">Read more</a></p>
     </div>
   </section>
   <section id="s-augmentedReality">
@@ -34,7 +44,7 @@
       <h3>Augmented Reality</h3>
       <p>Since 2007, we've spent more and more time looking at our smartphones instead of at the world around us. We've become digital natives, and feel more comfortable in the warming glow of Twitter or Angry Birds than in the light of day.</p>
       <p>Augmented Reality, though in its infancy, is likely to become the new way in which we interact with computers and how computers interact with us. Rather than replacing the real world, our devices will augment, adding relevant information and interaction to the very world we live in.</p>
-      <!-- <p><a href="augmentedreality.html">Read more</a></p> -->
+      <p><a href="augmentedreality.html">Read more</a></p>
     </div>
   </section>
   <section id="s-architecture">
@@ -42,7 +52,7 @@
       <h3>Architecture</h3>
       <p>The UK faces a continuing housing crisis, with a market that is not aligned with the buying and living habits of modern day Britons.</p>
       <p>By understanding the reasons behind the UK's current housing problem, I'm working to design an alternative housing solution. One that allows for modularity and personality, as well as one that uses less space to deliver more.</p>
-      <!-- <p><a href="architecture.html">Read more</a></p> -->
+      <p><a href="architecture.html">Read more</a></p>
     </div>
   </section>
   <section id="s-communication">
@@ -50,7 +60,7 @@
       <h3>Communication</h3>
       <p>When working on the cutting edge, communication is key. The ability to articulate what you are doing and the impact it can have on an individual or a population helps drive adoption of new techniques and technologies.</p>
       <p></p>
-      <!-- <p><a href="communication.html">Read more</a></p> -->
+      <p><a href="communication.html">Read more</a></p>
     </div>
   </section>
   <section id="s-art">
@@ -58,14 +68,14 @@
       <h3>Art</h3>
       <p>A close cousin of Design, I see art as a creative pursuit that is meant to raise questions rather than answer them. The appearance of art in my practice is a new one, driven by the study of my Extended Diploma in Art and Design.</p>
       <p>My Art looks at the connectivity of everything, the ever-advancing state of technology, and the political world we live in.</p>
-      <!-- <p><a href="art.html">Read more</a></p> -->
+      <p><a href="art.html">Read more</a></p>
     </div>
   </section>
   <section id="s-sustainability">
     <div class="container containerBackground" id="c-sustainability">
       <h3>Sustainability</h3>
       <P>We can only continue designing and creating great things through the use of sustainable technologies, processes and materials. To do so in any other way is to be irresponsible.</p>
-      <!-- <p><a href="sustainability.html">Read more</a></p> -->
+      <p><a href="sustainability.html">Read more</a></p>
     </div>
   </section>
   <section id="s-footer">
@@ -80,5 +90,3 @@
       <p>All content &copy; Sam Hutchings, unless stated otherwise.</p>
     </div>
   </section>
-</body>
-</html>

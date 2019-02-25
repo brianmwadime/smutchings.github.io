@@ -15,10 +15,41 @@ section {
   justify-content: center;
 }
 
-#s-mainContent {
-  min-height: 100vh;
-  height: auto;
-  background-color: inherit;
+nav {
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+  width: 25%;
+  font-size: 2em;
+}
+
+nav li a {
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+  text-decoration: underline;
+}
+
+.active {
+  background-image: URL(../img/Scan_1.jpeg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: rgba(0,0,0,0);
 }
 
 h1 {
@@ -121,6 +152,16 @@ a:hover {
 #s-art {
   background-image: url(../img/Scan_1.jpeg);
   background-size: cover;
+}
+
+#s-mainContent {
+  min-height: 100vh;
+  height: auto;
+  background-color: inherit;
+}
+
+#s-nav {
+  height: auto;
 }
 
 #twitterLink a {
