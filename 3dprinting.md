@@ -6,19 +6,6 @@ h2: The future of rapid prototyping and bespoke construction.
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
-<section id="s-topper">
-  <div class="container" id="c-topper">
-    <h1></h1>
-    <h2></h2>
-  </div>
-</section>
-<section id="s-nav">
-  <div class="container" id="c-nav">
-    <nav>
-      {% include nav.html %}
-    </nav>
-  </div>
-</section>
 <section class="mainContent">
   <div class="container">
     <h3>Designing the Future</h3>
