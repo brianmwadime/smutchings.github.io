@@ -44,7 +44,7 @@ meta-description: Passionate about creating a better world for everyone, through
   <div class="container" id="c-relatedProjects">
     <h3>Related Projects</h3>
     <ul>
-      {% for post in site.posts %}
+      {% for post in site.projects %}
        {% if post.tags contains '3dprinting' %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
