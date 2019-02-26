@@ -4,8 +4,8 @@ title: 3D Printing - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
-<section id="s-hello">
-  <div class="container" id="c-hello">
+<section id="s-topper">
+  <div class="container" id="c-topper">
     <h1>3D Printing</h1>
     <h2>The future of rapid prototyping and bespoke construction.</h2>
   </div>
@@ -17,8 +17,8 @@ meta-description: Passionate about creating a better world for everyone, through
     </nav>
   </div>
 </section>
- <section class="page-content">
-    <div class="container" id="c-designingTheFuture">
+ <section>
+    <div class="container">
       <h3>Designing the Future</h3>
       <p>You'll see from my work and interests below that Design doesn't have to be confined to one space, and neither does a practitioner.</p>
       <p>We stand at the frontier of developing technologies and techniques that will forever change they way we design and the way we create.</p>

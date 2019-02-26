@@ -106,17 +106,17 @@ a:hover {
   border-radius: 0px 0px 15px 0px;
 }
 
-#s-hello {
+#s-topper {
   height: 100vh;
   background-color: #111111;
 }
 
-#s-hello h2 {
+#s-topper h2 {
   color: #FFFFFF;
   text-align: center;
 }
 
-#c-hello h1 {
+#c-topper h1 {
   background-image: URL(../img/Scan_1.jpeg);
   background-clip: text;
   -webkit-background-clip: text;
