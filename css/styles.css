@@ -17,12 +17,6 @@ section {
   justify-content: center;
 }
 
-section .page-content {
-  height: 100%;
-  background-color: white;
-  min-height: 100vh;
-}
-
 nav {
   width: 100%;
 }
