@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: Barcelona Panots
 tags: [3dprinting]
 ---
