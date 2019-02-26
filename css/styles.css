@@ -15,6 +15,11 @@ section {
   justify-content: center;
 }
 
+section .page-content {
+  height: 100%;
+  min-height: 100vh;
+}
+
 nav {
   width: 100%;
 }
