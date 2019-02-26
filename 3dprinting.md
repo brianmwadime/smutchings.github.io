@@ -17,7 +17,7 @@ meta-description: Passionate about creating a better world for everyone, through
     </nav>
   </div>
 </section>
-<section>
+<section class="mainContent">
   <div class="container">
     <h3>Designing the Future</h3>
     <p>You'll see from my work and interests below that Design doesn't have to be confined to one space, and neither does a practitioner.</p>

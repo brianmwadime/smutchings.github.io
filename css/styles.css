@@ -17,6 +17,11 @@ section {
   justify-content: center;
 }
 
+.mainContent {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 nav {
   width: 100%;
 }
