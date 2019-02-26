@@ -16,7 +16,8 @@ meta-description: Passionate about creating a better world for everyone, through
       {% include nav.html %}
     </nav>
   </div>
-</section>\  <section id="s-designingTheFuture">
+</section>
+ <section id="s-designingTheFuture">
     <div class="container" id="c-designingTheFuture">
       <h3>Designing the Future</h3>
       <p>You'll see from my work and interests below that Design doesn't have to be confined to one space, and neither does a practitioner.</p>
