@@ -49,6 +49,7 @@ meta-description: Passionate about creating a better world for everyone, through
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>

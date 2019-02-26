@@ -42,7 +42,6 @@ nav li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 nav li a:hover {
   text-decoration: underline;
 }
