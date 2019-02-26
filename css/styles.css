@@ -168,6 +168,7 @@ a:hover {
 
 #s-nav {
   height: auto;
+  max-height: 25vh;
 }
 
 #twitterLink a {
