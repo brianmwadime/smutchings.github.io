@@ -4,8 +4,8 @@ title: Writing - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
-<section id="s-hello">
-  <div class="container" id="c-hello">
+<section id="s-topper">
+  <div class="container" id="c-topper">
     <h1>Writing</h1>
     <h2>My writing and ideas on Art and Design.</h2>
   </div>

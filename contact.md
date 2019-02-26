@@ -4,8 +4,8 @@ title: Contact - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
-<section id="s-hello">
-  <div class="container" id="c-hello">
+<section id="s-topper">
+  <div class="container" id="c-topper">
     <h1>Contact</h1>
     <h2>Get in touch with me.</h2>
   </div>
