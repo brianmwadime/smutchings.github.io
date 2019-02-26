@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Augmented Reality - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---

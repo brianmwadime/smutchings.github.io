@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: 3D Printing - Sam Hutchings - Artist and Designer
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
