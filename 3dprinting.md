@@ -1,13 +1,15 @@
 ---
 layout: page
 title: 3D Printing - Sam Hutchings - Artist and Designer
+h1: 3D Printing
+h2: The future of rapid prototyping and bespoke construction.
 meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
 ---
 
 <section id="s-topper">
   <div class="container" id="c-topper">
-    <h1>3D Printing</h1>
-    <h2>The future of rapid prototyping and bespoke construction.</h2>
+    <h1></h1>
+    <h2></h2>
   </div>
 </section>
 <section id="s-nav">
