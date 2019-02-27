@@ -1,22 +1,10 @@
 ---
 layout: page
 title: Architecture - Sam Hutchings - Artist and Designer
-meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
+h1: Architecture
+h2: The future of building and living in the UK and beyond.
 ---
 
-<section id="s-topper">
-  <div class="container" id="c-topper">
-    <h1>Architecture</h1>
-    <h2>The future of building and living in the UK and beyond.</h2>
-  </div>
-</section>
-<section id="s-nav">
-  <div class="container" id="c-nav">
-    <nav>
-      {% include nav.html %}
-    </nav>
-  </div>
-</section>
 <section id="s-designingTheFuture">
   <div class="container" id="c-designingTheFuture">
     <h3>Designing the Future</h3>

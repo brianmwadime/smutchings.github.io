@@ -1,22 +1,10 @@
 ---
 layout: page
 title: Augmented Reality - Sam Hutchings - Artist and Designer
-meta-description: Passionate about creating a better world for everyone, through making great experiences. Open to opportunities.
+h1: AR
+h2: The future of Human Computer Interaction.
 ---
 
-<section id="s-topper">
-  <div class="container" id="c-topper">
-    <h1>AR</h1>
-    <h2>The future of Human-Computer Interaction.</h2>
-  </div>
-</section>
-<section id="s-nav">
-  <div class="container" id="c-nav">
-    <nav>
-      {% include nav.html %}
-    </nav>
-  </div>
-</section>
 <section id="s-designingTheFuture">
   <div class="container" id="c-designingTheFuture">
     <h3>Designing the Future</h3>
