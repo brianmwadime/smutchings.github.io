@@ -16,7 +16,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <p>I see 3D printing as the future of physical prototyping. As the devices get cheaper, faster, and higher resolution, the results from 3D printing will be undiscernable from those of traditional manufacturing methods. And the speed at which they can be delivered will greatly surpass traditional techniques.</p>
   </div>
 </section>
-<section id="s-relatedProjects">
+<!-- <section id="s-relatedProjects">
   <div class="container" id="c-relatedProjects">
     <h3>Related Projects</h3>
     <ul>
@@ -33,5 +33,5 @@ meta-description: Passionate about creating a better world for everyone, through
 <section id="s-relatedWriting">
   <div class="container" id="c-relatedWriting">
     <h3>Related Writing</h3>
-  </div>
+  </div> -->
 </section>

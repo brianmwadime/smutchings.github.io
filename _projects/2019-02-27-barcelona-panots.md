@@ -4,7 +4,7 @@ title: Barcelona Panots
 tags: [3dprinting]
 ---
 
-## The Numbers Behind Walk to the Moon
+## Putting the City into the Tile
 
 Before I designed an app for it, I needed to ask “Can someone even walk to the moon?”
 
