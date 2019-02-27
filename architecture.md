@@ -32,7 +32,7 @@ meta-description: Passionate about creating a better world for everyone, through
     <h3>Related Projects</h3>
   </div>
 </section>
-<section id="s-relatedWwriting">
+<section id="s-relatedWriting">
   <div class="container" id="c-relatedWriting">
     <h3>Related Writing</h3>
   </div>

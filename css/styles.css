@@ -172,6 +172,16 @@ a:hover {
 
 #s-relatedProjects {
   background-color: #111111;
+  min-height: 50vh;
+  height: auto;
+  background-color: inherit;
+}
+
+#s-relatedWriting {
+  background-color: #111111;
+  min-height: 50vh;
+  height: auto;
+  background-color: inherit;
 }
 
 #s-nav {
