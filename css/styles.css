@@ -170,6 +170,10 @@ a:hover {
   background-color: inherit;
 }
 
+#relatedProjects {
+  background-color: #111111;
+}
+
 #s-nav {
   height: auto;
   max-height: 25vh;
