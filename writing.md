@@ -7,6 +7,7 @@ h2: My writing and ideas on Art and Design.
 
 <section id="s-designingTheFuture">
   <div class="container" id="c-designingTheFuture">
+    <h3>Coming Soon</h3>
     <ul>
       {% for post in site.posts %}
         <li>
