@@ -31,7 +31,7 @@ collections:
 navigation:
       - text: Home
         title: Back to home page
-        url: http://www.samhutchings.co
+        url: /
       - text: Projects
         title: An introduction to the project
         url: /projects
