@@ -39,28 +39,28 @@ The idea of a Z-shaped house occurred early on in the ideation phase. It was som
 Some of these models stood independently, whilst others were designed to interlock and coexist. Some were for one or two-storey buildings, whilst others looked more like skyscrapers. A selection of these ideas can be seen in the following figures.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3481.jpg">
   <figcaption>Styrofoam geometric models from an early sketching session.</figcaption>
 </figure>
 
 Once these early physical sketches were complete, I moved on to creating drawn sketches of different ideas that stemmed from the physical play. Some of these were directly influenced by the forms I created from styrofoam, otherwise were more tangential.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3486.jpg">
   <figcaption>A design inspired by the geometric shapes, but with a twist.</figcaption>
 </figure>
 
 As I returned to the parameters, one shape of house stood out to me as providing the best solutions to each of the problems, whilst also going above and beyond the call of duty in offering more. This design is what is now known as the Z-House. It's combination of offset cuboidal shapes allow for the provision of two outdoor spaces in the same horizontal space of one, whilst also efficiently using the plot area to provide living space.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3520.jpg">
   <figcaption>A colourised sketch of the Z-House.</figcaption>
 </figure>
 
 I expanded on this model by creating a series of floor plans, exploring how big a Z-House would have to be to create a variety of floor plans. Once was designed to have an internal space of 80 square metres, as defined by the parameters of the project. Another delivered a 125 square metre Z-House. And the last explored how big a Z-House would be if build to fully-occupy the space of the UK's average house plot. This versions became known as Z-House 80, Z-House 125 and Z-House 420 respectively.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3554.png">
   <figcaption>Floor plan of what would become known as Z-House 80.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ I expanded on this model by creating a series of floor plans, exploring how big 
 Once I was confident in my idea and sketches, I moved to the physical prototyping stage. I create five 1:100 scale models of the Z-House 80. This number of models allowed for the building to be tested in a variety of contexts, whilst also allowing varieties of finish to be applied to the material, through the application of vinyl stickers, to see how they would look built from a range of differing materials.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3557.jpg">
   <figcaption>A 1:100 scale model of a Z-House 80 in Red Brick and Aluminium.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ The five models could be separated into 5 top and 5 bottoms, creating 25 possibl
 Once the 1:100 scale models had proven their popularity with those I had spoken to, and inspired some creative thinking and discussion about housing, it was time to step up the prototyping and create a single 1:10 model of the building, complete with floor plan, to better understand the size and the features of the building.
 
 <figure>
-  <img src="">
+  <img src="/img/z-house/IMG_3683.jpg">
   <figcaption></figcaption>
 </figure>
 
