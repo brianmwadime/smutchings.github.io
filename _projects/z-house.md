@@ -7,21 +7,9 @@ description: The next generation of housing requires a ground-up rethink of how 
 
 # Z-House
 
----
-layout: post
-title: Introducing Z-House
-subtitle: Housing. The Next Generation.
-description: The UK has a housing problem. Houses are too small and too expensive for the next generation and their families. Z-House aims to solve that problem by applying the design process to the problem.
-meta-description: Housing. The Next Generation. Z-House is a new type of house for a new generation of home owners.
-permalink: /designer/z-house
-button-text: View Z-House
-img: /img/z-houseHero.jpg
-video: /img/z-houseHero.m4v
----
-
 The design of the Z-House is somewhat of a selfish endeavour. As a "Millennial", I've long lived in a world where the typical cost of a house is way beyond the affordable limit for me. And as I've seen the housing market continue to get pricier and pricier, and my friends around me continue to be as unable to afford a house as I am, I was driven to try and design a solution that would give comfortable and affordable modern housing to a new generation of home owner.
 
-### Empathise
+## Empathise
 
 Whilst I had a lot of anecdotal evidence of the problem the UK is facing, to truly empathise and understand the problem, I needed to turn to expert sources and research to truly understand the scale and the underlying causes of the problem the UK's housing market is facing. With this, I undertook extensive research into the current state of the UK housing market, looking at the average cost, size of house, size of plot, etc, as well as the labour market in the UK, hoping to understand the average salary and how that related to the cost of housing.
 
@@ -29,7 +17,7 @@ It was from this research that I found that the average UK house had a floor are
 
 With all of this information, I was able to define a list of parameters against which my design ideas could be prototyped and tested.
 
-### Define
+## Define
 
 Success of the Z-House project is defined by 8 design parameters. Seven of these parameters are objective and quantitative, and can be easily checked and derived from the design of the building. The eighth is more subjective and qualitative.
 
@@ -44,7 +32,7 @@ Success of the Z-House project is defined by 8 design parameters. Seven of these
 
 These parameters work to define the eventual solution as well as work as constraints during the design process.
 
-### Ideate
+## Ideate
 
 The idea of a Z-shaped house occurred early on in the ideation phase. It was something I had looked at and done some experimentation with before the project even officially began, as I played with different ideas for the form and orientation of different housing solutions based on geometric shapes. An early stage in this was the creation of styrofoam models, out of cubes and cuboids, that were held together with hot glue and covered in coloured tape to identify different areas of them.
 
@@ -76,7 +64,7 @@ I expanded on this model by creating a series of floor plans, exploring how big 
   <figcaption>Floor plan of what would become known as Z-House 80.</figcaption>
 </figure>
 
-### Prototype
+## Prototype
 
 Once I was confident in my idea and sketches, I moved to the physical prototyping stage. I create five 1:100 scale models of the Z-House 80. This number of models allowed for the building to be tested in a variety of contexts, whilst also allowing varieties of finish to be applied to the material, through the application of vinyl stickers, to see how they would look built from a range of differing materials.
 
@@ -94,11 +82,11 @@ Once the 1:100 scale models had proven their popularity with those I had spoken 
   <figcaption></figcaption>
 </figure>
 
-### Test
+## Test
 
 As it stands, the Z-House has yet to be tested in a final iteration. The investment required to build and test a full-scale Z-House are currently beyond by means. But, the next steps and iteration on this project are designed to overcome this and test the full viability of the Z-House for construction and general availability to the public as a housing solution.
 
-### Next Steps and Iterations
+## Next Steps and Iterations
 
 Now that the Z-House is in model form, it is easier to envision the next steps that need to be taken to see if it will ever become a reality. At the time of writing (July 2018), these steps are:
 
