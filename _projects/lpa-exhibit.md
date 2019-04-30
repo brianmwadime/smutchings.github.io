@@ -1,7 +1,7 @@
 ---
-name: Project C
-tools: [Android]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Leas Pavilion Archive Exhibition
+tools: [Illustrator, Photoshop, Print]
+image: https://www.samhutchings.co/img/LPA-exhibit.jpeg
+description: Showcasing over 100 years of history through the production and setup of a local heritage exhibition in Folkestone.
+external_url: http://www.leaspavilionarchive.org.uk
 ---
