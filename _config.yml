@@ -1,7 +1,7 @@
 # Site settings
-title: Sam Hutchings | Artist and Designer
+title: Sam Hutchings
 description: >- # this means to ignore newlines until "baseurl:"
-  Holistic Designer and Artist on a mission to create a better world. Believer in Design Thinking.
+  Designer and Artist on a mission to create a better world.
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://wwww.samhutchings.co" # the base hostname & protocol for your site, e.g. http://example.com
 repository: YoussefRaafatNasry/portfolYOU
