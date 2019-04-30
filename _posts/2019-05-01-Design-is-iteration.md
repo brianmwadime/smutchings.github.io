@@ -13,8 +13,8 @@ Here you can see the evolution of two pieces for the Leas Pavilion Archive Exhib
 In these two images, you can see the evolution of the flyer from its original garish design, inspired slightly by programmes and flyers of the 1960s, to a more modern representation to be used on Facebook and other social media.
 
 {%- capture carousel_images -%}
-https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/0.jpeg
-https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/0.png
+http://www.samhutchings.co/img/2019-05-01-Design-is-iteration/0.jpeg
+http://www.samhutchings.co/img/2019-05-01-Design-is-iteration/0.png
 {%- endcapture -%}
 
 {% include carousel.html %}
@@ -22,9 +22,9 @@ https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/0.png
 In these three images, you can see the evolution the artboards for the exhibition undertook. From a plain background with way too much white space, to an appealing Pastel Terracotta background with grid-aligned elements creating a coherent and enjoyable experience. 
 
 {%- capture carousel_images -%}
-https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1.png
-https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1-1.jpeg
-https://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1-2.jpeg
+http://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1.png
+http://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1-1.jpeg
+http://www.samhutchings.co/img/2019-05-01-Design-is-iteration/1-2.jpeg
 {%- endcapture -%}
 
 {% include carousel.html %}
