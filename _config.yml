@@ -1,43 +1,54 @@
 # Site settings
-title: Sam Hutchings - Designer and Artist.
-email: hi@samhutchings.co
-description: > # this means to ignore newlines until "baseurl:"
-  Experience and Product Designer. Passionate about creating a better world for everyone, through making great products.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  www.samhutchings.co # the base hostname & protocol for your site
-twitter_username: smutchings
-github_username:  smutchings
-permalink: /:title/
-timezone: Europe/London
+title: Sam Hutchings | Artist and Designer
+description: >- # this means to ignore newlines until "baseurl:"
+  Holistic Designer and Artist on a mission to create a better world. Believer in Design Thinking.
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://wwww.samhutchings.co" # the base hostname & protocol for your site, e.g. http://example.com
+repository: YoussefRaafatNasry/portfolYOU
 
-gems:
-  - jekyll-redirect-from
 
 # Build settings
+remote_theme: YoussefRaafatNasry/portfolYOU
 markdown: kramdown
+# plugins:
+# - jekyll-feed
 
-highlighter: rouge
 
-# Pagination
-paginate: 7
-paginate_path: "/writing/page:num/"
+# Author Info
+author:
+  name     : Sam Hutchings
+  image    : https://pbs.twimg.com/profile_images/1095437940442972160/ykDY_uZC_400x400.jpg
+  email    : hi@samhutchings.co
+  github   : Smutchings
+  twitter  : Smutchings
+  linkedin : Smutchings
+  # facebook : username
 
+
+# Collections
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:name
 
 
-navigation:
-      - text: Home
-        title: Back to home page
-        url: /
-      - text: Projects
-        title: An introduction to the project
-        url: /projects
-      - text: Writing
-        title: My writing and thoughts
-        url: /writing
-      - text: Contact Me
-        title: Contact me
-        url: /contact
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Posts default Permalink
+permalink: articles/:title
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
