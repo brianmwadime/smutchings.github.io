@@ -1,7 +1,7 @@
 ---
 name: Magic The Gathering Commander Overlay
 tools: [HTML, CSS, Sketch, Firebase]
-image: img/MTGCO/hero.png
+image: /img/MTGCO/hero.png
 description: An interactive streaming overlay for Magic The Gathering.
 ---
 
@@ -11,9 +11,9 @@ At Elite Gaming, we started streaming Magic: The Gathering as a way to share our
 ## The Design
 The design of the overlay went through multiple iterations before coming to the design that is currently used. Initially, the design was highly influenced by the design language of Magic: The Gathering, but this evolved to something that was more neutral in design, so that it could be used for multiple game formats, but also so that we don't encounter issues with intellectual property.
 
-![The original design, inspired by the design language of Magic: The Gathering](img/MTGCO/gameDayOverlay.png)
+![The original design, inspired by the design language of Magic: The Gathering](/img/MTGCO/gameDayOverlay.png)
 
-![The updated design, using a four-colour interface inspired by video games](img/MTGCO/newOverlay.png)
+![The updated design, using a four-colour interface inspired by video games](/img/MTGCO/newOverlay.png)
 
 ## The Technology
 The overlay is created in HTML and CSS with a smattering of JavaScript. This is hosted on GitHub Pages, and the overlay is loaded into the streaming software (OBS) with a custom CSS property to make the background transparent.
