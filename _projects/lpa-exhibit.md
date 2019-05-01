@@ -1,5 +1,5 @@
 ---
-name: Leas Pavilion Archive Exhibition
+name: Leas Pavilion Archive Exhibition [External]
 tools: [Illustrator, Photoshop, Print]
 image: /img/LPA-exhibit.jpeg
 description: Showcasing over 100 years of history through the production and setup of a local heritage exhibition in Folkestone.
