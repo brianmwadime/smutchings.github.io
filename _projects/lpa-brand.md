@@ -43,7 +43,7 @@ Inspired by the font previously used on the gate to the Leas Club, which inhabit
 
 For the day-to-day font, we decided to go with Open Sans, mostly because of its legibility and familiarity, with it being used already in many websites and applications. We did look at other fonts, but found that they offered little to no benefit whilst losing the familiarity and feel.
 
-![A view of the different font guides for the Leas Pavilion Archive, as provided to the web team](/img/lpa-brand/font-guide.png)
+![A view of the different font guides for the Leas Pavilion Archive, as provided to the web team](/img/lpa-brand/font-guide.jpeg)
 A view of the different font guides for the Leas Pavilion Archive, as provided to the web team
 
 ## Public Reception
