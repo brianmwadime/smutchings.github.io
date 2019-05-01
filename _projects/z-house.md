@@ -39,14 +39,14 @@ The idea of a Z-shaped house occurred early on in the ideation phase. It was som
 Some of these models stood independently, whilst others were designed to interlock and coexist. Some were for one or two-storey buildings, whilst others looked more like skyscrapers. A selection of these ideas can be seen in the following figures.
 
 <figure>
-  <img src="/img/z-house/IMG_3481.jpg">
+  <img src="/img/z-house/IMG_3481.jpeg">
   <figcaption>Styrofoam geometric models from an early sketching session.</figcaption>
 </figure>
 
 Once these early physical sketches were complete, I moved on to creating drawn sketches of different ideas that stemmed from the physical play. Some of these were directly influenced by the forms I created from styrofoam, otherwise were more tangential.
 
 <figure>
-  <img src="/img/z-house/IMG_3486.jpg">
+  <img src="/img/z-house/IMG_3486.jpeg">
   <figcaption>A design inspired by the geometric shapes, but with a twist.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ I expanded on this model by creating a series of floor plans, exploring how big 
 Once I was confident in my idea and sketches, I moved to the physical prototyping stage. I create five 1:100 scale models of the Z-House 80. This number of models allowed for the building to be tested in a variety of contexts, whilst also allowing varieties of finish to be applied to the material, through the application of vinyl stickers, to see how they would look built from a range of differing materials.
 
 <figure>
-  <img src="/img/z-house/IMG_3557.jpg">
+  <img src="/img/z-house/IMG_3557.jpeg">
   <figcaption>A 1:100 scale model of a Z-House 80 in Red Brick and Aluminium.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ The five models could be separated into 5 top and 5 bottoms, creating 25 possibl
 Once the 1:100 scale models had proven their popularity with those I had spoken to, and inspired some creative thinking and discussion about housing, it was time to step up the prototyping and create a single 1:10 model of the building, complete with floor plan, to better understand the size and the features of the building.
 
 <figure>
-  <img src="/img/z-house/IMG_3683.jpg">
+  <img src="/img/z-house/IMG_3683.jpeg">
   <figcaption></figcaption>
 </figure>
 
