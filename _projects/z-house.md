@@ -1,7 +1,7 @@
 ---
 name: Z-House
 tools: [CAD, 3D Printing, Sketch]
-image: http://www.samhutchings.co/img/z-house.png
+image: /img/z-house.png
 description: The next generation of housing requires a ground-up rethink of how our homes are designed and built.
 ---
 
