@@ -20,7 +20,7 @@ The overlay is created in HTML and CSS with a smattering of JavaScript. This is 
 
 On the back end, the database for the system is provided by Google Firebase. Requests from the admin page are sent to the database to update the information, and then this information is updated in real-time on the overlay displays.
 
-![http://www.samhutchings.co/img/MTGCO/admin.jpg](The admin panel running on an iPhone)
+![The admin panel running on an iPhone](http://www.samhutchings.co/img/MTGCO/admin.jpg)
 
 ## The Result
 Magic: The Gathering Commander Overlay has proved a success with both the players and viewers on our streams. It helps them see what's going on in the game, and has helped us with other events through slight adjustments and additions - such as a card display panel.
