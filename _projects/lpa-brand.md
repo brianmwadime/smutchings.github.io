@@ -51,7 +51,9 @@ For the day-to-day font, I decided to go with Open Sans, mostly because of its l
 A view of the different font guides for the Leas Pavilion Archive, as provided to the web team
 
 ## Client Reaction
-The final design of the logo and brand was well received by the client. So much so, they commissioned me to create an exhibition using the same design language.
+The final design of the logo and brand was well received by the client. They were pleased with the look and feel of the branding which reflected the heritage context of the archive but provided an attractive modern colour scheme suitable for the newly developed website and other uses.
+
+The Friends then commissioned me to create an exhibition using the same design language.
 
 ## Public Reception
 Reception of the logo and new branding has been incredibly positive. People love the mix of the Balustrade from the building itself with the new logo incorporating the wordmark. They also like the ability to split the logo into two elements, so that it can be tailored to the use at hand. (This became especially useful and fun when creating badges for the [opening exhibition](/lpa-exhibit).
