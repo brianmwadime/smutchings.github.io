@@ -5,6 +5,8 @@ image: /img/walk-to-the-moon.png
 description: A walking app bringing together a love of space and a community-driven approach.
 ---
 
+# Walk To The Moon
+
 > Space is big. You just won't believe how vastly, hugely, mind- bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.
 
 As Douglas Adams said, Space is inordinately huge. So, how do you design a walking app based around space without making the accomplishments feel futile against the grander background of space?
