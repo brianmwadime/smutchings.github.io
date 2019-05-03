@@ -69,7 +69,7 @@ Initial designs of the app were inspired by the badge system used by the Boy Sco
 
 I later decided that it was better to have the Moon present in this design, with it getting more visible as you get closer to your destination. Whilst not shown in these screenshots, the idea is that the moon would go from phase-to-phase as you approached it. Going from a total eclipse to a full moon.
 
-![A later version showed the Moon as you walked towards it](/img/walk-to-the-moon/moon/png)
+![A later version showed the Moon as you walked towards it](/img/walk-to-the-moon/moon.png)
 
 The community tab had a simple goal of showing the next target (with an image of it in the centre) as well as a progress bar showing the community's progress towards the goal. In this instance, the community are on their way to Mars.
 
