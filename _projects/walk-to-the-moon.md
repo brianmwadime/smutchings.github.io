@@ -1,6 +1,6 @@
 ---
 name: Walk To The Moon
-tools: [Sketch, Prototyping]
+tools: [Sketch, Prototyping, Flinto]
 image: /img/walk-to-the-moon.png
 description: A walking app bringing together a love of space and a community-driven approach.
 ---
@@ -76,6 +76,6 @@ The community tab had a simple goal of showing the next target (with an image of
 ![The community tab, as we walks towards Mars, the first community goal](/img/walk-to-the-moon/community.png)
 
 ## Creating a Prototype
-Once the main screens of the application were designed, it was time to create a prototype. The original prototype was created using PoP, but was then moved to Origami to create a more functional prototype that could run seamlessly on the iPhone. A video of the Origami prototype can be seen below, and the PoP prototype can be viewed online.
+Once the main screens of the application were designed, it was time to create a prototype. The original prototype was created using POP, but was then moved to Flinto to create a more functional prototype. A video of the Flinto prototype can be seen below, and the [POP prototype can be viewed online](https://marvelapp.com/2j99679).
 
 ![Video of the Origami Prototype](/img/walk-to-the-moon/prototype.mov)
