@@ -1,7 +1,7 @@
 ---
 name: EKC Group Laptop Locker Signage
 tools: [Sketch, Vinyl Printing, Fitting]
-image: /img/laptoplockersHero.png
+image: /img/laptoplockersHero.jpg
 description: Improving the accessibility and usability of a new smart laptop locker system at East Kent College in Folkestone, Dover and Broadstairs.
 ---
 

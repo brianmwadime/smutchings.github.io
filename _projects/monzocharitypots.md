@@ -1,7 +1,7 @@
 ---
 name: Monzo Charity Pots
 tools: [Sketch, Prototyping]
-image: /img/monzoHero.png
+image: /img/monzoHero.jpg
 description: How do you make it easy for Monzo customers to donate to charity straight from the Monzo app on iPhone and Android? That's the problem I'm trying to solve.
 ---
 
