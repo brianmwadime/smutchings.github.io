@@ -1,7 +1,7 @@
 ---
 name: Elite Gaming Logo
 tools: [Sketch, Typography, Logo Design, Branding]
-image: /img/eliteGamingHero.png
+image: /img/eliteGamingHero.jpg
 description: Designing a new logo mark for a local board gaming store.
 ---
 
