@@ -1,7 +1,7 @@
 ---
 name: The Edge - Laptop Vinyls
 tools: [Sketch, Vinyl Printing]
-image: /img/wrapHero.png
+image: /img/wrapHero.jpg
 description: Designing, making and fitting a solution to identifying and keeping track of college laptops.
 ---
 
