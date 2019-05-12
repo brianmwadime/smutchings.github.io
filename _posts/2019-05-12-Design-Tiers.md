@@ -27,4 +27,4 @@ What do you think?
 
 ---
 
-Written on the train to work on my iPhone. 
+Written on the train to [work](http://www.elitegaming.win) on my iPhone using [Working Copy](https://workingcopyapp.com).
