@@ -1,6 +1,6 @@
 ---
 title: Is the future of Design tiered?
-tags: [Design, Research, Iteration]
+tags: [Design, Thought]
 style: 
 color: success
 description: With conversations around whether Designers should "x" abound. Is there an argument for a tiered approach to Design?
